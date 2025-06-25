@@ -1,0 +1,6232 @@
+{
+  "-10-QQDO_ME.001.mp4": {
+    "extraversion": 0.8286666666666666,
+    "neuroticism": 0.6900000000000001,
+    "agreeableness": 0.419,
+    "conscientiousness": 0.341,
+    "openness": 0.6883333333333334
+  },
+  "-10-QQDO_ME.002.mp4": {
+    "extraversion": 0.8566666666666668,
+    "neuroticism": 0.64,
+    "agreeableness": 0.66,
+    "conscientiousness": 0.6699999999999999,
+    "openness": 0.6699999999999999
+  },
+  "-10-QQDO_ME.005.mp4": {
+    "extraversion": 0.635,
+    "neuroticism": 0.65,
+    "agreeableness": 0.7150000000000001,
+    "conscientiousness": 0.685,
+    "openness": 0.685
+  },
+  "-6otZ7M-Mro.002.mp4": {
+    "extraversion": 0.6606666666666666,
+    "neuroticism": 0.5706666666666667,
+    "agreeableness": 0.6626666666666666,
+    "conscientiousness": 0.7423333333333333,
+    "openness": 0.8303333333333334
+  },
+  "-8asrRvfJWA.002.mp4": {
+    "extraversion": 0.62,
+    "neuroticism": 0.7133333333333334,
+    "agreeableness": 0.8966666666666666,
+    "conscientiousness": 0.82,
+    "openness": 0.79
+  },
+  "-DOqN0d8KHw.004.mp4": {
+    "extraversion": 0.5433333333333333,
+    "neuroticism": 0.2833333333333334,
+    "agreeableness": 0.4000000000000001,
+    "conscientiousness": 0.38999999999999996,
+    "openness": 0.5266666666666667
+  },
+  "-DOqN0d8KHw.005.mp4": {
+    "extraversion": 0.43599999999999994,
+    "neuroticism": 0.27899999999999997,
+    "agreeableness": 0.5286666666666667,
+    "conscientiousness": 0.488,
+    "openness": 0.6213333333333334
+  },
+  "-Gl98Jn45Fs.004.mp4": {
+    "extraversion": 0.6960000000000001,
+    "neuroticism": 0.6819999999999999,
+    "agreeableness": 0.7293333333333333,
+    "conscientiousness": 0.7316666666666666,
+    "openness": 0.8663333333333334
+  },
+  "-N6QKrbnaDs.000.mp4": {
+    "extraversion": 0.7633333333333333,
+    "neuroticism": 0.16666666666666666,
+    "agreeableness": 0.6866666666666666,
+    "conscientiousness": 0.4366666666666667,
+    "openness": 0.7266666666666667
+  },
+  "-N6QKrbnaDs.001.mp4": {
+    "extraversion": 0.7665,
+    "neuroticism": 0.7562492158108827,
+    "agreeableness": 0.7602462308320104,
+    "conscientiousness": 0.7428755594646452,
+    "openness": 0.7625
+  },
+  "-N6QKrbnaDs.003.mp4": {
+    "extraversion": 0.3333333333333333,
+    "neuroticism": 0.20000000000000004,
+    "agreeableness": 0.5333333333333333,
+    "conscientiousness": 0.3666666666666667,
+    "openness": 0.4166666666666667
+  },
+  "-N6QKrbnaDs.004.mp4": {
+    "extraversion": 0.453,
+    "neuroticism": 0.4165,
+    "agreeableness": 0.363,
+    "conscientiousness": 0.542,
+    "openness": 0.4885
+  },
+  "-NwfYYf5xLo.002.mp4": {
+    "extraversion": 0.65,
+    "neuroticism": 0.59,
+    "agreeableness": 0.6866666666666666,
+    "conscientiousness": 0.6766666666666667,
+    "openness": 0.6766666666666666
+  },
+  "-PWjgx2czwY.001.mp4": {
+    "extraversion": 0.4605333333333334,
+    "neuroticism": 0.5348666666666667,
+    "agreeableness": 0.49639999999999995,
+    "conscientiousness": 0.41109999999999997,
+    "openness": 0.8068333333333334
+  },
+  "-RqxrwIxMvE.004.mp4": {
+    "extraversion": 0.25,
+    "neuroticism": 0.5599999999999999,
+    "agreeableness": 0.2833333333333333,
+    "conscientiousness": 0.38999999999999996,
+    "openness": 0.47666666666666674
+  },
+  "-VTqcHNgH7M.000.mp4": {
+    "extraversion": 0.8266666666666667,
+    "neuroticism": 0.7999999999999999,
+    "agreeableness": 0.7666666666666666,
+    "conscientiousness": 0.7766666666666667,
+    "openness": 0.8166666666666668
+  },
+  "-ZP25UpJeJ4.000.mp4": {
+    "extraversion": 0.42933333333333334,
+    "neuroticism": 0.725,
+    "agreeableness": 0.462,
+    "conscientiousness": 0.46799999999999997,
+    "openness": 0.8586666666666667
+  },
+  "-aU2FN5pkWA.000.mp4": {
+    "extraversion": 0.43333333333333335,
+    "neuroticism": 0.10000000000000002,
+    "agreeableness": 0.4166666666666667,
+    "conscientiousness": 0.39999999999999997,
+    "openness": 0.7333333333333334
+  },
+  "-agCXYgb7pI.002.mp4": {
+    "extraversion": 0.5833333333333334,
+    "neuroticism": 0.5333333333333333,
+    "agreeableness": 0.5833333333333334,
+    "conscientiousness": 0.6266666666666666,
+    "openness": 0.96
+  },
+  "-fqiCqZtgYs.005.mp4": {
+    "extraversion": 0.7466666666666667,
+    "neuroticism": 0.5666666666666667,
+    "agreeableness": 0.69,
+    "conscientiousness": 0.7833333333333332,
+    "openness": 0.6733333333333333
+  },
+  "-m5QCnnp-vI.000.mp4": {
+    "extraversion": 0.30833333333333335,
+    "neuroticism": 0.27499999999999997,
+    "agreeableness": 0.19583333333333333,
+    "conscientiousness": 0.44166666666666665,
+    "openness": 0.28750000000000003
+  },
+  "-rxiLMvlZqM.002.mp4": {
+    "extraversion": 0.671,
+    "neuroticism": 0.3005,
+    "agreeableness": 0.635,
+    "conscientiousness": 0.692,
+    "openness": 0.8955
+  },
+  "04oq2yrBwMg.002.mp4": {
+    "extraversion": 0.844121529212722,
+    "neuroticism": 0.7412698412698413,
+    "agreeableness": 0.8640270206221006,
+    "conscientiousness": 0.8646119010808904,
+    "openness": 0.9156607389128878
+  },
+  "05l5bteT_qA.003.mp4": {
+    "extraversion": 0.295,
+    "neuroticism": 0.6973333333333332,
+    "agreeableness": 0.3333333333333333,
+    "conscientiousness": 0.5606666666666666,
+    "openness": 0.6143333333333333
+  },
+  "0G2o3fik36I.001.mp4": {
+    "extraversion": 0.7333333333333334,
+    "neuroticism": 0.64,
+    "agreeableness": 0.86,
+    "conscientiousness": 0.8266666666666668,
+    "openness": 0.7466666666666667
+  },
+  "0G2o3fik36I.002.mp4": {
+    "extraversion": 0.5166666666666667,
+    "neuroticism": 0.31666666666666665,
+    "agreeableness": 0.4566666666666667,
+    "conscientiousness": 0.3333333333333333,
+    "openness": 0.42
+  },
+  "0ObEtA6Q8vU.001.mp4": {
+    "extraversion": 0.39333333333333337,
+    "neuroticism": 0.3233333333333333,
+    "agreeableness": 0.7366666666666667,
+    "conscientiousness": 0.7666666666666666,
+    "openness": 0.71
+  },
+  "0SS47KwVOQ4.001.mp4": {
+    "extraversion": 0.8666666666666667,
+    "neuroticism": 0.7999999999999999,
+    "agreeableness": 0.8333333333333334,
+    "conscientiousness": 0.7999999999999999,
+    "openness": 0.8666666666666667
+  },
+  "0_xOGmydDN0.005.mp4": {
+    "extraversion": 0.5,
+    "neuroticism": 0.5833333333333334,
+    "agreeableness": 0.5583333333333333,
+    "conscientiousness": 0.5833333333333334,
+    "openness": 0.5833333333333334
+  },
+  "0iQIfGnKflc.000.mp4": {
+    "extraversion": 0.48533333333333334,
+    "neuroticism": 0.608,
+    "agreeableness": 0.40399999999999997,
+    "conscientiousness": 0.5916666666666667,
+    "openness": 0.446
+  },
+  "0uCqd5hZcyI.002.mp4": {
+    "extraversion": 0.5702540678978026,
+    "neuroticism": 0.2735792824074074,
+    "agreeableness": 0.4198918269230769,
+    "conscientiousness": 0.40740740740740744,
+    "openness": 0.48299319729082385
+  },
+  "12lqQE6oPNE.003.mp4": {
+    "extraversion": 0.8812886666666667,
+    "neuroticism": 0.7627083333333333,
+    "agreeableness": 0.784191,
+    "conscientiousness": 0.5666666666666667,
+    "openness": 0.7930919999999999
+  },
+  "19cplBTXyoY.001.mp4": {
+    "extraversion": 0.4751849759099203,
+    "neuroticism": 0.536851142983532,
+    "agreeableness": 0.7507383278122256,
+    "conscientiousness": 0.6714757794359721,
+    "openness": 0.7864474813665963
+  },
+  "19pTUX8KfYM.002.mp4": {
+    "extraversion": 0.33455882352941174,
+    "neuroticism": 0.24333031219754978,
+    "agreeableness": 0.5418182121212122,
+    "conscientiousness": 0.4586274509803922,
+    "openness": 0.4904148245614035
+  },
+  "19pTUX8KfYM.003.mp4": {
+    "extraversion": 0.5666666666666667,
+    "neuroticism": 0.043333333333333335,
+    "agreeableness": 0.16333333333333333,
+    "conscientiousness": 0.4366666666666667,
+    "openness": 0.06999999999999999
+  },
+  "1Kb5d-w3YJ8.001.mp4": {
+    "extraversion": 0.12686666666666666,
+    "neuroticism": 0.13713333333333333,
+    "agreeableness": 0.7412,
+    "conscientiousness": 0.13296666666666665,
+    "openness": 0.8707666666666666
+  },
+  "1Lv72Si4GnY.000.mp4": {
+    "extraversion": 0.7566666666666667,
+    "neuroticism": 0.75,
+    "agreeableness": 0.4266666666666667,
+    "conscientiousness": 0.8133333333333334,
+    "openness": 0.47
+  },
+  "1XqMZQu_pP4.004.mp4": {
+    "extraversion": 0.7547799999999999,
+    "neuroticism": 0.43403753333333334,
+    "agreeableness": 0.9085963333333332,
+    "conscientiousness": 0.9449366666666666,
+    "openness": 0.8841526666666667
+  },
+  "1uC-2TZqplE.003.mp4": {
+    "extraversion": 0.6,
+    "neuroticism": 0.7000000000000001,
+    "agreeableness": 0.7333333333333334,
+    "conscientiousness": 0.8666666666666667,
+    "openness": 0.8333333333333334
+  },
+  "26CMYJn3u6Y.000.mp4": {
+    "extraversion": 0.8596666666666666,
+    "neuroticism": 0.8443333333333333,
+    "agreeableness": 0.8263333333333334,
+    "conscientiousness": 0.8663333333333333,
+    "openness": 0.876
+  },
+  "26CMYJn3u6Y.001.mp4": {
+    "extraversion": 0.43333333333333335,
+    "neuroticism": 0.39999999999999997,
+    "agreeableness": 0.5333333333333333,
+    "conscientiousness": 0.43333333333333335,
+    "openness": 0.6833333333333332
+  },
+  "26ZnknvfdNM.000.mp4": {
+    "extraversion": 0.3894444444444444,
+    "neuroticism": 0.3292222222222222,
+    "agreeableness": 0.47633333333333344,
+    "conscientiousness": 0.30200000000000005,
+    "openness": 0.456
+  },
+  "2AV8m02PjdU.001.mp4": {
+    "extraversion": 0.7247083333333334,
+    "neuroticism": 0.6622857142857143,
+    "agreeableness": 0.8602849831649831,
+    "conscientiousness": 0.930757795779578,
+    "openness": 0.9502857142857143
+  },
+  "2Fgn78rYjPM.004.mp4": {
+    "extraversion": 0.7966666666666667,
+    "neuroticism": 0.3233333333333333,
+    "agreeableness": 0.4066666666666667,
+    "conscientiousness": 0.7366666666666667,
+    "openness": 0.8944333333333333
+  },
+  "2GHz8LYflE0.003.mp4": {
+    "extraversion": 0.9233333333333333,
+    "neuroticism": 0.8746666666666667,
+    "agreeableness": 0.8300000000000001,
+    "conscientiousness": 0.8966666666666666,
+    "openness": 0.9243333333333333
+  },
+  "2HE6cw3HFPk.000.mp4": {
+    "extraversion": 0.6966666666666667,
+    "neuroticism": 0.73,
+    "agreeableness": 0.7533333333333333,
+    "conscientiousness": 0.7733333333333333,
+    "openness": 0.7466666666666667
+  },
+  "2NNYN1ZCJhw.001.mp4": {
+    "extraversion": 0.5832785819408919,
+    "neuroticism": 0.6962714781681401,
+    "agreeableness": 0.517400870657679,
+    "conscientiousness": 0.591062405684,
+    "openness": 0.7674967520999886
+  },
+  "2SzC9dm4Yy4.000.mp4": {
+    "extraversion": 0.85,
+    "neuroticism": 0.5,
+    "agreeableness": 0.8000000000000002,
+    "conscientiousness": 0.6666666666666666,
+    "openness": 0.6166666666666667
+  },
+  "2SzC9dm4Yy4.004.mp4": {
+    "extraversion": 0.7239583333333334,
+    "neuroticism": 0.7869791666666667,
+    "agreeableness": 0.8114583333333334,
+    "conscientiousness": 0.7020833333333334,
+    "openness": 0.8156249999999999
+  },
+  "2SzC9dm4Yy4.005.mp4": {
+    "extraversion": 0.4466666666666666,
+    "neuroticism": 0.9266666666666667,
+    "agreeableness": 0.7599999999999999,
+    "conscientiousness": 0.8866666666666667,
+    "openness": 0.8566666666666666
+  },
+  "2TXrDZgbDHE.000.mp4": {
+    "extraversion": 0.63,
+    "neuroticism": 0.61,
+    "agreeableness": 0.6533333333333333,
+    "conscientiousness": 0.63,
+    "openness": 0.6533333333333333
+  },
+  "2TXrDZgbDHE.004.mp4": {
+    "extraversion": 0.9,
+    "neuroticism": 0.6,
+    "agreeableness": 0.9,
+    "conscientiousness": 0.6333333333333333,
+    "openness": 0.45
+  },
+  "2d6btbaNdfo.000.mp4": {
+    "extraversion": 0.43286093122426417,
+    "neuroticism": 0.6195002383653447,
+    "agreeableness": 0.8254937088491444,
+    "conscientiousness": 0.6654201586989373,
+    "openness": 0.8947117335312013
+  },
+  "2d6btbaNdfo.002.mp4": {
+    "extraversion": 0.5333333333333333,
+    "neuroticism": 0.5333333333333333,
+    "agreeableness": 0.6666666666666666,
+    "conscientiousness": 0.6666666666666666,
+    "openness": 0.5333333333333333
+  },
+  "2f7rLXwzP3s.005.mp4": {
+    "extraversion": 0.39999999999999997,
+    "neuroticism": 0.43333333333333335,
+    "agreeableness": 0.43333333333333335,
+    "conscientiousness": 0.39999999999999997,
+    "openness": 0.5
+  },
+  "2kqPuht5jTg.000.mp4": {
+    "extraversion": 0.89,
+    "neuroticism": 0.5599999999999999,
+    "agreeableness": 0.4566666666666666,
+    "conscientiousness": 0.5499999999999999,
+    "openness": 0.9033333333333333
+  },
+  "2mfmw63l88g.000.mp4": {
+    "extraversion": 0.98,
+    "neuroticism": 0.64,
+    "agreeableness": 0.9633333333333334,
+    "conscientiousness": 0.98,
+    "openness": 0.9533333333333333
+  },
+  "2q8orkMs2Jg.004.mp4": {
+    "extraversion": 0.45,
+    "neuroticism": 0.5733333333333334,
+    "agreeableness": 0.63,
+    "conscientiousness": 0.5499999999999999,
+    "openness": 0.59
+  },
+  "2uAJJH7B5aw.002.mp4": {
+    "extraversion": 0.555,
+    "neuroticism": 0.48266666666666663,
+    "agreeableness": 0.5383333333333333,
+    "conscientiousness": 0.46866666666666673,
+    "openness": 0.6766666666666667
+  },
+  "300gK3CnzW0.003.mp4": {
+    "extraversion": 0.7991666666666667,
+    "neuroticism": 0.5361333333333334,
+    "agreeableness": 0.8290666666666665,
+    "conscientiousness": 0.7418666666666667,
+    "openness": 0.9695
+  },
+  "36sZ__mv_KY.000.mp4": {
+    "extraversion": 0.3316666666666666,
+    "neuroticism": 0.37777777777777777,
+    "agreeableness": 0.22999999999999998,
+    "conscientiousness": 0.7766666666666667,
+    "openness": 0.5444444444444445
+  },
+  "383HhOtOBwg.005.mp4": {
+    "extraversion": 0.4256666666666667,
+    "neuroticism": 0.644,
+    "agreeableness": 0.5326666666666666,
+    "conscientiousness": 0.5716666666666667,
+    "openness": 0.901
+  },
+  "3CyIOM2izmI.000.mp4": {
+    "extraversion": 0.4916666666666667,
+    "neuroticism": 0.5256666666666666,
+    "agreeableness": 0.47500000000000003,
+    "conscientiousness": 0.7306666666666667,
+    "openness": 0.7733333333333333
+  },
+  "3DURnr95fMg.001.mp4": {
+    "extraversion": 1.8333333333333333,
+    "neuroticism": 1.5666666666666667,
+    "agreeableness": 1.8333333333333333,
+    "conscientiousness": 1.7666666666666666,
+    "openness": 1.9000000000000001
+  },
+  "3DURnr95fMg.005.mp4": {
+    "extraversion": 0.5433333333333333,
+    "neuroticism": 0.47000000000000003,
+    "agreeableness": 0.5666666666666668,
+    "conscientiousness": 0.7799999999999999,
+    "openness": 0.7233333333333333
+  },
+  "3JAFkk42zPs.000.mp4": {
+    "extraversion": 0.5030238390604654,
+    "neuroticism": 0.590638771311442,
+    "agreeableness": 0.5888371442108155,
+    "conscientiousness": 0.6490329822285971,
+    "openness": 0.5906884744793334
+  },
+  "3S72dDIm1fM.002.mp4": {
+    "extraversion": 0.5133333333333333,
+    "neuroticism": 0.48333333333333334,
+    "agreeableness": 0.5633333333333334,
+    "conscientiousness": 0.5566666666666666,
+    "openness": 0.5499999999999999
+  },
+  "3S72dDIm1fM.005.mp4": {
+    "extraversion": 0.42333333333333334,
+    "neuroticism": 0.4266666666666667,
+    "agreeableness": 0.45999999999999996,
+    "conscientiousness": 0.4533333333333333,
+    "openness": 0.5166666666666667
+  },
+  "3b9fhd-EDaY.000.mp4": {
+    "extraversion": 0.6433333333333334,
+    "neuroticism": 0.6566666666666666,
+    "agreeableness": 0.5866666666666667,
+    "conscientiousness": 0.7333333333333334,
+    "openness": 0.7000000000000001
+  },
+  "3b9fhd-EDaY.002.mp4": {
+    "extraversion": 0.7800000000000001,
+    "neuroticism": 0.5233333333333333,
+    "agreeableness": 0.59,
+    "conscientiousness": 0.37333333333333335,
+    "openness": 0.5966666666666667
+  },
+  "3df_Uk9EmwU.002.mp4": {
+    "extraversion": 0.63,
+    "neuroticism": 0.666,
+    "agreeableness": 0.31466666666666665,
+    "conscientiousness": 0.294,
+    "openness": 0.6523333333333333
+  },
+  "3gmc2kLV4Bo.003.mp4": {
+    "extraversion": 0.39653333333333335,
+    "neuroticism": 0.23146666666666663,
+    "agreeableness": 0.4315333333333333,
+    "conscientiousness": 0.29329999999999995,
+    "openness": 0.5058
+  },
+  "3hKgh9AB3tk.003.mp4": {
+    "extraversion": 0.4566666666666667,
+    "neuroticism": 0.3133333333333333,
+    "agreeableness": 0.38999999999999996,
+    "conscientiousness": 0.37333333333333335,
+    "openness": 0.49666666666666665
+  },
+  "3tPq9fNOXZQ.000.mp4": {
+    "extraversion": 0.71,
+    "neuroticism": 0.8633333333333333,
+    "agreeableness": 0.45,
+    "conscientiousness": 0.62,
+    "openness": 0.5833333333333334
+  },
+  "3wRj39GKLJ0.000.mp4": {
+    "extraversion": 0.6716666666666667,
+    "neuroticism": 0.5583333333333333,
+    "agreeableness": 0.645,
+    "conscientiousness": 0.465,
+    "openness": 0.5808333333333334
+  },
+  "3wRj39GKLJ0.003.mp4": {
+    "extraversion": 0.115,
+    "neuroticism": 0.585,
+    "agreeableness": 0.12,
+    "conscientiousness": 0.4,
+    "openness": 0.8049999999999999
+  },
+  "3wgZrRMosvY.001.mp4": {
+    "extraversion": 0.8533333333333334,
+    "neuroticism": 0.6466666666666667,
+    "agreeableness": 0.71,
+    "conscientiousness": 0.7400000000000001,
+    "openness": 0.5633333333333334
+  },
+  "3zAyM2edy1g.002.mp4": {
+    "extraversion": 0.5179276379876031,
+    "neuroticism": 0.5282615065941656,
+    "agreeableness": 0.6564756896158854,
+    "conscientiousness": 0.5339312704459636,
+    "openness": 0.5846060943195511
+  },
+  "3zAyM2edy1g.005.mp4": {
+    "extraversion": 0.8366666666666666,
+    "neuroticism": 0.6833333333333332,
+    "agreeableness": 0.7933333333333333,
+    "conscientiousness": 0.8733333333333334,
+    "openness": 0.9166666666666666
+  },
+  "41NNb7cucVo.004.mp4": {
+    "extraversion": 0.576,
+    "neuroticism": 0.5393333333333333,
+    "agreeableness": 0.6306666666666666,
+    "conscientiousness": 0.6473333333333333,
+    "openness": 0.6793333333333332
+  },
+  "43tayteIFRk.003.mp4": {
+    "extraversion": 0.5866666666666667,
+    "neuroticism": 0.9,
+    "agreeableness": 0.6,
+    "conscientiousness": 0.89,
+    "openness": 0.9133333333333334
+  },
+  "48S9_KZvzVw.002.mp4": {
+    "extraversion": 0.64,
+    "neuroticism": 0.38999999999999996,
+    "agreeableness": 0.59,
+    "conscientiousness": 0.6233333333333333,
+    "openness": 0.6533333333333334
+  },
+  "4JjpfL4y3XM.002.mp4": {
+    "extraversion": 0.6666666666666666,
+    "neuroticism": 0.6633333333333333,
+    "agreeableness": 1.0,
+    "conscientiousness": 0.66,
+    "openness": 1.0
+  },
+  "4JjpfL4y3XM.004.mp4": {
+    "extraversion": 0.7949999999999999,
+    "neuroticism": 0.7533333333333333,
+    "agreeableness": 0.815,
+    "conscientiousness": 0.8333333333333334,
+    "openness": 0.815
+  },
+  "4OKYywIqnqg.000.mp4": {
+    "extraversion": 0.6541526666666667,
+    "neuroticism": 0.4449856666666667,
+    "agreeableness": 0.7983189999999999,
+    "conscientiousness": 0.8361956666666667,
+    "openness": 0.8587813333333333
+  },
+  "4Qr1BjZhnpg.001.mp4": {
+    "extraversion": 0.39999999999999997,
+    "neuroticism": 0.25,
+    "agreeableness": 0.3333333333333333,
+    "conscientiousness": 0.71,
+    "openness": 0.81
+  },
+  "4a6-tNo-NDM.001.mp4": {
+    "extraversion": 0.7766666666666667,
+    "neuroticism": 0.6733333333333333,
+    "agreeableness": 0.84,
+    "conscientiousness": 0.7200000000000001,
+    "openness": 0.7766666666666667
+  },
+  "4bDOetaLvZs.002.mp4": {
+    "extraversion": 0.8073333333333333,
+    "neuroticism": 0.5256666666666666,
+    "agreeableness": 0.664,
+    "conscientiousness": 0.6753333333333332,
+    "openness": 0.664
+  },
+  "4fN-DKUzgWQ.004.mp4": {
+    "extraversion": 0.88,
+    "neuroticism": 0.4066666666666667,
+    "agreeableness": 0.6633333333333334,
+    "conscientiousness": 0.5866666666666667,
+    "openness": 0.685
+  },
+  "4kIHxR6s1L4.003.mp4": {
+    "extraversion": 0.45999999999999996,
+    "neuroticism": 0.43,
+    "agreeableness": 0.685,
+    "conscientiousness": 0.4566666666666667,
+    "openness": 0.66
+  },
+  "4kYaYIcuLpM.000.mp4": {
+    "extraversion": 0.5653333333333334,
+    "neuroticism": 0.4603333333333333,
+    "agreeableness": 0.6166666666666666,
+    "conscientiousness": 0.7866666666666666,
+    "openness": 0.8063333333333332
+  },
+  "4lIbWq27O84.003.mp4": {
+    "extraversion": 0.6633333333333333,
+    "neuroticism": 0.33,
+    "agreeableness": 0.33,
+    "conscientiousness": 0.6633333333333333,
+    "openness": 0.49666666666666665
+  },
+  "4vdJGgZpj4k.003.mp4": {
+    "extraversion": 0.8933333333333334,
+    "neuroticism": 0.8166666666666668,
+    "agreeableness": 0.9,
+    "conscientiousness": 0.8566666666666666,
+    "openness": 0.8300000000000001
+  },
+  "51z2rCqPqPE.004.mp4": {
+    "extraversion": 0.6150537634408603,
+    "neuroticism": 0.25098039215686274,
+    "agreeableness": 0.4180171801718018,
+    "conscientiousness": 0.1370833333333333,
+    "openness": 0.2025641025641026
+  },
+  "53QFyec0uN0.001.mp4": {
+    "extraversion": 0.8799999999999999,
+    "neuroticism": 0.7599999999999999,
+    "agreeableness": 0.86,
+    "conscientiousness": 0.8466666666666667,
+    "openness": 0.8966666666666668
+  },
+  "57o4odfqTs8.000.mp4": {
+    "extraversion": 0.6033333333333334,
+    "neuroticism": 0.54,
+    "agreeableness": 0.5633333333333334,
+    "conscientiousness": 0.5433333333333333,
+    "openness": 0.765
+  },
+  "5CRqN54uejE.001.mp4": {
+    "extraversion": 0.5136666666666666,
+    "neuroticism": 0.22933333333333336,
+    "agreeableness": 0.35266666666666663,
+    "conscientiousness": 0.339,
+    "openness": 0.31166666666666665
+  },
+  "5Ku4_r_Yxsk.003.mp4": {
+    "extraversion": 0.36643333333333333,
+    "neuroticism": 0.2884,
+    "agreeableness": 0.6822333333333334,
+    "conscientiousness": 0.45660000000000006,
+    "openness": 0.4915
+  },
+  "5Wmlo8Z5yVA.000.mp4": {
+    "extraversion": 0.7760555555555554,
+    "neuroticism": 0.7334962962962964,
+    "agreeableness": 0.7856777777777778,
+    "conscientiousness": 0.7761111111111112,
+    "openness": 0.8246111111111111
+  },
+  "5ghk5950BhU.003.mp4": {
+    "extraversion": 0.6066666666666634,
+    "neuroticism": 0.65,
+    "agreeableness": 0.78333333333333,
+    "conscientiousness": 0.7999999999999966,
+    "openness": 0.7166666666666633
+  },
+  "5xA8-Y5qgT0.005.mp4": {
+    "extraversion": 0.6950000000000001,
+    "neuroticism": 0.625,
+    "agreeableness": 0.825,
+    "conscientiousness": 0.835,
+    "openness": 0.8099999999999999
+  },
+  "69BopbFc34U.005.mp4": {
+    "extraversion": 0.59,
+    "neuroticism": 0.2733333333333334,
+    "agreeableness": 0.3866666666666667,
+    "conscientiousness": 0.21666666666666667,
+    "openness": 0.3833333333333333
+  },
+  "69EsTnCVCp0.000.mp4": {
+    "extraversion": 0.5299999999999999,
+    "neuroticism": 0.5566666666666666,
+    "agreeableness": 0.6266666666666666,
+    "conscientiousness": 0.96,
+    "openness": 0.9899999999999999
+  },
+  "6JfSPPVUgIg.000.mp4": {
+    "extraversion": 0.48333333333333334,
+    "neuroticism": 0.7233333333333333,
+    "agreeableness": 0.47333333333333333,
+    "conscientiousness": 0.8466666666666667,
+    "openness": 0.7966666666666667
+  },
+  "6NjuNY4LfQc.005.mp4": {
+    "extraversion": 0.7366666666666667,
+    "neuroticism": 0.33666666666666667,
+    "agreeableness": 0.6311111111111112,
+    "conscientiousness": 0.7433333333333333,
+    "openness": 0.7744444444444444
+  },
+  "6RwVJK3husE.001.mp4": {
+    "extraversion": 0.48500000000000004,
+    "neuroticism": 0.39666666666666667,
+    "agreeableness": 0.4326666666666667,
+    "conscientiousness": 0.4749999999999999,
+    "openness": 0.574
+  },
+  "6RwVJK3husE.002.mp4": {
+    "extraversion": 0.5666666666666667,
+    "neuroticism": 0.26666666666666666,
+    "agreeableness": 0.6333333333333334,
+    "conscientiousness": 0.35333333333333333,
+    "openness": 0.35333333333333333
+  },
+  "6SoFnys6mf0.000.mp4": {
+    "extraversion": 0.6866666666666666,
+    "neuroticism": 0.3033333333333333,
+    "agreeableness": 0.6666666666666666,
+    "conscientiousness": 0.6033333333333334,
+    "openness": 0.6066666666666666
+  },
+  "6WSr4IW6cNI.002.mp4": {
+    "extraversion": 0.8393333333333333,
+    "neuroticism": 0.6606666666666666,
+    "agreeableness": 0.5656666666666667,
+    "conscientiousness": 0.6863333333333334,
+    "openness": 0.6306666666666666
+  },
+  "6l0RBbxg4fk.000.mp4": {
+    "extraversion": 0.4383333333333333,
+    "neuroticism": 0.6649999999999999,
+    "agreeableness": 0.9,
+    "conscientiousness": 0.355,
+    "openness": 0.435
+  },
+  "6tiGdvduOaA.000.mp4": {
+    "extraversion": 0.6266666666666666,
+    "neuroticism": 0.64,
+    "agreeableness": 0.64,
+    "conscientiousness": 0.6533333333333333,
+    "openness": 0.9500000000000001
+  },
+  "6wIEiqmuHOM.002.mp4": {
+    "extraversion": 0.6002000000000001,
+    "neuroticism": 0.53465,
+    "agreeableness": 0.48715,
+    "conscientiousness": 0.45435,
+    "openness": 0.55975
+  },
+  "6waL_gUxtAM.005.mp4": {
+    "extraversion": 0.24666666666666667,
+    "neuroticism": 0.24333333333333332,
+    "agreeableness": 0.25,
+    "conscientiousness": 0.26666666666666666,
+    "openness": 0.24
+  },
+  "6zm71IHOCZA.003.mp4": {
+    "extraversion": 0.47000000000000003,
+    "neuroticism": 0.7166666666666667,
+    "agreeableness": 0.6366666666666666,
+    "conscientiousness": 0.5433333333333333,
+    "openness": 0.6566666666666666
+  },
+  "7-7qX0heWkg.002.mp4": {
+    "extraversion": 0.8166666676600774,
+    "neuroticism": 0.7633333353204752,
+    "agreeableness": 0.4166666686538086,
+    "conscientiousness": 0.3611111111111111,
+    "openness": 0.7466666686538086
+  },
+  "78zauTEQ-k8.002.mp4": {
+    "extraversion": 0.63,
+    "neuroticism": 0.39666666666666667,
+    "agreeableness": 0.5633333333333334,
+    "conscientiousness": 0.69,
+    "openness": 0.6866666666666666
+  },
+  "7MwZm3mhSA8.003.mp4": {
+    "extraversion": 0.3833333333333333,
+    "neuroticism": 0.68,
+    "agreeableness": 0.3933333333333333,
+    "conscientiousness": 0.41,
+    "openness": 0.73
+  },
+  "7PYAn9njCHI.000.mp4": {
+    "extraversion": 0.2233333333333333,
+    "neuroticism": 0.23666666666666666,
+    "agreeableness": 0.29666666666666663,
+    "conscientiousness": 0.24,
+    "openness": 0.20333333333333334
+  },
+  "7PYAn9njCHI.005.mp4": {
+    "extraversion": 0.4566666666666667,
+    "neuroticism": 0.4566666666666667,
+    "agreeableness": 0.8166666666666668,
+    "conscientiousness": 0.47666666666666674,
+    "openness": 0.47333333333333333
+  },
+  "7Y3S4nfQHeo.000.mp4": {
+    "extraversion": 0.3333333333333333,
+    "neuroticism": 0.19999999999999998,
+    "agreeableness": 0.18666666666666668,
+    "conscientiousness": 0.3333333333333333,
+    "openness": 0.12
+  },
+  "7Y3S4nfQHeo.003.mp4": {
+    "extraversion": 0.7697333333333333,
+    "neuroticism": 0.3464666666666667,
+    "agreeableness": 0.40576666666666666,
+    "conscientiousness": 0.4285666666666666,
+    "openness": 0.4126666666666667
+  },
+  "7Y4cUPFEt-4.003.mp4": {
+    "extraversion": 0.56055,
+    "neuroticism": 0.1154,
+    "agreeableness": 0.7735000000000001,
+    "conscientiousness": 0.2209,
+    "openness": 0.7209
+  },
+  "7b9DirXrkHo.005.mp4": {
+    "extraversion": 0.5533333333333333,
+    "neuroticism": 0.5599999999999999,
+    "agreeableness": 0.6733333333333333,
+    "conscientiousness": 0.54,
+    "openness": 0.7133333333333334
+  },
+  "7qGYGbIg45c.001.mp4": {
+    "extraversion": 0.22999999999999998,
+    "neuroticism": 0.75,
+    "agreeableness": 0.65,
+    "conscientiousness": 0.63,
+    "openness": 0.5
+  },
+  "7qGYGbIg45c.003.mp4": {
+    "extraversion": 0.35333333333333333,
+    "neuroticism": 0.6433333333333334,
+    "agreeableness": 0.19333333333333333,
+    "conscientiousness": 0.4566666666666667,
+    "openness": 0.31
+  },
+  "85isLsZHZpo.000.mp4": {
+    "extraversion": 0.8133333333333334,
+    "neuroticism": 0.8033333333333333,
+    "agreeableness": 0.7533333333333333,
+    "conscientiousness": 0.6733333333333333,
+    "openness": 0.7233333333333333
+  },
+  "8Bt-vEroq6M.005.mp4": {
+    "extraversion": 0.8533333333333334,
+    "neuroticism": 0.5633333333333334,
+    "agreeableness": 0.8533333333333334,
+    "conscientiousness": 0.8300000000000001,
+    "openness": 0.8866666666666667
+  },
+  "8KyS0FKbKfI.004.mp4": {
+    "extraversion": 0.613791347262742,
+    "neuroticism": 0.33712517079406407,
+    "agreeableness": 0.39932502499817984,
+    "conscientiousness": 0.476500911604149,
+    "openness": 0.36395529539509264
+  },
+  "8RObWRnyuG0.000.mp4": {
+    "extraversion": 0.7175666666666666,
+    "neuroticism": 0.6314666666666667,
+    "agreeableness": 0.7552,
+    "conscientiousness": 0.7140666666666666,
+    "openness": 0.7492333333333333
+  },
+  "8bn3HZY76xU.005.mp4": {
+    "extraversion": 0.33,
+    "neuroticism": 0.0033333333333333335,
+    "agreeableness": 0.9966666666666667,
+    "conscientiousness": 0.9833333333333334,
+    "openness": 1.0
+  },
+  "8cIuBkFoh0s.003.mp4": {
+    "extraversion": 0.3333333333333333,
+    "neuroticism": 0.15,
+    "agreeableness": 0.29000000000000004,
+    "conscientiousness": 0.11,
+    "openness": 0.04
+  },
+  "8e4nnel_x-M.002.mp4": {
+    "extraversion": 0.8066666666666666,
+    "neuroticism": 0.7833333333333333,
+    "agreeableness": 0.7833333333333333,
+    "conscientiousness": 0.82,
+    "openness": 0.85
+  },
+  "8e4nnel_x-M.003.mp4": {
+    "extraversion": 0.7466666666666667,
+    "neuroticism": 0.7033333333333333,
+    "agreeableness": 0.8133333333333334,
+    "conscientiousness": 0.7566666666666667,
+    "openness": 0.7266666666666667
+  },
+  "8gvBbE6iZNo.002.mp4": {
+    "extraversion": 0.7666666666666666,
+    "neuroticism": 0.7000000000000001,
+    "agreeableness": 0.43333333333333335,
+    "conscientiousness": 0.43333333333333335,
+    "openness": 0.39999999999999997
+  },
+  "8mZZlnbmOYE.005.mp4": {
+    "extraversion": 0.5,
+    "neuroticism": 1.0,
+    "agreeableness": 0.5,
+    "conscientiousness": 0.5,
+    "openness": 1.0
+  },
+  "8qDKGnABATw.000.mp4": {
+    "extraversion": 0.8188888888888889,
+    "neuroticism": 0.31,
+    "agreeableness": 0.7644444444444444,
+    "conscientiousness": 0.8588888888888889,
+    "openness": 0.8644444444444445
+  },
+  "8yFYvQ_kxW8.004.mp4": {
+    "extraversion": 0.77,
+    "neuroticism": 0.5166666666666667,
+    "agreeableness": 0.6433333333333334,
+    "conscientiousness": 0.7432666666666666,
+    "openness": 0.9166666666666666
+  },
+  "9-lptN92A68.003.mp4": {
+    "extraversion": 0.25,
+    "neuroticism": 0.24666666666666667,
+    "agreeableness": 0.6266666666666666,
+    "conscientiousness": 0.62,
+    "openness": 0.6033333333333334
+  },
+  "9CPKW0sqR3E.004.mp4": {
+    "extraversion": 0.61,
+    "neuroticism": 0.4033333333333333,
+    "agreeableness": 0.63,
+    "conscientiousness": 0.62,
+    "openness": 0.73
+  },
+  "9DF_-PXbpkg.000.mp4": {
+    "extraversion": 0.7227272727333333,
+    "neuroticism": 0.49814814813333336,
+    "agreeableness": 0.39074074073333337,
+    "conscientiousness": 0.42626262626666667,
+    "openness": 0.9296296296333333
+  },
+  "9J-KIPMQmqk.002.mp4": {
+    "extraversion": 0.39333333333333337,
+    "neuroticism": 0.65,
+    "agreeableness": 0.4533333333333333,
+    "conscientiousness": 0.48666666666666664,
+    "openness": 0.5033333333333333
+  },
+  "9Lbj3wpwk-c.005.mp4": {
+    "extraversion": 0.627,
+    "neuroticism": 0.6629999999999999,
+    "agreeableness": 0.7276666666666666,
+    "conscientiousness": 0.6543333333333333,
+    "openness": 0.9450000000000001
+  },
+  "9NS6CgxJCGM.005.mp4": {
+    "extraversion": 0.4544333333333333,
+    "neuroticism": 0.4522333333333333,
+    "agreeableness": 0.45216666666666666,
+    "conscientiousness": 0.6511,
+    "openness": 0.4944333333333333
+  },
+  "9UEBU_yiTPs.000.mp4": {
+    "extraversion": 0.43333333333333335,
+    "neuroticism": 0.3666666666666667,
+    "agreeableness": 0.5333333333333333,
+    "conscientiousness": 0.39999999999999997,
+    "openness": 0.5
+  },
+  "9ZMIYSBYIh8.005.mp4": {
+    "extraversion": 0.4366666666666667,
+    "neuroticism": 0.45,
+    "agreeableness": 0.18333333333333335,
+    "conscientiousness": 0.49333333333333335,
+    "openness": 0.5499999999999999
+  },
+  "9_yDcQcapu0.000.mp4": {
+    "extraversion": 0.7941176470588235,
+    "neuroticism": 0.48352941176470593,
+    "agreeableness": 0.5505747126436781,
+    "conscientiousness": 0.6235881189403499,
+    "openness": 0.75
+  },
+  "9cj8rrj1wSk.003.mp4": {
+    "extraversion": 0.24333333333333332,
+    "neuroticism": 0.4833333333333334,
+    "agreeableness": 0.19666666666666668,
+    "conscientiousness": 0.32,
+    "openness": 0.39333333333333337
+  },
+  "9lA-PGQcHBc.001.mp4": {
+    "extraversion": 0.6733333333333333,
+    "neuroticism": 0.6233333333333334,
+    "agreeableness": 0.7633333333333333,
+    "conscientiousness": 0.7799999999999999,
+    "openness": 0.5766666666666667
+  },
+  "9n8dNi-ERQ0.002.mp4": {
+    "extraversion": 0.325,
+    "neuroticism": 0.49,
+    "agreeableness": 0.815,
+    "conscientiousness": 0.2833333333333333,
+    "openness": 0.62
+  },
+  "9yZEb6bdxNY.002.mp4": {
+    "extraversion": 0.22666666666666668,
+    "neuroticism": 0.16333333333333333,
+    "agreeableness": 0.32333333333333336,
+    "conscientiousness": 0.18000000000000002,
+    "openness": 0.26
+  },
+  "9yZEb6bdxNY.005.mp4": {
+    "extraversion": 0.7443984375,
+    "neuroticism": 0.6506770833333334,
+    "agreeableness": 0.7535,
+    "conscientiousness": 0.7219583333333333,
+    "openness": 0.8117291666666667
+  },
+  "A3StIKMjn4k.000.mp4": {
+    "extraversion": 0.77,
+    "neuroticism": 0.6366666666666667,
+    "agreeableness": 0.8133333333333334,
+    "conscientiousness": 0.79,
+    "openness": 0.8833333333333333
+  },
+  "A3StIKMjn4k.003.mp4": {
+    "extraversion": 0.7333333333333334,
+    "neuroticism": 0.6999999999999998,
+    "agreeableness": 0.7333333333333334,
+    "conscientiousness": 0.7333333333333334,
+    "openness": 0.7666666666666666
+  },
+  "A4zSLp-1gps.001.mp4": {
+    "extraversion": 0.8942333333333333,
+    "neuroticism": 0.3530333333333333,
+    "agreeableness": 0.8008333333333333,
+    "conscientiousness": 0.6935333333333333,
+    "openness": 0.6840666666666667
+  },
+  "A7exx3pEPkE.001.mp4": {
+    "extraversion": 0.5133333333333333,
+    "neuroticism": 0.09999999999999999,
+    "agreeableness": 0.26666666666666666,
+    "conscientiousness": 0.57,
+    "openness": 0.5533333333333333
+  },
+  "AFvUxDwJB84.004.mp4": {
+    "extraversion": 0.72965,
+    "neuroticism": 0.7212833333333334,
+    "agreeableness": 0.8419733333333334,
+    "conscientiousness": 0.7864599999999999,
+    "openness": 0.87009
+  },
+  "AJIphVRpYrg.000.mp4": {
+    "extraversion": 0.61,
+    "neuroticism": 0.6133333333333333,
+    "agreeableness": 0.5733333333333334,
+    "conscientiousness": 0.7033333333333335,
+    "openness": 0.7433333333333333
+  },
+  "APqMkruLkoE.002.mp4": {
+    "extraversion": 0.688,
+    "neuroticism": 0.58,
+    "agreeableness": 0.792,
+    "conscientiousness": 0.8055,
+    "openness": 0.76515
+  },
+  "AQz6_ZpzGIE.001.mp4": {
+    "extraversion": 0.16690376940379426,
+    "neuroticism": 0.36407648059522213,
+    "agreeableness": 0.07464839606892266,
+    "conscientiousness": 0.11329400146984099,
+    "openness": 0.15193259951048133
+  },
+  "ASDpn9yOYAo.001.mp4": {
+    "extraversion": 0.6139,
+    "neuroticism": 0.6041333333333333,
+    "agreeableness": 0.9306333333333333,
+    "conscientiousness": 0.5832,
+    "openness": 0.6583666666666667
+  },
+  "AT9kY7tP710.000.mp4": {
+    "extraversion": 0.7833333333333332,
+    "neuroticism": 0.3666666666666667,
+    "agreeableness": 0.7000000000000001,
+    "conscientiousness": 0.8999999999999999,
+    "openness": 0.6333333333333334
+  },
+  "AT9kY7tP710.002.mp4": {
+    "extraversion": 0.5666666666666667,
+    "neuroticism": 0.66,
+    "agreeableness": 0.64,
+    "conscientiousness": 0.5333333333333333,
+    "openness": 0.63
+  },
+  "AotbiNsU85A.003.mp4": {
+    "extraversion": 0.62,
+    "neuroticism": 0.9470000000000001,
+    "agreeableness": 0.6293333333333333,
+    "conscientiousness": 0.648,
+    "openness": 0.49
+  },
+  "As93GgkTdt4.005.mp4": {
+    "extraversion": 0.6266666666666666,
+    "neuroticism": 0.62,
+    "agreeableness": 0.68,
+    "conscientiousness": 0.86,
+    "openness": 0.8466666666666667
+  },
+  "Ay7bZ7Sgx9Q.002.mp4": {
+    "extraversion": 0.7736666666666666,
+    "neuroticism": 0.7666,
+    "agreeableness": 0.7628666666666666,
+    "conscientiousness": 0.7432666666666666,
+    "openness": 0.7474666666666666
+  },
+  "B-OJ_xZILLg.004.mp4": {
+    "extraversion": 0.7999999999999999,
+    "neuroticism": 0.6666666666666666,
+    "agreeableness": 0.71,
+    "conscientiousness": 0.7933333333333333,
+    "openness": 0.43333333333333335
+  },
+  "B3VQeeev0r0.003.mp4": {
+    "extraversion": 0.5666666666666667,
+    "neuroticism": 0.45294117647058824,
+    "agreeableness": 0.6888888888888888,
+    "conscientiousness": 0.3523809523809523,
+    "openness": 0.7307692307692308
+  },
+  "B77ZCcCMrkM.000.mp4": {
+    "extraversion": 0.6156333333333334,
+    "neuroticism": 0.5438,
+    "agreeableness": 0.8248333333333333,
+    "conscientiousness": 0.6492000000000001,
+    "openness": 0.8002666666666668
+  },
+  "BBSB9OJdb0Q.000.mp4": {
+    "extraversion": 0.8333333333333334,
+    "neuroticism": 0.39999999999999997,
+    "agreeableness": 0.5,
+    "conscientiousness": 0.5,
+    "openness": 1.0
+  },
+  "BJpWi1qGp1A.003.mp4": {
+    "extraversion": 0.8833333333333333,
+    "neuroticism": 0.3466666666666667,
+    "agreeableness": 0.7933333333333333,
+    "conscientiousness": 0.58,
+    "openness": 0.9966666666666667
+  },
+  "BLKXsX7-WIg.002.mp4": {
+    "extraversion": 0.4000000000000001,
+    "neuroticism": 0.3666666666666667,
+    "agreeableness": 0.8266666666666667,
+    "conscientiousness": 0.7966666666666667,
+    "openness": 0.8300000000000001
+  },
+  "BLc_GvsbI1U.001.mp4": {
+    "extraversion": 0.16666666666666666,
+    "neuroticism": 0.03333333333333333,
+    "agreeableness": 0.03333333333333333,
+    "conscientiousness": 0.06666666666666667,
+    "openness": 0.5333333333333333
+  },
+  "BLc_GvsbI1U.004.mp4": {
+    "extraversion": 0.75,
+    "neuroticism": 0.75,
+    "agreeableness": 0.79,
+    "conscientiousness": 0.75,
+    "openness": 0.81
+  },
+  "BLc_GvsbI1U.005.mp4": {
+    "extraversion": 0.61,
+    "neuroticism": 0.47000000000000003,
+    "agreeableness": 0.5766666666666667,
+    "conscientiousness": 0.7,
+    "openness": 0.7599999999999999
+  },
+  "BLwgxAWf7cg.002.mp4": {
+    "extraversion": 0.5833333333333334,
+    "neuroticism": 0.36000000000000004,
+    "agreeableness": 0.7166666666666668,
+    "conscientiousness": 0.6833333333333332,
+    "openness": 0.65
+  },
+  "BS0wgLXqFgc.002.mp4": {
+    "extraversion": 0.52,
+    "neuroticism": 0.528,
+    "agreeableness": 0.5893333333333333,
+    "conscientiousness": 0.5553333333333333,
+    "openness": 0.5343333333333332
+  },
+  "BStHNKV820Q.002.mp4": {
+    "extraversion": 0.66,
+    "neuroticism": 0.5833333333333334,
+    "agreeableness": 0.6266666666666666,
+    "conscientiousness": 0.5966666666666667,
+    "openness": 0.6366666666666666
+  },
+  "BStHNKV820Q.005.mp4": {
+    "extraversion": 0.575,
+    "neuroticism": 0.645,
+    "agreeableness": 0.62,
+    "conscientiousness": 0.515,
+    "openness": 0.625
+  },
+  "BV6Pqy4fSwc.002.mp4": {
+    "extraversion": 0.468755,
+    "neuroticism": 0.487484,
+    "agreeableness": 0.5181363333333333,
+    "conscientiousness": 0.5565696666666666,
+    "openness": 0.659199
+  },
+  "B_DeKthR_V0.000.mp4": {
+    "extraversion": 0.6666666666666666,
+    "neuroticism": 0.7633333333333333,
+    "agreeableness": 0.5866666666666668,
+    "conscientiousness": 0.6733333333333333,
+    "openness": 0.6666666666666666
+  },
+  "BgfYyUAoNPs.002.mp4": {
+    "extraversion": 0.8966666666666666,
+    "neuroticism": 0.86,
+    "agreeableness": 0.5133333333333333,
+    "conscientiousness": 0.6566666666666666,
+    "openness": 0.9833333333333334
+  },
+  "Bije9nsMl7M.002.mp4": {
+    "extraversion": 0.553,
+    "neuroticism": 0.6103333333333333,
+    "agreeableness": 0.8673333333333333,
+    "conscientiousness": 0.844,
+    "openness": 0.7983333333333333
+  },
+  "BlvmREgt2C0.001.mp4": {
+    "extraversion": 0.6904761904761904,
+    "neuroticism": 0.6672395833333334,
+    "agreeableness": 0.7204761904761905,
+    "conscientiousness": 0.6205729166666667,
+    "openness": 0.807142857142857
+  },
+  "Bmn4YEhgBDY.002.mp4": {
+    "extraversion": 0.6595333333333334,
+    "neuroticism": 0.41763333333333336,
+    "agreeableness": 0.6633,
+    "conscientiousness": 0.775,
+    "openness": 0.7908333333333334
+  },
+  "Bo-mrL28d8M.000.mp4": {
+    "extraversion": 0.5833333333333334,
+    "neuroticism": 0.5693980952270375,
+    "agreeableness": 0.7188888888888888,
+    "conscientiousness": 0.6533333333333334,
+    "openness": 0.6077777777777778
+  },
+  "BuKzIqR4eBU.003.mp4": {
+    "extraversion": 0.395,
+    "neuroticism": 0.28,
+    "agreeableness": 0.355,
+    "conscientiousness": 0.615,
+    "openness": 0.635
+  },
+  "BxdFQhBNZys.001.mp4": {
+    "extraversion": 0.49000000000000005,
+    "neuroticism": 0.4466666666666667,
+    "agreeableness": 0.56,
+    "conscientiousness": 0.39666666666666667,
+    "openness": 0.6566666666666667
+  },
+  "C0UMWrEJ2x0.002.mp4": {
+    "extraversion": 0.37000000000000005,
+    "neuroticism": 0.5700000000000001,
+    "agreeableness": 0.31,
+    "conscientiousness": 0.45,
+    "openness": 0.7566666666666667
+  },
+  "C3knX70mzxQ.002.mp4": {
+    "extraversion": 0.80115,
+    "neuroticism": 0.76955,
+    "agreeableness": 0.83615,
+    "conscientiousness": 0.86965,
+    "openness": 0.95225
+  },
+  "C47tB5JmEqQ.005.mp4": {
+    "extraversion": 0.7733333333333333,
+    "neuroticism": 0.42333333333333334,
+    "agreeableness": 0.4366666666666667,
+    "conscientiousness": 0.42,
+    "openness": 0.8300000000000001
+  },
+  "C5qRszPK9HY.000.mp4": {
+    "extraversion": 0.770952380952381,
+    "neuroticism": 0.7142857142857143,
+    "agreeableness": 0.7107843137254902,
+    "conscientiousness": 0.7274509803921568,
+    "openness": 0.730952380952381
+  },
+  "C5qRszPK9HY.004.mp4": {
+    "extraversion": 0.5633333333333334,
+    "neuroticism": 0.4033333333333333,
+    "agreeableness": 0.52,
+    "conscientiousness": 0.6433333333333334,
+    "openness": 0.62
+  },
+  "CFk4v2Kd5Ns.000.mp4": {
+    "extraversion": 0.6343333333333333,
+    "neuroticism": 0.6686666666666667,
+    "agreeableness": 0.5873333333333333,
+    "conscientiousness": 0.5956666666666667,
+    "openness": 0.7949999999999999
+  },
+  "C_NtwmmF2Ys.005.mp4": {
+    "extraversion": 0.6433333333333333,
+    "neuroticism": 0.5599999999999999,
+    "agreeableness": 0.6033333333333334,
+    "conscientiousness": 0.5633333333333334,
+    "openness": 0.8422222222222221
+  },
+  "CbNAOLHByZQ.003.mp4": {
+    "extraversion": 0.43500000000000005,
+    "neuroticism": 0.57,
+    "agreeableness": 0.595,
+    "conscientiousness": 0.835,
+    "openness": 0.74
+  },
+  "CdUYBux3Vn8.001.mp4": {
+    "extraversion": 0.40599999999999997,
+    "neuroticism": 0.41933333333333334,
+    "agreeableness": 0.4883333333333333,
+    "conscientiousness": 0.41033333333333327,
+    "openness": 0.4623333333333333
+  },
+  "Cdh_OCMZ4U8.004.mp4": {
+    "extraversion": 0.8666666666666667,
+    "neuroticism": 0.7333333333333334,
+    "agreeableness": 0.8166666666666668,
+    "conscientiousness": 0.7999999999999999,
+    "openness": 0.8333333333333334
+  },
+  "CwmjP27fivQ.002.mp4": {
+    "extraversion": 0.5326666666666666,
+    "neuroticism": 0.37466666666666665,
+    "agreeableness": 0.3546666666666667,
+    "conscientiousness": 0.42733333333333334,
+    "openness": 0.5126666666666666
+  },
+  "D4TU65xbF4g.003.mp4": {
+    "extraversion": 0.6833333333333335,
+    "neuroticism": 0.65,
+    "agreeableness": 0.7833333333333333,
+    "conscientiousness": 0.85,
+    "openness": 0.8966666666666666
+  },
+  "DChmTb-c9uM.002.mp4": {
+    "extraversion": 0.48490000000000005,
+    "neuroticism": 0.5149,
+    "agreeableness": 0.6209333333333333,
+    "conscientiousness": 0.5738666666666666,
+    "openness": 0.5692666666666667
+  },
+  "DegRGUG4Wi0.004.mp4": {
+    "extraversion": 0.909222355738553,
+    "neuroticism": 0.6063105856232496,
+    "agreeableness": 0.872798422048008,
+    "conscientiousness": 0.9151014796961947,
+    "openness": 0.9291496260120496
+  },
+  "Dhbva5oGE7g.004.mp4": {
+    "extraversion": 0.65,
+    "neuroticism": 0.5166666666666667,
+    "agreeableness": 0.7833333333333333,
+    "conscientiousness": 0.7833333333333332,
+    "openness": 0.7666666666666666
+  },
+  "DnTtbAR_Qyw.003.mp4": {
+    "extraversion": 0.3760715502963475,
+    "neuroticism": 0.7707057287613632,
+    "agreeableness": 0.44644198760267145,
+    "conscientiousness": 0.3453501183979198,
+    "openness": 0.7186834517312531
+  },
+  "DrlC4bEYcmw.003.mp4": {
+    "extraversion": 0.5105333333333333,
+    "neuroticism": 0.4158,
+    "agreeableness": 0.4936,
+    "conscientiousness": 0.41766666666666663,
+    "openness": 0.7154666666666666
+  },
+  "DvWzedL3QCk.003.mp4": {
+    "extraversion": 0.6666666666666666,
+    "neuroticism": 0.625,
+    "agreeableness": 0.8166666666666668,
+    "conscientiousness": 0.75,
+    "openness": 0.7708333333333334
+  },
+  "DvWzedL3QCk.005.mp4": {
+    "extraversion": 0.5615119871511988,
+    "neuroticism": 0.5348148148148147,
+    "agreeableness": 0.5145277777777777,
+    "conscientiousness": 0.5651720887554221,
+    "openness": 0.6399853533186867
+  },
+  "E3z1D7CKoOA.004.mp4": {
+    "extraversion": 0.608,
+    "neuroticism": 0.49700000000000005,
+    "agreeableness": 0.552,
+    "conscientiousness": 0.18066666666666667,
+    "openness": 0.5276666666666666
+  },
+  "EAMHqNxa9yY.000.mp4": {
+    "extraversion": 0.69,
+    "neuroticism": 0.5333333333333333,
+    "agreeableness": 0.6466666666666666,
+    "conscientiousness": 0.57,
+    "openness": 0.62
+  },
+  "EL1Q7x_1a74.004.mp4": {
+    "extraversion": 0.8903333333333333,
+    "neuroticism": 0.7953333333333333,
+    "agreeableness": 0.904,
+    "conscientiousness": 0.9086666666666666,
+    "openness": 0.926
+  },
+  "EX3i4IMY1Pw.004.mp4": {
+    "extraversion": 0.5129666666666667,
+    "neuroticism": 0.6281333333333333,
+    "agreeableness": 0.5002,
+    "conscientiousness": 0.5975333333333334,
+    "openness": 0.6908333333333333
+  },
+  "EYbPGTIcnjs.004.mp4": {
+    "extraversion": 0.5499999999999999,
+    "neuroticism": 0.44333333333333336,
+    "agreeableness": 0.8866666666666667,
+    "conscientiousness": 0.86,
+    "openness": 0.8833333333333333
+  },
+  "EelHLfeSJfM.000.mp4": {
+    "extraversion": 0.6666666666666666,
+    "neuroticism": 0.35333333333333333,
+    "agreeableness": 0.7633333333333333,
+    "conscientiousness": 0.63,
+    "openness": 0.4733333333333334
+  },
+  "EmGTj1DRMbo.001.mp4": {
+    "extraversion": 0.698,
+    "neuroticism": 0.7303333333333334,
+    "agreeableness": 0.7073333333333333,
+    "conscientiousness": 0.782,
+    "openness": 0.8073333333333333
+  },
+  "EoakbXJmcto.001.mp4": {
+    "extraversion": 0.7467886666666667,
+    "neuroticism": 0.6631296666666667,
+    "agreeableness": 0.6774999999999999,
+    "conscientiousness": 0.7240966666666667,
+    "openness": 0.5909253333333333
+  },
+  "Etw3iulV5Eg.002.mp4": {
+    "extraversion": 0.8166666666666665,
+    "neuroticism": 0.8092592592592592,
+    "agreeableness": 0.7882716049382715,
+    "conscientiousness": 0.7388888888888888,
+    "openness": 0.6993827160493827
+  },
+  "EwMMNKLjO9w.004.mp4": {
+    "extraversion": 0.3,
+    "neuroticism": 0.21666666666666667,
+    "agreeableness": 0.3,
+    "conscientiousness": 0.18333333333333335,
+    "openness": 0.19999999999999998
+  },
+  "EyX8QI5nPTY.003.mp4": {
+    "extraversion": 0.4666666666666666,
+    "neuroticism": 0.43333333333333335,
+    "agreeableness": 0.6666666666666666,
+    "conscientiousness": 0.4666666666666666,
+    "openness": 0.5666666666666667
+  },
+  "F4yC1_n6ApY.000.mp4": {
+    "extraversion": 0.3500113495582317,
+    "neuroticism": 0.4210563446409224,
+    "agreeableness": 0.44866882344077313,
+    "conscientiousness": 0.4789027556690036,
+    "openness": 0.5596488450727861
+  },
+  "F9mZ6De_6Ko.003.mp4": {
+    "extraversion": 0.8815,
+    "neuroticism": 0.6732333333333335,
+    "agreeableness": 0.7677333333333333,
+    "conscientiousness": 0.8274666666666667,
+    "openness": 0.7278333333333333
+  },
+  "FGkS4vJYOpM.001.mp4": {
+    "extraversion": 0.735,
+    "neuroticism": 0.49,
+    "agreeableness": 0.6950000000000001,
+    "conscientiousness": 0.51,
+    "openness": 0.46499999999999997
+  },
+  "FNHMXPaHll0.001.mp4": {
+    "extraversion": 0.871,
+    "neuroticism": 0.6506666666666666,
+    "agreeableness": 0.888,
+    "conscientiousness": 0.71,
+    "openness": 0.783
+  },
+  "FPfgwGsy8dE.005.mp4": {
+    "extraversion": 0.7956280262898136,
+    "neuroticism": 0.7311557635921737,
+    "agreeableness": 0.7717487848421761,
+    "conscientiousness": 0.8205889235184514,
+    "openness": 0.8004902037567554
+  },
+  "FcR9VhCxBb0.003.mp4": {
+    "extraversion": 0.5953846153846154,
+    "neuroticism": 0.4494238683127572,
+    "agreeableness": 0.5179423868312757,
+    "conscientiousness": 0.6,
+    "openness": 0.5250387596898421
+  },
+  "FcR9VhCxBb0.005.mp4": {
+    "extraversion": 0.7166666666666667,
+    "neuroticism": 0.6666666666666666,
+    "agreeableness": 0.6833333333333332,
+    "conscientiousness": 0.8666666666666667,
+    "openness": 0.8666666666666667
+  },
+  "Fe9_SVPd_5I.000.mp4": {
+    "extraversion": 0.5565858045555577,
+    "neuroticism": 0.41063492063492063,
+    "agreeableness": 0.7166094766094765,
+    "conscientiousness": 0.6921350762527276,
+    "openness": 0.7528451175383729
+  },
+  "Fe9_SVPd_5I.001.mp4": {
+    "extraversion": 0.39666666666666667,
+    "neuroticism": 0.7766666666666667,
+    "agreeableness": 0.29666666666666663,
+    "conscientiousness": 0.32666666666666666,
+    "openness": 0.4266666666666667
+  },
+  "FksSYDfLH04.000.mp4": {
+    "extraversion": 0.69,
+    "neuroticism": 0.61,
+    "agreeableness": 0.5866666666666667,
+    "conscientiousness": 0.66,
+    "openness": 0.7433333333333333
+  },
+  "FkzVX7SQ9wE.005.mp4": {
+    "extraversion": 0.5493333333333333,
+    "neuroticism": 0.5836666666666667,
+    "agreeableness": 0.48233333333333334,
+    "conscientiousness": 0.5746666666666667,
+    "openness": 0.6216666666666667
+  },
+  "FlAGm93fJa0.003.mp4": {
+    "extraversion": 0.6233333333333333,
+    "neuroticism": 0.44,
+    "agreeableness": 0.8366666666666668,
+    "conscientiousness": 0.7866666666666666,
+    "openness": 0.7233333333333333
+  },
+  "Ft0ahViXZPc.004.mp4": {
+    "extraversion": 0.7999999999999999,
+    "neuroticism": 0.63,
+    "agreeableness": 0.7166666666666667,
+    "conscientiousness": 0.9133333333333334,
+    "openness": 0.9033333333333333
+  },
+  "FxVUG2R1y0Q.002.mp4": {
+    "extraversion": 0.7620666666666667,
+    "neuroticism": 0.4495,
+    "agreeableness": 0.5777333333333333,
+    "conscientiousness": 0.6326333333333333,
+    "openness": 0.7066
+  },
+  "FxVUG2R1y0Q.005.mp4": {
+    "extraversion": 0.760656,
+    "neuroticism": 0.47741866666666666,
+    "agreeableness": 0.5167366666666666,
+    "conscientiousness": 0.83474,
+    "openness": 0.72266
+  },
+  "G7hYffrZ1Hc.002.mp4": {
+    "extraversion": 0.5333333333333333,
+    "neuroticism": 0.35481481481481486,
+    "agreeableness": 0.6029666666666667,
+    "conscientiousness": 0.5889333333333333,
+    "openness": 0.6115555555555555
+  },
+  "GG9WPQLI_rg.002.mp4": {
+    "extraversion": 0.5466666666666667,
+    "neuroticism": 0.8333333333333334,
+    "agreeableness": 0.85,
+    "conscientiousness": 0.9133333333333332,
+    "openness": 0.85
+  },
+  "GG9WPQLI_rg.003.mp4": {
+    "extraversion": 0.8333333333333334,
+    "neuroticism": 0.7999999999999999,
+    "agreeableness": 0.5666666666666667,
+    "conscientiousness": 0.7999999999999999,
+    "openness": 0.9666666666666667
+  },
+  "GJ0uTtD3kSg.000.mp4": {
+    "extraversion": 0.7133333333333334,
+    "neuroticism": 0.6933333333333334,
+    "agreeableness": 0.6633333333333334,
+    "conscientiousness": 0.7933333333333333,
+    "openness": 0.9433333333333334
+  },
+  "GQczMGrVgbc.004.mp4": {
+    "extraversion": 0.79,
+    "neuroticism": 0.7633333333333333,
+    "agreeableness": 0.5666666666666667,
+    "conscientiousness": 0.6333333333333333,
+    "openness": 0.89
+  },
+  "GR-P1m_Yvm0.004.mp4": {
+    "extraversion": 0.6423333333333333,
+    "neuroticism": 0.3646666666666667,
+    "agreeableness": 0.6623333333333333,
+    "conscientiousness": 0.7633333333333333,
+    "openness": 0.8126666666666665
+  },
+  "GaUs3UUUtmw.003.mp4": {
+    "extraversion": 0.4566666666666667,
+    "neuroticism": 0.21333333333333337,
+    "agreeableness": 0.46,
+    "conscientiousness": 0.5399999999999999,
+    "openness": 0.5633333333333334
+  },
+  "GcuoyJPO-KU.000.mp4": {
+    "extraversion": 0.7343333333333334,
+    "neuroticism": 0.39433333333333337,
+    "agreeableness": 0.7799999999999999,
+    "conscientiousness": 0.7733333333333334,
+    "openness": 0.719
+  },
+  "Gk94xrcmFts.001.mp4": {
+    "extraversion": 0.43333333333333335,
+    "neuroticism": 0.39999999999999997,
+    "agreeableness": 0.43333333333333335,
+    "conscientiousness": 0.4666666666666666,
+    "openness": 0.5
+  },
+  "GkPz3-y6Les.000.mp4": {
+    "extraversion": 0.5833333333333334,
+    "neuroticism": 0.4466666666666667,
+    "agreeableness": 0.5,
+    "conscientiousness": 0.5666666666666668,
+    "openness": 0.7533333333333334
+  },
+  "Gl93Hw1A2kY.000.mp4": {
+    "extraversion": 0.5973333333333334,
+    "neuroticism": 0.6243333333333334,
+    "agreeableness": 0.6086666666666667,
+    "conscientiousness": 0.66,
+    "openness": 0.6926666666666667
+  },
+  "GqFpXstFUZI.001.mp4": {
+    "extraversion": 0.6466666666666666,
+    "neuroticism": 0.7066666666666667,
+    "agreeableness": 0.6733333333333333,
+    "conscientiousness": 0.66,
+    "openness": 0.68
+  },
+  "HH03EXo0TB0.005.mp4": {
+    "extraversion": 0.961706,
+    "neuroticism": 0.579686,
+    "agreeableness": 0.713964,
+    "conscientiousness": 0.94791,
+    "openness": 0.8905194999999999
+  },
+  "HJkoeB_F4c4.004.mp4": {
+    "extraversion": 0.35633333333333334,
+    "neuroticism": 0.07416666666666667,
+    "agreeableness": 0.5533666666666667,
+    "conscientiousness": 0.48543333333333333,
+    "openness": 0.3645
+  },
+  "HPEemWelY1E.005.mp4": {
+    "extraversion": 0.7233333333333333,
+    "neuroticism": 0.6833333333333332,
+    "agreeableness": 0.798,
+    "conscientiousness": 0.6933333333333334,
+    "openness": 0.7976666666666666
+  },
+  "HUHFlCs3YJ8.002.mp4": {
+    "extraversion": 0.6916666666666668,
+    "neuroticism": 0.4083333333333334,
+    "agreeableness": 0.5166666666666667,
+    "conscientiousness": 0.5499999999999999,
+    "openness": 0.611111111111111
+  },
+  "HWuh0biZQ_c.005.mp4": {
+    "extraversion": 0.8433333333333334,
+    "neuroticism": 0.5599999999999999,
+    "agreeableness": 0.79,
+    "conscientiousness": 0.52,
+    "openness": 0.9366666666666666
+  },
+  "HhC2cGFFZeY.003.mp4": {
+    "extraversion": 0.61,
+    "neuroticism": 0.34,
+    "agreeableness": 0.4266666666666666,
+    "conscientiousness": 0.5333333333333333,
+    "openness": 0.5499999999999999
+  },
+  "HkqPfxphZsE.000.mp4": {
+    "extraversion": 0.529,
+    "neuroticism": 0.39066666666666666,
+    "agreeableness": 0.6356666666666667,
+    "conscientiousness": 0.7210000000000001,
+    "openness": 0.6973333333333334
+  },
+  "Hm5K_K0v718.002.mp4": {
+    "extraversion": 0.85,
+    "neuroticism": 0.82,
+    "agreeableness": 0.8766666666666666,
+    "conscientiousness": 0.89,
+    "openness": 0.96
+  },
+  "HoJXPFp9hYo.001.mp4": {
+    "extraversion": 0.5499999999999999,
+    "neuroticism": 0.8666666666666666,
+    "agreeableness": 0.5433333333333333,
+    "conscientiousness": 0.8933333333333332,
+    "openness": 0.87
+  },
+  "I5x9T9ftW18.001.mp4": {
+    "extraversion": 0.4666666666666666,
+    "neuroticism": 0.3333333333333333,
+    "agreeableness": 0.5333333333333333,
+    "conscientiousness": 0.6,
+    "openness": 0.5
+  },
+  "I5x9T9ftW18.003.mp4": {
+    "extraversion": 0.8004539999999999,
+    "neuroticism": 0.4361756666666667,
+    "agreeableness": 0.45888599999999996,
+    "conscientiousness": 0.7201363333333334,
+    "openness": 0.7275896666666667
+  },
+  "IGjI8aP14gg.000.mp4": {
+    "extraversion": 0.8766666666666666,
+    "neuroticism": 0.8733333333333334,
+    "agreeableness": 0.8833333333333333,
+    "conscientiousness": 0.8466666666666667,
+    "openness": 0.93
+  },
+  "IL5VgGakSNw.002.mp4": {
+    "extraversion": 0.35333333333333333,
+    "neuroticism": 0.36000000000000004,
+    "agreeableness": 0.8633333333333333,
+    "conscientiousness": 0.9033333333333333,
+    "openness": 0.86
+  },
+  "IP_Smb0hVSw.004.mp4": {
+    "extraversion": 0.58,
+    "neuroticism": 0.505,
+    "agreeableness": 0.43999999999999995,
+    "conscientiousness": 0.565,
+    "openness": 0.5900000000000001
+  },
+  "IQNNEfYYYiw.000.mp4": {
+    "extraversion": 0.68,
+    "neuroticism": 0.53,
+    "agreeableness": 0.6133333333333333,
+    "conscientiousness": 0.6233333333333334,
+    "openness": 0.84
+  },
+  "IQNNEfYYYiw.001.mp4": {
+    "extraversion": 0.44,
+    "neuroticism": 0.24666666666666667,
+    "agreeableness": 0.39333333333333337,
+    "conscientiousness": 0.43333333333333335,
+    "openness": 0.4466666666666667
+  },
+  "IQNNEfYYYiw.004.mp4": {
+    "extraversion": 0.5138582473904957,
+    "neuroticism": 0.36908768373081907,
+    "agreeableness": 0.6380266633186132,
+    "conscientiousness": 0.5927791241908632,
+    "openness": 0.5224497020816582
+  },
+  "IV01x2GS61g.004.mp4": {
+    "extraversion": 0.6666666666666666,
+    "neuroticism": 0.6228070175438596,
+    "agreeableness": 0.6666666666666666,
+    "conscientiousness": 0.6666666666666666,
+    "openness": 0.6666666666666666
+  },
+  "Ie2y_yOeKpo.000.mp4": {
+    "extraversion": 0.5555566666666667,
+    "neuroticism": 0.3444433333333334,
+    "agreeableness": 0.6555566666666667,
+    "conscientiousness": 0.5333333333333333,
+    "openness": 0.5444433333333333
+  },
+  "It0-yCwOc5k.001.mp4": {
+    "extraversion": 0.7666666666666666,
+    "neuroticism": 0.5333333333333333,
+    "agreeableness": 0.9333333333333332,
+    "conscientiousness": 0.7333333333333334,
+    "openness": 0.9
+  },
+  "ItkIHtgVhIk.002.mp4": {
+    "extraversion": 0.6455555666666667,
+    "neuroticism": 0.7548148,
+    "agreeableness": 0.6839394,
+    "conscientiousness": 0.7546464666666667,
+    "openness": 0.7685185333333333
+  },
+  "IveGfOJ86wY.005.mp4": {
+    "extraversion": 0.5033333333333334,
+    "neuroticism": 0.6166666666666667,
+    "agreeableness": 0.5433333333333333,
+    "conscientiousness": 0.5433333333333333,
+    "openness": 0.5933333333333334
+  },
+  "Iy7rcTk7KsQ.000.mp4": {
+    "extraversion": 1.2101333333333333,
+    "neuroticism": 1.1825333333333334,
+    "agreeableness": 1.1659666666666666,
+    "conscientiousness": 1.228,
+    "openness": 1.4085333333333334
+  },
+  "IyBCZySg-c4.004.mp4": {
+    "extraversion": 0.5220181904761905,
+    "neuroticism": 0.46975511764705885,
+    "agreeableness": 0.7879296969696968,
+    "conscientiousness": 0.5981326666666668,
+    "openness": 0.7058286666666667
+  },
+  "IzsP0TRzFbo.001.mp4": {
+    "extraversion": 0.79,
+    "neuroticism": 0.7866666666666666,
+    "agreeableness": 0.8266666666666667,
+    "conscientiousness": 0.8300000000000001,
+    "openness": 0.8133333333333334
+  },
+  "J28DwJsK8Do.001.mp4": {
+    "extraversion": 0.6973333333333334,
+    "neuroticism": 0.6693333333333333,
+    "agreeableness": 0.7173333333333334,
+    "conscientiousness": 0.6433333333333334,
+    "openness": 0.6816666666666666
+  },
+  "J30sMEMrKjA.003.mp4": {
+    "extraversion": 0.6566666666666667,
+    "neuroticism": 0.7733333333333334,
+    "agreeableness": 0.7866666666666667,
+    "conscientiousness": 0.8133333333333335,
+    "openness": 0.7166666666666668
+  },
+  "J6RHl6U6Jcw.002.mp4": {
+    "extraversion": 0.7066666666666667,
+    "neuroticism": 0.6933333333333334,
+    "agreeableness": 0.75,
+    "conscientiousness": 0.6966666666666667,
+    "openness": 0.69
+  },
+  "J8N2OCqM6N0.003.mp4": {
+    "extraversion": 0.25,
+    "neuroticism": 0.16666666666666666,
+    "agreeableness": 0.16666666666666666,
+    "conscientiousness": 0.25,
+    "openness": 0.25
+  },
+  "J8N2OCqM6N0.004.mp4": {
+    "extraversion": 0.6366666666666667,
+    "neuroticism": 0.5566666666666666,
+    "agreeableness": 0.8066666666666666,
+    "conscientiousness": 0.7733333333333334,
+    "openness": 0.7466666666666667
+  },
+  "J9MfhPoJOaw.000.mp4": {
+    "extraversion": 0.5766666666666667,
+    "neuroticism": 0.4633333333333333,
+    "agreeableness": 0.5566666666666666,
+    "conscientiousness": 0.49333333333333335,
+    "openness": 0.51
+  },
+  "J9WyswA0vow.000.mp4": {
+    "extraversion": 0.49289321885,
+    "neuroticism": 0.3119047619047619,
+    "agreeableness": 0.5025252525252526,
+    "conscientiousness": 0.7142135952380952,
+    "openness": 0.8045454545454545
+  },
+  "JJxLsbLQlIE.002.mp4": {
+    "extraversion": 0.5969531453361413,
+    "neuroticism": 0.5381659089719589,
+    "agreeableness": 0.6264625542616556,
+    "conscientiousness": 0.8840853517654503,
+    "openness": 0.9469531453361414
+  },
+  "JRqhE9jsamU.000.mp4": {
+    "extraversion": 0.6444444511683146,
+    "neuroticism": 0.23703703703703702,
+    "agreeableness": 0.5555555555555555,
+    "conscientiousness": 0.5444444444444444,
+    "openness": 0.577777784501648
+  },
+  "JZNMxa3OKHY.000.mp4": {
+    "extraversion": 0.7033333333333333,
+    "neuroticism": 0.6833333333333332,
+    "agreeableness": 0.8066666666666666,
+    "conscientiousness": 0.7933333333333333,
+    "openness": 0.93
+  },
+  "JbXgnjVWEoM.000.mp4": {
+    "extraversion": 0.5399999999999999,
+    "neuroticism": 0.5533333333333333,
+    "agreeableness": 0.6766666666666667,
+    "conscientiousness": 0.5833333333333334,
+    "openness": 0.7033333333333333
+  },
+  "Jcw9NZkMn6I.003.mp4": {
+    "extraversion": 0.8293333333333334,
+    "neuroticism": 0.7300000000000001,
+    "agreeableness": 0.741,
+    "conscientiousness": 0.7559999999999999,
+    "openness": 0.7613333333333333
+  },
+  "Jf8lqSpAjZ8.005.mp4": {
+    "extraversion": 0.6366666666666666,
+    "neuroticism": 0.5433333333333333,
+    "agreeableness": 0.77,
+    "conscientiousness": 0.7166666666666668,
+    "openness": 0.7466666666666666
+  },
+  "Jh8yMyNZkuo.000.mp4": {
+    "extraversion": 0.8143333333333334,
+    "neuroticism": 0.7799999999999999,
+    "agreeableness": 0.6933333333333334,
+    "conscientiousness": 0.8523333333333333,
+    "openness": 0.959
+  },
+  "JmAQlC-FEV8.002.mp4": {
+    "extraversion": 0.75325,
+    "neuroticism": 0.5221399999999999,
+    "agreeableness": 0.5641266666666667,
+    "conscientiousness": 0.44888666666666666,
+    "openness": 0.5262566666666667
+  },
+  "JoQRNgGQCgY.001.mp4": {
+    "extraversion": 0.42333333333333334,
+    "neuroticism": 0.25,
+    "agreeableness": 0.5766666666666667,
+    "conscientiousness": 0.55,
+    "openness": 0.69
+  },
+  "Jog1-pYOSD0.004.mp4": {
+    "extraversion": 0.29444444444444445,
+    "neuroticism": 0.598095238095238,
+    "agreeableness": 0.3377777777777778,
+    "conscientiousness": 0.6462962962962963,
+    "openness": 0.6777777777777777
+  },
+  "Jy716zClCKs.004.mp4": {
+    "extraversion": 0.43333333333333335,
+    "neuroticism": 0.46666666666666673,
+    "agreeableness": 0.5666666666666668,
+    "conscientiousness": 0.6,
+    "openness": 0.4666666666666666
+  },
+  "JzS1ZJGBd5A.000.mp4": {
+    "extraversion": 0.6533333333333333,
+    "neuroticism": 0.63,
+    "agreeableness": 0.7600000000000001,
+    "conscientiousness": 0.8000000000000002,
+    "openness": 0.8300000000000001
+  },
+  "KGRUaRe3r7I.004.mp4": {
+    "extraversion": 0.8333333333333334,
+    "neuroticism": 0.7333333333333333,
+    "agreeableness": 0.7666666666666666,
+    "conscientiousness": 0.8666666666666667,
+    "openness": 1.0
+  },
+  "KH1PIMlztec.000.mp4": {
+    "extraversion": 0.8466666666666667,
+    "neuroticism": 0.68,
+    "agreeableness": 0.84,
+    "conscientiousness": 0.7466666666666667,
+    "openness": 0.8099999999999999
+  },
+  "KJ643kfjqLY.000.mp4": {
+    "extraversion": 0.7766666666666667,
+    "neuroticism": 0.685,
+    "agreeableness": 0.5469999999999999,
+    "conscientiousness": 0.7143333333333333,
+    "openness": 0.6876666666666668
+  },
+  "KM6Nc_VipyQ.000.mp4": {
+    "extraversion": 0.48666666666666664,
+    "neuroticism": 0.4766666666666666,
+    "agreeableness": 0.24333333333333332,
+    "conscientiousness": 0.11333333333333333,
+    "openness": 0.33
+  },
+  "KNx7_ajRwDI.002.mp4": {
+    "extraversion": 0.5103333333333333,
+    "neuroticism": 0.38033333333333336,
+    "agreeableness": 0.44133333333333336,
+    "conscientiousness": 0.616,
+    "openness": 0.555
+  },
+  "KNx7_ajRwDI.004.mp4": {
+    "extraversion": 0.7396666666666668,
+    "neuroticism": 0.5493333333333333,
+    "agreeableness": 0.7663333333333334,
+    "conscientiousness": 0.8126666666666665,
+    "openness": 0.8926666666666666
+  },
+  "KVepk_9iPEU.001.mp4": {
+    "extraversion": 0.49,
+    "neuroticism": 0.69,
+    "agreeableness": 0.8033333333333333,
+    "conscientiousness": 0.5366666666666667,
+    "openness": 0.6
+  },
+  "KYkfjIZEScM.000.mp4": {
+    "extraversion": 0.7392307692307692,
+    "neuroticism": 0.5429261750748299,
+    "agreeableness": 0.7447131137978046,
+    "conscientiousness": 0.745928417414966,
+    "openness": 0.7141176470588236
+  },
+  "KYvMsMLNGvY.001.mp4": {
+    "extraversion": 0.569,
+    "neuroticism": 0.465,
+    "agreeableness": 0.5413333333333333,
+    "conscientiousness": 0.5880000000000001,
+    "openness": 0.5926666666666667
+  },
+  "KYvMsMLNGvY.002.mp4": {
+    "extraversion": 0.5926886666666666,
+    "neuroticism": 0.5323896666666666,
+    "agreeableness": 0.6920516666666666,
+    "conscientiousness": 0.6074073333333333,
+    "openness": 0.7723303333333335
+  },
+  "Kga18VO9VwY.004.mp4": {
+    "extraversion": 0.7433333333333333,
+    "neuroticism": 0.7166666666666667,
+    "agreeableness": 0.9166666666666666,
+    "conscientiousness": 0.9066666666666666,
+    "openness": 0.8099999999999999
+  },
+  "KhMsmtSC5Lg.002.mp4": {
+    "extraversion": 0.45333333333333337,
+    "neuroticism": 0.38999999999999996,
+    "agreeableness": 0.4633333333333334,
+    "conscientiousness": 0.29,
+    "openness": 0.49333333333333335
+  },
+  "KmHe8urs3LI.001.mp4": {
+    "extraversion": 0.7111470885428472,
+    "neuroticism": 0.6315978745450697,
+    "agreeableness": 0.5807266044702314,
+    "conscientiousness": 0.5934436882062012,
+    "openness": 0.645076789785897
+  },
+  "KtY6C83o2rs.002.mp4": {
+    "extraversion": 0.7066666666666667,
+    "neuroticism": 0.8300000000000001,
+    "agreeableness": 0.8300000000000001,
+    "conscientiousness": 0.6566666666666667,
+    "openness": 0.6533333333333333
+  },
+  "L-C1blPD_ec.003.mp4": {
+    "extraversion": 0.7266666666666667,
+    "neuroticism": 0.5766666666666667,
+    "agreeableness": 0.4633333333333334,
+    "conscientiousness": 0.46666666666666673,
+    "openness": 0.655
+  },
+  "L-rmZZP_wj8.005.mp4": {
+    "extraversion": 0.49,
+    "neuroticism": 0.5733333333333334,
+    "agreeableness": 0.47333333333333333,
+    "conscientiousness": 0.54,
+    "openness": 0.6
+  },
+  "L9sG80PI1Gw.000.mp4": {
+    "extraversion": 0.26003333333333334,
+    "neuroticism": 0.4538,
+    "agreeableness": 0.3533,
+    "conscientiousness": 0.3457666666666666,
+    "openness": 0.39493333333333336
+  },
+  "LBKbubsgpE8.000.mp4": {
+    "extraversion": 0.8566666666666666,
+    "neuroticism": 0.7733333333333333,
+    "agreeableness": 0.75,
+    "conscientiousness": 0.9199999999999999,
+    "openness": 0.9500000000000001
+  },
+  "LGdzP-r_G3U.000.mp4": {
+    "extraversion": 0.6833333333333332,
+    "neuroticism": 0.25,
+    "agreeableness": 0.31666666666666665,
+    "conscientiousness": 0.35000000000000003,
+    "openness": 0.4166666666666667
+  },
+  "LKc69Et2Jg8.002.mp4": {
+    "extraversion": 0.49535156249999995,
+    "neuroticism": 0.5718067528735632,
+    "agreeableness": 0.5164161278735632,
+    "conscientiousness": 0.5682304267473118,
+    "openness": 0.651991185897436
+  },
+  "LKqN07ryM5I.000.mp4": {
+    "extraversion": 0.5833333333333334,
+    "neuroticism": 0.6183333333333333,
+    "agreeableness": 0.601,
+    "conscientiousness": 0.6589999999999999,
+    "openness": 0.625
+  },
+  "LKqN07ryM5I.002.mp4": {
+    "extraversion": 0.6463333333333333,
+    "neuroticism": 0.34066666666666673,
+    "agreeableness": 0.49333333333333335,
+    "conscientiousness": 0.47866666666666663,
+    "openness": 0.6513333333333333
+  },
+  "LNiiKncirQA.001.mp4": {
+    "extraversion": 0.66,
+    "neuroticism": 0.54,
+    "agreeableness": 0.36999999999999994,
+    "conscientiousness": 0.7566666666666667,
+    "openness": 0.7233333333333333
+  },
+  "LP5N5uPfTdA.003.mp4": {
+    "extraversion": 0.8799666666666667,
+    "neuroticism": 0.40663333333333335,
+    "agreeableness": 0.5933,
+    "conscientiousness": 0.6433,
+    "openness": 0.9866333333333334
+  },
+  "LRczShwIVbM.003.mp4": {
+    "extraversion": 0.805,
+    "neuroticism": 0.8143333333333334,
+    "agreeableness": 0.797,
+    "conscientiousness": 0.77,
+    "openness": 0.8173333333333334
+  },
+  "LSqijVxP0EM.003.mp4": {
+    "extraversion": 0.626,
+    "neuroticism": 0.7626666666666666,
+    "agreeableness": 0.6773333333333333,
+    "conscientiousness": 0.7496666666666667,
+    "openness": 0.7280000000000001
+  },
+  "LWO2ZhalAEY.002.mp4": {
+    "extraversion": 0.8783333333333333,
+    "neuroticism": 0.8473333333333333,
+    "agreeableness": 0.915,
+    "conscientiousness": 0.5623333333333332,
+    "openness": 0.9016666666666667
+  },
+  "L_gmlaz-0s4.004.mp4": {
+    "extraversion": 0.7833333333333333,
+    "neuroticism": 0.7000000000000001,
+    "agreeableness": 0.7733333333333333,
+    "conscientiousness": 0.7833333333333333,
+    "openness": 0.9500000000000001
+  },
+  "LeQKH1vAVpg.002.mp4": {
+    "extraversion": 0.5333333333333333,
+    "neuroticism": 0.3499999999999999,
+    "agreeableness": 0.43333333333333335,
+    "conscientiousness": 0.46666666666666673,
+    "openness": 0.6333333333333333
+  },
+  "Lj1WuMXFa-4.003.mp4": {
+    "extraversion": 0.5703333333333334,
+    "neuroticism": 0.6593333333333333,
+    "agreeableness": 0.7373333333333333,
+    "conscientiousness": 0.8066666666666666,
+    "openness": 0.665
+  },
+  "LmA23EIaXqg.004.mp4": {
+    "extraversion": 0.674446830144336,
+    "neuroticism": 0.5374475850628361,
+    "agreeableness": 0.5561142517295027,
+    "conscientiousness": 0.38682434075325967,
+    "openness": 0.8161680481908417
+  },
+  "Lt89YrQHF_w.003.mp4": {
+    "extraversion": 0.51,
+    "neuroticism": 0.79,
+    "agreeableness": 0.5666666666666665,
+    "conscientiousness": 0.55,
+    "openness": 0.5733333333333334
+  },
+  "Lz3hYPF6aIM.001.mp4": {
+    "extraversion": 0.6269159403160393,
+    "neuroticism": 0.40065183989784026,
+    "agreeableness": 0.5936161346337528,
+    "conscientiousness": 0.6302858039262086,
+    "openness": 0.7961904508225212
+  },
+  "M17x1DCxFj4.000.mp4": {
+    "extraversion": 0.7400000000000001,
+    "neuroticism": 0.6033333333333334,
+    "agreeableness": 0.84,
+    "conscientiousness": 0.68,
+    "openness": 0.9066666666666667
+  },
+  "M39PNQ8Omhc.002.mp4": {
+    "extraversion": 0.4382,
+    "neuroticism": 0.6285333333333334,
+    "agreeableness": 0.47736666666666666,
+    "conscientiousness": 0.32849999999999996,
+    "openness": 0.4940333333333333
+  },
+  "M5_x5J-H2I0.002.mp4": {
+    "extraversion": 0.8066666666666666,
+    "neuroticism": 0.6466666666666666,
+    "agreeableness": 0.82,
+    "conscientiousness": 0.8166666666666668,
+    "openness": 0.8633333333333333
+  },
+  "MDoZUDTSayc.004.mp4": {
+    "extraversion": 0.896015625,
+    "neuroticism": 0.9432291666666667,
+    "agreeableness": 0.9295833333333333,
+    "conscientiousness": 0.957314453125,
+    "openness": 0.9518314503515626
+  },
+  "MI_GQLbnoew.003.mp4": {
+    "extraversion": 0.9433333333333334,
+    "neuroticism": 0.59,
+    "agreeableness": 0.57,
+    "conscientiousness": 0.91,
+    "openness": 0.61
+  },
+  "MK7KveAeb6Y.001.mp4": {
+    "extraversion": 0.7000000000000001,
+    "neuroticism": 0.5666666666666667,
+    "agreeableness": 0.8333333333333334,
+    "conscientiousness": 0.8666666666666667,
+    "openness": 0.7666666666666666
+  },
+  "MZkDsB04kt8.002.mp4": {
+    "extraversion": 0.7533333333333333,
+    "neuroticism": 0.3866666666666667,
+    "agreeableness": 0.65,
+    "conscientiousness": 0.3833333333333333,
+    "openness": 0.48
+  },
+  "M_OpMKBEOyU.005.mp4": {
+    "extraversion": 0.3666666666666667,
+    "neuroticism": 0.3666666666666667,
+    "agreeableness": 0.5333333333333333,
+    "conscientiousness": 0.36666666666666664,
+    "openness": 0.43333333333333335
+  },
+  "MkVsl0hdphE.005.mp4": {
+    "extraversion": 0.5983333333333333,
+    "neuroticism": 0.5466666666666667,
+    "agreeableness": 0.6033333333333334,
+    "conscientiousness": 0.6916666666666668,
+    "openness": 0.5233333333333334
+  },
+  "MlBwEhjftAw.004.mp4": {
+    "extraversion": 0.6003333333333333,
+    "neuroticism": 0.646,
+    "agreeableness": 0.6223333333333333,
+    "conscientiousness": 0.6223333333333333,
+    "openness": 0.6773333333333333
+  },
+  "MsGTYOOp4hE.000.mp4": {
+    "extraversion": 0.7930466666666667,
+    "neuroticism": 0.5875976666666667,
+    "agreeableness": 0.5612843333333334,
+    "conscientiousness": 0.5858146666666667,
+    "openness": 0.6219253333333333
+  },
+  "MuYYY3XaJ7Q.001.mp4": {
+    "extraversion": 0.6532505953972747,
+    "neuroticism": 0.6627555879282055,
+    "agreeableness": 0.8231601784484884,
+    "conscientiousness": 0.9058713969882745,
+    "openness": 0.9055522936370478
+  },
+  "N0UweTwwQqQ.002.mp4": {
+    "extraversion": 0.4033333333333333,
+    "neuroticism": 0.32,
+    "agreeableness": 0.2966666666666667,
+    "conscientiousness": 0.3433333333333333,
+    "openness": 0.27999999999999997
+  },
+  "N0UweTwwQqQ.005.mp4": {
+    "extraversion": 0.5922666666666667,
+    "neuroticism": 0.5123333333333333,
+    "agreeableness": 0.6558666666666667,
+    "conscientiousness": 0.5813333333333334,
+    "openness": 0.7189666666666666
+  },
+  "N7oR6_oMBFk.003.mp4": {
+    "extraversion": 1.0,
+    "neuroticism": 0.3333333333333333,
+    "agreeableness": 0.0,
+    "conscientiousness": 0.0,
+    "openness": 0.3333333333333333
+  },
+  "NF8nb3SQPNg.004.mp4": {
+    "extraversion": 0.6566666666666667,
+    "neuroticism": 0.5199999999999999,
+    "agreeableness": 0.66,
+    "conscientiousness": 0.6966666666666667,
+    "openness": 0.7233333333333333
+  },
+  "NFAlff6GUpA.004.mp4": {
+    "extraversion": 0.46866666666666673,
+    "neuroticism": 0.598,
+    "agreeableness": 0.7376666666666667,
+    "conscientiousness": 0.6973333333333334,
+    "openness": 0.8069999999999999
+  },
+  "NXG4n1pr4Ok.005.mp4": {
+    "extraversion": 0.5375473047658502,
+    "neuroticism": 0.44443184646265177,
+    "agreeableness": 0.6582513129318465,
+    "conscientiousness": 0.6779580753028157,
+    "openness": 0.724391408636149
+  },
+  "NdAJGXf8aos.000.mp4": {
+    "extraversion": 0.3333333333333333,
+    "neuroticism": 0.049999999999999996,
+    "agreeableness": 0.21666666666666667,
+    "conscientiousness": 0.6366666666666666,
+    "openness": 0.5166666666666667
+  },
+  "NhyVkwcZbTA.001.mp4": {
+    "extraversion": 0.38999999999999996,
+    "neuroticism": 0.2833333333333334,
+    "agreeableness": 0.4466666666666667,
+    "conscientiousness": 0.66,
+    "openness": 0.49333333333333335
+  },
+  "NoHext7JXYU.005.mp4": {
+    "extraversion": 0.5276666666666666,
+    "neuroticism": 0.4056666666666667,
+    "agreeableness": 0.6133333333333333,
+    "conscientiousness": 0.556,
+    "openness": 0.4546666666666667
+  },
+  "NyQ2K2J3N0s.002.mp4": {
+    "extraversion": 0.5766666666666667,
+    "neuroticism": 0.53,
+    "agreeableness": 0.47000000000000003,
+    "conscientiousness": 0.42333333333333334,
+    "openness": 0.21500000000000002
+  },
+  "OACoHiwOdXQ.000.mp4": {
+    "extraversion": 0.48957000000000006,
+    "neuroticism": 0.46591,
+    "agreeableness": 0.4895933333333333,
+    "conscientiousness": 0.62667,
+    "openness": 0.5565866666666667
+  },
+  "OACoHiwOdXQ.001.mp4": {
+    "extraversion": 0.48333333333333334,
+    "neuroticism": 0.8533333333333334,
+    "agreeableness": 0.5,
+    "conscientiousness": 0.49,
+    "openness": 0.6333333333333333
+  },
+  "ODDGS0hTcUc.002.mp4": {
+    "extraversion": 0.75,
+    "neuroticism": 0.5666666666666667,
+    "agreeableness": 0.7666666666666666,
+    "conscientiousness": 0.9,
+    "openness": 0.9
+  },
+  "ODDGS0hTcUc.003.mp4": {
+    "extraversion": 0.2994333333333334,
+    "neuroticism": 0.2642,
+    "agreeableness": 0.6018666666666667,
+    "conscientiousness": 0.3553,
+    "openness": 0.3685333333333333
+  },
+  "OLFhKCgexRU.005.mp4": {
+    "extraversion": 0.6666666666666666,
+    "neuroticism": 0.6666666666666666,
+    "agreeableness": 0.9,
+    "conscientiousness": 0.6333333333333333,
+    "openness": 1.0
+  },
+  "OMHlfDF99Mw.001.mp4": {
+    "extraversion": 0.6082051282051282,
+    "neuroticism": 0.7290355937288492,
+    "agreeableness": 0.5541666666666667,
+    "conscientiousness": 0.5453846153846155,
+    "openness": 0.7173015873015873
+  },
+  "OSDlyk5ZgAk.001.mp4": {
+    "extraversion": 0.6,
+    "neuroticism": 0.5333333333333333,
+    "agreeableness": 0.5666666666666667,
+    "conscientiousness": 0.6333333333333334,
+    "openness": 0.6666666666666666
+  },
+  "OTXGM3Guxy4.002.mp4": {
+    "extraversion": 0.5887750179276435,
+    "neuroticism": 0.7000000000000001,
+    "agreeableness": 0.5883055544239277,
+    "conscientiousness": 0.29667651504516535,
+    "openness": 0.634888224882473
+  },
+  "OXkDmd3nA94.005.mp4": {
+    "extraversion": 0.5312333333333333,
+    "neuroticism": 0.6444,
+    "agreeableness": 0.5613,
+    "conscientiousness": 0.6754000000000001,
+    "openness": 0.5217666666666667
+  },
+  "OdwK_oMdfSU.004.mp4": {
+    "extraversion": 0.5466666666666667,
+    "neuroticism": 0.23666666666666666,
+    "agreeableness": 0.6766666666666666,
+    "conscientiousness": 0.24333333333333332,
+    "openness": 0.5933333333333334
+  },
+  "OiDyfO2zB7s.003.mp4": {
+    "extraversion": 0.7266666666666666,
+    "neuroticism": 0.7733333333333333,
+    "agreeableness": 0.7833333333333332,
+    "conscientiousness": 0.7300000000000001,
+    "openness": 0.9866666666666667
+  },
+  "OmXuhT4yJpo.004.mp4": {
+    "extraversion": 0.6375047659368033,
+    "neuroticism": 0.5535717355914834,
+    "agreeableness": 0.63411813096619,
+    "conscientiousness": 0.6996531591553966,
+    "openness": 0.77522302875489
+  },
+  "OovRk5U9_GY.003.mp4": {
+    "extraversion": 0.3669,
+    "neuroticism": 0.3719666666666666,
+    "agreeableness": 0.42629999999999996,
+    "conscientiousness": 0.351,
+    "openness": 0.45726666666666665
+  },
+  "OovRk5U9_GY.005.mp4": {
+    "extraversion": 0.7733333333333333,
+    "neuroticism": 0.4966666666666666,
+    "agreeableness": 0.6133333333333333,
+    "conscientiousness": 0.6733333333333333,
+    "openness": 0.5166666666666667
+  },
+  "OtGJDbI9qkM.001.mp4": {
+    "extraversion": 0.8533333333333334,
+    "neuroticism": 0.3033333333333333,
+    "agreeableness": 0.6933333333333334,
+    "conscientiousness": 0.5966666666666667,
+    "openness": 0.6966666666666667
+  },
+  "OuE91U_n04E.002.mp4": {
+    "extraversion": 0.8260466666666666,
+    "neuroticism": 0.695671,
+    "agreeableness": 0.8969239999999999,
+    "conscientiousness": 0.7921163333333334,
+    "openness": 0.7753003333333334
+  },
+  "OuE91U_n04E.004.mp4": {
+    "extraversion": 0.0,
+    "neuroticism": 0.3333333333333333,
+    "agreeableness": 0.5,
+    "conscientiousness": 0.3333333333333333,
+    "openness": 0.8333333333333334
+  },
+  "OugdInDyt9s.004.mp4": {
+    "extraversion": 0.676,
+    "neuroticism": 0.5497450980392157,
+    "agreeableness": 0.5640711986273412,
+    "conscientiousness": 0.5766666666666668,
+    "openness": 0.5784761904761905
+  },
+  "P0a209IS614.001.mp4": {
+    "extraversion": 0.7434,
+    "neuroticism": 0.7395666666666667,
+    "agreeableness": 0.7492666666666666,
+    "conscientiousness": 0.7535333333333334,
+    "openness": 0.7514
+  },
+  "P2T93mqAsWk.000.mp4": {
+    "extraversion": 0.7473666666666666,
+    "neuroticism": 0.4747333333333334,
+    "agreeableness": 0.7536809523809523,
+    "conscientiousness": 0.7920407407407408,
+    "openness": 0.7994481481481482
+  },
+  "P7poMmhYnM0.002.mp4": {
+    "extraversion": 0.7124333333333333,
+    "neuroticism": 0.6636333333333334,
+    "agreeableness": 0.5864,
+    "conscientiousness": 0.6464,
+    "openness": 0.6486
+  },
+  "P9WDAY-MFzk.004.mp4": {
+    "extraversion": 0.7066666666666667,
+    "neuroticism": 0.6433333333333334,
+    "agreeableness": 0.5766666666666667,
+    "conscientiousness": 0.7866666666666666,
+    "openness": 0.7266666666666667
+  },
+  "PHv6CzBIC5E.003.mp4": {
+    "extraversion": 0.3702059913977806,
+    "neuroticism": 0.41694815698810955,
+    "agreeableness": 0.5962186405321032,
+    "conscientiousness": 0.5417165227615596,
+    "openness": 0.7990831680459779
+  },
+  "PKe86w7jSGE.000.mp4": {
+    "extraversion": 0.8023600432549286,
+    "neuroticism": 0.5468729293567368,
+    "agreeableness": 0.45570243412605116,
+    "conscientiousness": 0.4621821806986713,
+    "openness": 0.6273499450824517
+  },
+  "PKtzsEqLGx4.003.mp4": {
+    "extraversion": 0.5976666666666667,
+    "neuroticism": 0.215,
+    "agreeableness": 0.8576666666666667,
+    "conscientiousness": 0.521,
+    "openness": 0.8926666666666666
+  },
+  "PQBGDxYGaXU.002.mp4": {
+    "extraversion": 0.5366666666666666,
+    "neuroticism": 0.5166666666666667,
+    "agreeableness": 0.5,
+    "conscientiousness": 0.49666666666666665,
+    "openness": 0.5166666666666667
+  },
+  "PReOtefm17s.003.mp4": {
+    "extraversion": 0.6533333333333333,
+    "neuroticism": 0.6233333333333334,
+    "agreeableness": 0.6266666666666667,
+    "conscientiousness": 0.6833333333333332,
+    "openness": 0.8266666666666667
+  },
+  "PReOtefm17s.004.mp4": {
+    "extraversion": 0.7140333333333334,
+    "neuroticism": 0.5173666666666666,
+    "agreeableness": 0.6694333333333334,
+    "conscientiousness": 0.5168666666666667,
+    "openness": 0.6767666666666666
+  },
+  "PRplbrM70sg.002.mp4": {
+    "extraversion": 0.6933333333333334,
+    "neuroticism": 0.5966666666666667,
+    "agreeableness": 0.7200000000000001,
+    "conscientiousness": 0.64,
+    "openness": 0.5666666666666667
+  },
+  "PTV5TBVRHxo.004.mp4": {
+    "extraversion": 0.7166666666666667,
+    "neuroticism": 0.65,
+    "agreeableness": 0.6833333333333332,
+    "conscientiousness": 0.85,
+    "openness": 0.7833333333333333
+  },
+  "PVm7Om88BSw.000.mp4": {
+    "extraversion": 0.5233333333333333,
+    "neuroticism": 0.4533333333333333,
+    "agreeableness": 0.7633333333333333,
+    "conscientiousness": 0.7133333333333334,
+    "openness": 0.63
+  },
+  "PWM-bKcs2p8.002.mp4": {
+    "extraversion": 0.7533333333333333,
+    "neuroticism": 0.7633333333333333,
+    "agreeableness": 0.6766666666666666,
+    "conscientiousness": 0.7166666666666667,
+    "openness": 0.7766666666666667
+  },
+  "PgpMUHH8lEI.001.mp4": {
+    "extraversion": 0.7909,
+    "neuroticism": 0.7140006804279152,
+    "agreeableness": 0.808999319572084,
+    "conscientiousness": 0.7601666666666667,
+    "openness": 0.848399674183988
+  },
+  "Pmhjv20yOl4.003.mp4": {
+    "extraversion": 0.5866666666666666,
+    "neuroticism": 0.58,
+    "agreeableness": 0.6733333333333333,
+    "conscientiousness": 0.7633333333333333,
+    "openness": 0.8300000000000001
+  },
+  "PpJ4S8ZM8mQ.001.mp4": {
+    "extraversion": 0.7666666666666666,
+    "neuroticism": 0.5333333333333333,
+    "agreeableness": 0.6333333333333334,
+    "conscientiousness": 0.9,
+    "openness": 0.8333333333333334
+  },
+  "Pr-RpZ4gYCM.005.mp4": {
+    "extraversion": 0.5272727272727272,
+    "neuroticism": 0.3,
+    "agreeableness": 0.6322222222222222,
+    "conscientiousness": 0.6595238095238095,
+    "openness": 0.7004761904761905
+  },
+  "PsHb4YHooKM.000.mp4": {
+    "extraversion": 0.6420617690598621,
+    "neuroticism": 0.669,
+    "agreeableness": 0.6227284357265289,
+    "conscientiousness": 0.7393958333333334,
+    "openness": 0.6573951023931954
+  },
+  "PsHb4YHooKM.004.mp4": {
+    "extraversion": 0.43733333333333335,
+    "neuroticism": 0.35733333333333334,
+    "agreeableness": 0.5266666666666667,
+    "conscientiousness": 0.39233333333333337,
+    "openness": 0.5790000000000001
+  },
+  "Psahy1Vju4A.004.mp4": {
+    "extraversion": 0.5833333333333334,
+    "neuroticism": 0.47,
+    "agreeableness": 0.8066666666666666,
+    "conscientiousness": 0.5733333333333334,
+    "openness": 0.7599999999999999
+  },
+  "PsqpkFKX8co.003.mp4": {
+    "extraversion": 0.5433333333333333,
+    "neuroticism": 0.5066666666666667,
+    "agreeableness": 0.5266666666666667,
+    "conscientiousness": 0.5433333333333333,
+    "openness": 0.5866666666666667
+  },
+  "PxkMDzORBPE.002.mp4": {
+    "extraversion": 0.6633333333333332,
+    "neuroticism": 0.7066666666666667,
+    "agreeableness": 0.75,
+    "conscientiousness": 0.7966666666666667,
+    "openness": 0.7633333333333333
+  },
+  "Q8Hfg0odW2k.001.mp4": {
+    "extraversion": 0.35,
+    "neuroticism": 0.45,
+    "agreeableness": 0.35,
+    "conscientiousness": 0.4,
+    "openness": 0.9
+  },
+  "Q9B3SJkH2Q8.001.mp4": {
+    "extraversion": 0.6299999999999999,
+    "neuroticism": 0.64,
+    "agreeableness": 0.605,
+    "conscientiousness": 0.7649999999999999,
+    "openness": 0.8300000000000001
+  },
+  "Q9B3SJkH2Q8.002.mp4": {
+    "extraversion": 0.48066666666666674,
+    "neuroticism": 0.2776666666666667,
+    "agreeableness": 0.3826666666666667,
+    "conscientiousness": 0.123,
+    "openness": 0.25033333333333335
+  },
+  "QKcx5msA7iA.005.mp4": {
+    "extraversion": 0.4763333333333333,
+    "neuroticism": 0.5579999999999999,
+    "agreeableness": 0.4026666666666667,
+    "conscientiousness": 0.7446666666666667,
+    "openness": 0.8943333333333333
+  },
+  "QMRAbwZCTfI.001.mp4": {
+    "extraversion": 0.45,
+    "neuroticism": 0.43333333333333335,
+    "agreeableness": 0.6666666666666666,
+    "conscientiousness": 0.7000000000000001,
+    "openness": 0.7999999999999999
+  },
+  "QS7TwjzkYiU.001.mp4": {
+    "extraversion": 0.5451456779592069,
+    "neuroticism": 0.31590259798636566,
+    "agreeableness": 0.5054427061063173,
+    "conscientiousness": 0.45396256071530655,
+    "openness": 0.613798253660442
+  },
+  "QdafN9Y_j-Y.003.mp4": {
+    "extraversion": 0.7999999999999999,
+    "neuroticism": 0.11666666666666665,
+    "agreeableness": 0.3666666666666667,
+    "conscientiousness": 0.3833333333333333,
+    "openness": 0.7333333333333334
+  },
+  "QipgesEKSNA.005.mp4": {
+    "extraversion": 0.7513333333333333,
+    "neuroticism": 0.7067666666666668,
+    "agreeableness": 0.6892666666666667,
+    "conscientiousness": 0.7209666666666666,
+    "openness": 0.8004666666666668
+  },
+  "QpA0gj1y6KE.002.mp4": {
+    "extraversion": 0.7120000000000001,
+    "neuroticism": 0.5896666666666667,
+    "agreeableness": 0.6076666666666667,
+    "conscientiousness": 0.781,
+    "openness": 0.6606666666666667
+  },
+  "QqTw0lnrtBo.000.mp4": {
+    "extraversion": 0.58,
+    "neuroticism": 0.5800000000000001,
+    "agreeableness": 0.6066666666666666,
+    "conscientiousness": 0.94,
+    "openness": 0.5966666666666667
+  },
+  "R-vly7LKotQ.002.mp4": {
+    "extraversion": 0.5,
+    "neuroticism": 0.3333333333333333,
+    "agreeableness": 0.7666666666666666,
+    "conscientiousness": 0.6,
+    "openness": 0.9666666666666667
+  },
+  "R2LlBNLDOeg.000.mp4": {
+    "extraversion": 0.5603333333333333,
+    "neuroticism": 0.605,
+    "agreeableness": 0.6273333333333334,
+    "conscientiousness": 0.6306666666666666,
+    "openness": 0.7073333333333333
+  },
+  "R6NTuhZtOks.004.mp4": {
+    "extraversion": 0.6666666666666666,
+    "neuroticism": 0.6666666666666666,
+    "agreeableness": 0.3333333333333333,
+    "conscientiousness": 0.0,
+    "openness": 0.6666666666666666
+  },
+  "R8Gpa-rRywc.000.mp4": {
+    "extraversion": 0.31633333333333336,
+    "neuroticism": 0.45533333333333337,
+    "agreeableness": 0.4793333333333334,
+    "conscientiousness": 0.42133333333333334,
+    "openness": 0.39433333333333326
+  },
+  "REAxeTWo1QM.004.mp4": {
+    "extraversion": 0.8133333333333335,
+    "neuroticism": 0.7399999999999999,
+    "agreeableness": 0.8266666666666667,
+    "conscientiousness": 0.7433333333333333,
+    "openness": 0.7966666666666665
+  },
+  "RQeoo3idUJc.000.mp4": {
+    "extraversion": 0.6833333333333332,
+    "neuroticism": 0.2833333333333333,
+    "agreeableness": 0.4166666666666667,
+    "conscientiousness": 0.6833333333333332,
+    "openness": 0.8166666666666668
+  },
+  "RYG6XhdmPY0.000.mp4": {
+    "extraversion": 0.7799999999999999,
+    "neuroticism": 0.32666666666666666,
+    "agreeableness": 0.47333333333333333,
+    "conscientiousness": 0.7466666666666667,
+    "openness": 0.6966666666666667
+  },
+  "RZOimXPTG0s.004.mp4": {
+    "extraversion": 0.7449666666666667,
+    "neuroticism": 0.43363333333333337,
+    "agreeableness": 0.7132999999999999,
+    "conscientiousness": 0.8080333333333334,
+    "openness": 0.9032
+  },
+  "R_6hhFo7M3o.005.mp4": {
+    "extraversion": 0.7166666666666667,
+    "neuroticism": 0.7999999999999999,
+    "agreeableness": 0.84,
+    "conscientiousness": 0.8355555555555555,
+    "openness": 0.9044444444444445
+  },
+  "RbX4q4KceVk.001.mp4": {
+    "extraversion": 0.48666666666666664,
+    "neuroticism": 0.5466666666666667,
+    "agreeableness": 0.47333333333333333,
+    "conscientiousness": 0.6166666666666666,
+    "openness": 0.6666666666666666
+  },
+  "RpJkD_vCi0A.001.mp4": {
+    "extraversion": 0.7977777777777778,
+    "neuroticism": 0.7477777777777778,
+    "agreeableness": 0.7988888888888889,
+    "conscientiousness": 0.8322222222222222,
+    "openness": 0.8977777777777778
+  },
+  "S-e9-bW4seo.000.mp4": {
+    "extraversion": 0.8326666666666668,
+    "neuroticism": 0.539,
+    "agreeableness": 0.7653333333333334,
+    "conscientiousness": 0.749,
+    "openness": 0.855
+  },
+  "S-e9-bW4seo.002.mp4": {
+    "extraversion": 0.6533333333333333,
+    "neuroticism": 0.3499999999999999,
+    "agreeableness": 0.4566666666666666,
+    "conscientiousness": 0.4633333333333333,
+    "openness": 0.48666666666666664
+  },
+  "S-jhg6Y5OrE.000.mp4": {
+    "extraversion": 0.7884881488148814,
+    "neuroticism": 0.787335540183554,
+    "agreeableness": 0.8363888888888888,
+    "conscientiousness": 0.8174881488148814,
+    "openness": 0.8902777777777777
+  },
+  "S1AEj1kO5dc.000.mp4": {
+    "extraversion": 0.5299999999999999,
+    "neuroticism": 0.4100000000000001,
+    "agreeableness": 0.63,
+    "conscientiousness": 0.5599999999999999,
+    "openness": 0.5233333333333333
+  },
+  "S1AEj1kO5dc.003.mp4": {
+    "extraversion": 0.9090000000000001,
+    "neuroticism": 0.915,
+    "agreeableness": 0.8873333333333333,
+    "conscientiousness": 0.9488333333333334,
+    "openness": 0.9373
+  },
+  "S4H50iotXF0.000.mp4": {
+    "extraversion": 0.6466666666666666,
+    "neuroticism": 0.7333333333333333,
+    "agreeableness": 0.7033333333333333,
+    "conscientiousness": 0.75,
+    "openness": 0.7533333333333333
+  },
+  "SGnhyxlbqaE.000.mp4": {
+    "extraversion": 0.57,
+    "neuroticism": 0.4266666666666667,
+    "agreeableness": 0.4766666666666666,
+    "conscientiousness": 0.5499999999999999,
+    "openness": 0.63
+  },
+  "SI93csgHMTk.000.mp4": {
+    "extraversion": 0.2833333333333333,
+    "neuroticism": 0.49999999999999994,
+    "agreeableness": 0.2333333333333333,
+    "conscientiousness": 0.5333333333333333,
+    "openness": 0.5
+  },
+  "SPD5fXHVyIk.001.mp4": {
+    "extraversion": 0.42000000000000004,
+    "neuroticism": 0.475,
+    "agreeableness": 0.76,
+    "conscientiousness": 0.855,
+    "openness": 0.785
+  },
+  "SPMDX6qt4I4.000.mp4": {
+    "extraversion": 0.5633333333333334,
+    "neuroticism": 0.54,
+    "agreeableness": 0.4833333333333334,
+    "conscientiousness": 0.62,
+    "openness": 0.64
+  },
+  "SPpox8EGQqU.004.mp4": {
+    "extraversion": 0.8066666666666666,
+    "neuroticism": 0.8300000000000001,
+    "agreeableness": 0.8999999999999999,
+    "conscientiousness": 0.8133333333333334,
+    "openness": 0.8966666666666666
+  },
+  "SRjhmQTPOmA.001.mp4": {
+    "extraversion": 0.33,
+    "neuroticism": 0.8066666666666666,
+    "agreeableness": 0.8933333333333332,
+    "conscientiousness": 0.54,
+    "openness": 0.8966666666666666
+  },
+  "SSBC6EsBCro.000.mp4": {
+    "extraversion": 0.6651333333333334,
+    "neuroticism": 0.5814666666666666,
+    "agreeableness": 0.7799333333333335,
+    "conscientiousness": 0.7595000000000001,
+    "openness": 0.8257666666666666
+  },
+  "SYlV95nPTPs.000.mp4": {
+    "extraversion": 0.7333333333333334,
+    "neuroticism": 0.5666666666666667,
+    "agreeableness": 0.8666666666666667,
+    "conscientiousness": 0.7000000000000001,
+    "openness": 0.6666666666666666
+  },
+  "SYlV95nPTPs.003.mp4": {
+    "extraversion": 0.627,
+    "neuroticism": 0.5686666666666667,
+    "agreeableness": 0.597,
+    "conscientiousness": 0.8465,
+    "openness": 0.9415
+  },
+  "Sdqg-jn_tBk.002.mp4": {
+    "extraversion": 0.2333333333333333,
+    "neuroticism": 0.4000000000000001,
+    "agreeableness": 0.3,
+    "conscientiousness": 0.39999999999999997,
+    "openness": 0.9
+  },
+  "Sdqg-jn_tBk.005.mp4": {
+    "extraversion": 0.9192299214484377,
+    "neuroticism": 0.6318120971526212,
+    "agreeableness": 0.7491024581440127,
+    "conscientiousness": 0.8648110423750751,
+    "openness": 0.9142494151123103
+  },
+  "SfldZBPyPFo.004.mp4": {
+    "extraversion": 0.45,
+    "neuroticism": 0.6,
+    "agreeableness": 0.4166666666666667,
+    "conscientiousness": 0.7000000000000001,
+    "openness": 0.8166666666666668
+  },
+  "T1--98_78ns.004.mp4": {
+    "extraversion": 0.8486666666666668,
+    "neuroticism": 0.8963333333333333,
+    "agreeableness": 0.826,
+    "conscientiousness": 0.773,
+    "openness": 0.839
+  },
+  "T1_6sVNHG70.003.mp4": {
+    "extraversion": 0.6,
+    "neuroticism": 0.6333333333333333,
+    "agreeableness": 0.7666666666666666,
+    "conscientiousness": 0.6,
+    "openness": 0.7666666666666666
+  },
+  "T3v3-2tvV0s.004.mp4": {
+    "extraversion": 0.7774666666666666,
+    "neuroticism": 0.618,
+    "agreeableness": 0.7830333333333334,
+    "conscientiousness": 0.8082666666666666,
+    "openness": 0.8625333333333334
+  },
+  "T6CMGXdPUTA.005.mp4": {
+    "extraversion": 0.6533333333333333,
+    "neuroticism": 0.5333333333333333,
+    "agreeableness": 0.71,
+    "conscientiousness": 0.56,
+    "openness": 0.7399999999999999
+  },
+  "TD2jIXMD-SM.000.mp4": {
+    "extraversion": 0.612642,
+    "neuroticism": 0.435424,
+    "agreeableness": 0.592292,
+    "conscientiousness": 0.6563583333333334,
+    "openness": 0.7794613333333333
+  },
+  "TEGJrmNFvXY.000.mp4": {
+    "extraversion": 0.8099999999999999,
+    "neuroticism": 0.75,
+    "agreeableness": 0.8233333333333333,
+    "conscientiousness": 0.8833333333333333,
+    "openness": 0.85
+  },
+  "TJD__22fOr0.002.mp4": {
+    "extraversion": 0.7516666666666666,
+    "neuroticism": 0.5713333333333334,
+    "agreeableness": 0.8033333333333333,
+    "conscientiousness": 0.69,
+    "openness": 0.7576666666666667
+  },
+  "TPRQyuiNYmI.001.mp4": {
+    "extraversion": 0.6,
+    "neuroticism": 0.5333333333333333,
+    "agreeableness": 0.6,
+    "conscientiousness": 0.7999999999999999,
+    "openness": 0.6666666666666666
+  },
+  "TSGpD2NBeCQ.005.mp4": {
+    "extraversion": 0.6699999999999999,
+    "neuroticism": 0.5666666666666667,
+    "agreeableness": 0.68,
+    "conscientiousness": 0.5533333333333333,
+    "openness": 0.47333333333333333
+  },
+  "TeNC9wOhlXM.001.mp4": {
+    "extraversion": 0.9333333333333332,
+    "neuroticism": 0.5333333333333333,
+    "agreeableness": 0.5499999999999999,
+    "conscientiousness": 0.5333333333333333,
+    "openness": 0.5
+  },
+  "Tg8a_iNEamM.002.mp4": {
+    "extraversion": 0.6112592592666667,
+    "neuroticism": 0.4795185185333333,
+    "agreeableness": 0.5692222222333333,
+    "conscientiousness": 0.7005925926000001,
+    "openness": 0.7342962963
+  },
+  "TmpP2fXeVtk.005.mp4": {
+    "extraversion": 0.8011234567901234,
+    "neuroticism": 0.6594166666666667,
+    "agreeableness": 0.8368835502168835,
+    "conscientiousness": 0.7836049382716049,
+    "openness": 0.9132929292929294
+  },
+  "Tr3A7WODEuM.004.mp4": {
+    "extraversion": 0.9666666666666667,
+    "neuroticism": 0.9333333333333332,
+    "agreeableness": 0.5666666666666667,
+    "conscientiousness": 0.9333333333333332,
+    "openness": 0.9333333333333332
+  },
+  "U-XrzfFzMkg.001.mp4": {
+    "extraversion": 0.86,
+    "neuroticism": 0.6666666666666666,
+    "agreeableness": 0.7799999999999999,
+    "conscientiousness": 0.8333333333333334,
+    "openness": 0.9133333333333334
+  },
+  "U2RemWUyjts.002.mp4": {
+    "extraversion": 0.7666666666666666,
+    "neuroticism": 0.7166666666666667,
+    "agreeableness": 0.8300000000000001,
+    "conscientiousness": 0.9266666666666667,
+    "openness": 0.9333333333333332
+  },
+  "U2RemWUyjts.005.mp4": {
+    "extraversion": 0.8356182615166666,
+    "neuroticism": 0.6422083214,
+    "agreeableness": 0.5346980398166669,
+    "conscientiousness": 0.5127966120833335,
+    "openness": 0.5718670696366667
+  },
+  "U9cidDFDTQE.002.mp4": {
+    "extraversion": 0.35000000000000003,
+    "neuroticism": 0.388889,
+    "agreeableness": 0.27222233333333334,
+    "conscientiousness": 0.3,
+    "openness": 0.7407406666666666
+  },
+  "U9cidDFDTQE.005.mp4": {
+    "extraversion": 0.65,
+    "neuroticism": 0.8300000000000001,
+    "agreeableness": 0.6166666666666667,
+    "conscientiousness": 0.7333333333333334,
+    "openness": 0.8433333333333334
+  },
+  "UA6UY69EVSI.001.mp4": {
+    "extraversion": 0.4366666666666667,
+    "neuroticism": 0.5266666666666667,
+    "agreeableness": 0.5466666666666666,
+    "conscientiousness": 0.5733333333333334,
+    "openness": 0.5566666666666666
+  },
+  "UANQntvIqVk.005.mp4": {
+    "extraversion": 0.6290545088666667,
+    "neuroticism": 0.8869425079000001,
+    "agreeableness": 0.6230068789,
+    "conscientiousness": 0.5733297582666667,
+    "openness": 0.6093317601666667
+  },
+  "UEYKBC_SuzU.002.mp4": {
+    "extraversion": 0.6499999999999999,
+    "neuroticism": 0.55,
+    "agreeableness": 0.7,
+    "conscientiousness": 0.65,
+    "openness": 0.5
+  },
+  "UMMhvyjgRnM.002.mp4": {
+    "extraversion": 0.6166666666666667,
+    "neuroticism": 0.21166666666666667,
+    "agreeableness": 0.4183333333333333,
+    "conscientiousness": 0.27499999999999997,
+    "openness": 0.6666666666666666
+  },
+  "US4PxgfKDeA.002.mp4": {
+    "extraversion": 0.9108593623640586,
+    "neuroticism": 0.652346997072693,
+    "agreeableness": 0.8229922478287038,
+    "conscientiousness": 0.6765161094836044,
+    "openness": 0.9027935199817779
+  },
+  "USicjVA1trA.000.mp4": {
+    "extraversion": 0.7506666666666666,
+    "neuroticism": 0.523,
+    "agreeableness": 0.7516666666666666,
+    "conscientiousness": 0.783,
+    "openness": 0.684
+  },
+  "UUQQf9N2ce0.000.mp4": {
+    "extraversion": 0.43233398107218307,
+    "neuroticism": 0.2123879015984721,
+    "agreeableness": 0.46087264947649453,
+    "conscientiousness": 0.5258389883367444,
+    "openness": 0.5579286260695332
+  },
+  "UUxEpR5Jgt0.000.mp4": {
+    "extraversion": 0.7000000000000001,
+    "neuroticism": 0.3666666666666667,
+    "agreeableness": 0.6666666666666666,
+    "conscientiousness": 0.3666666666666667,
+    "openness": 0.5
+  },
+  "UWVOT3YPQH4.003.mp4": {
+    "extraversion": 0.39633333333333337,
+    "neuroticism": 0.21733333333333335,
+    "agreeableness": 0.8183333333333334,
+    "conscientiousness": 0.786,
+    "openness": 0.293
+  },
+  "U_QQ8EuuWPg.004.mp4": {
+    "extraversion": 0.9566666666666667,
+    "neuroticism": 0.7399999999999999,
+    "agreeableness": 0.75,
+    "conscientiousness": 0.7833333333333333,
+    "openness": 0.525
+  },
+  "UhNyHUwo1SY.004.mp4": {
+    "extraversion": 0.6233333333333334,
+    "neuroticism": 0.35666666666666663,
+    "agreeableness": 0.6666666666666666,
+    "conscientiousness": 0.4566666666666667,
+    "openness": 0.3333333333333333
+  },
+  "UipoC_HLOP0.002.mp4": {
+    "extraversion": 0.16333333333333333,
+    "neuroticism": 0.45999999999999996,
+    "agreeableness": 0.22999999999999998,
+    "conscientiousness": 0.19333333333333333,
+    "openness": 0.21
+  },
+  "UtVo107m5lg.000.mp4": {
+    "extraversion": 0.2333333333333333,
+    "neuroticism": 0.19999999999999998,
+    "agreeableness": 0.6,
+    "conscientiousness": 0.26666666666666666,
+    "openness": 0.3333333333333333
+  },
+  "Uu-NbXUPr-A.003.mp4": {
+    "extraversion": 0.4466666666666666,
+    "neuroticism": 0.6733333333333333,
+    "agreeableness": 0.4666666666666666,
+    "conscientiousness": 0.8066666666666666,
+    "openness": 0.8300000000000001
+  },
+  "UvX6ctu2ObM.000.mp4": {
+    "extraversion": 0.25666666666666665,
+    "neuroticism": 0.27666666666666667,
+    "agreeableness": 0.22,
+    "conscientiousness": 0.1366666666666667,
+    "openness": 0.23666666666666666
+  },
+  "UvX6ctu2ObM.003.mp4": {
+    "extraversion": 0.815,
+    "neuroticism": 0.845,
+    "agreeableness": 0.7,
+    "conscientiousness": 0.8400000000000001,
+    "openness": 0.81
+  },
+  "V4ibYU1O-YI.003.mp4": {
+    "extraversion": 0.349609375,
+    "neuroticism": 0.6465077927467168,
+    "agreeableness": 0.6388888888888888,
+    "conscientiousness": 0.725131746031746,
+    "openness": 0.6742626262626263
+  },
+  "V7_h3URfSFY.004.mp4": {
+    "extraversion": 0.9199999999999999,
+    "neuroticism": 0.97,
+    "agreeableness": 0.895,
+    "conscientiousness": 0.9199999999999999,
+    "openness": 0.995
+  },
+  "V8w2Lo5wxl8.003.mp4": {
+    "extraversion": 0.44333333333333336,
+    "neuroticism": 0.20666666666666667,
+    "agreeableness": 0.5466666666666667,
+    "conscientiousness": 0.17333333333333334,
+    "openness": 0.5633333333333334
+  },
+  "V9roK_mLM-w.005.mp4": {
+    "extraversion": 0.5,
+    "neuroticism": 0.2333333333333333,
+    "agreeableness": 0.7000000000000001,
+    "conscientiousness": 0.7333333333333334,
+    "openness": 0.65
+  },
+  "VForU0EmBr0.004.mp4": {
+    "extraversion": 0.9426666666666668,
+    "neuroticism": 0.6,
+    "agreeableness": 0.7266666666666667,
+    "conscientiousness": 0.5766666666666667,
+    "openness": 0.6793333333333335
+  },
+  "VIKk25Ozx40.001.mp4": {
+    "extraversion": 0.6933333333333334,
+    "neuroticism": 0.33666666666666667,
+    "agreeableness": 0.49666666666666665,
+    "conscientiousness": 0.31666666666666665,
+    "openness": 0.5800000000000001
+  },
+  "VNK6LQHh25w.002.mp4": {
+    "extraversion": 0.9471241112040977,
+    "neuroticism": 0.273565396767944,
+    "agreeableness": 0.621494188805711,
+    "conscientiousness": 0.529384130297609,
+    "openness": 0.38330799816522204
+  },
+  "VQMizni7nY0.000.mp4": {
+    "extraversion": 0.9,
+    "neuroticism": 0.5666666666666667,
+    "agreeableness": 0.6,
+    "conscientiousness": 0.6,
+    "openness": 0.5
+  },
+  "VTrqCDYHVqU.005.mp4": {
+    "extraversion": 0.69,
+    "neuroticism": 0.7233333333333333,
+    "agreeableness": 0.5666666666666668,
+    "conscientiousness": 0.7133333333333334,
+    "openness": 0.7533333333333334
+  },
+  "VTv4BAYgJpk.000.mp4": {
+    "extraversion": 0.9733333333333332,
+    "neuroticism": 0.8599999999999998,
+    "agreeableness": 0.9666666666666663,
+    "conscientiousness": 0.9733333333333332,
+    "openness": 0.9333333333333332
+  },
+  "VTv4BAYgJpk.004.mp4": {
+    "extraversion": 0.6257666666666667,
+    "neuroticism": 0.6705666666666668,
+    "agreeableness": 0.6133666666666667,
+    "conscientiousness": 0.6414666666666666,
+    "openness": 0.6061666666666666
+  },
+  "VUGWfw5PVLY.001.mp4": {
+    "extraversion": 0.25266666666666665,
+    "neuroticism": 0.2583333333333333,
+    "agreeableness": 0.8793333333333333,
+    "conscientiousness": 0.8310000000000001,
+    "openness": 0.746
+  },
+  "VbiUhNAdzus.005.mp4": {
+    "extraversion": 0.5,
+    "neuroticism": 0.38999999999999996,
+    "agreeableness": 0.54,
+    "conscientiousness": 0.5,
+    "openness": 0.5499999999999999
+  },
+  "VhHnmeRABJw.002.mp4": {
+    "extraversion": 0.7463333333333333,
+    "neuroticism": 0.693,
+    "agreeableness": 0.8563333333333333,
+    "conscientiousness": 0.8096666666666668,
+    "openness": 0.8729999999999999
+  },
+  "Vj-Cmtqv_qY.004.mp4": {
+    "extraversion": 0.4333333333333333,
+    "neuroticism": 0.7333333333333334,
+    "agreeableness": 0.5333333333333333,
+    "conscientiousness": 0.8666666666666667,
+    "openness": 0.85
+  },
+  "VmXZ2jMWuvk.005.mp4": {
+    "extraversion": 0.6866666666666666,
+    "neuroticism": 0.5166666666666667,
+    "agreeableness": 0.48666666666666664,
+    "conscientiousness": 0.6466666666666666,
+    "openness": 0.7233333333333333
+  },
+  "VnUkBYQkJms.000.mp4": {
+    "extraversion": 0.8188888888888889,
+    "neuroticism": 0.8222222222222223,
+    "agreeableness": 0.7755555555555556,
+    "conscientiousness": 0.7344444444444443,
+    "openness": 0.7344444444444443
+  },
+  "VoPuhcQc_mg.001.mp4": {
+    "extraversion": 0.39166666666666666,
+    "neuroticism": 0.391,
+    "agreeableness": 0.349,
+    "conscientiousness": 0.39233333333333337,
+    "openness": 0.42566666666666664
+  },
+  "VoPuhcQc_mg.002.mp4": {
+    "extraversion": 0.3396666666666666,
+    "neuroticism": 0.22799999999999998,
+    "agreeableness": 0.763,
+    "conscientiousness": 0.26466666666666666,
+    "openness": 0.6463333333333333
+  },
+  "VoPuhcQc_mg.003.mp4": {
+    "extraversion": 0.7032091052133334,
+    "neuroticism": 0.8261616161613333,
+    "agreeableness": 0.7598516263963333,
+    "conscientiousness": 0.7754733225386667,
+    "openness": 0.8418483197886667
+  },
+  "VoPuhcQc_mg.005.mp4": {
+    "extraversion": 0.735126730030288,
+    "neuroticism": 0.703336966238143,
+    "agreeableness": 0.784046177972451,
+    "conscientiousness": 0.8108277980178662,
+    "openness": 0.7366482606637971
+  },
+  "Vwdi8vyTAUg.001.mp4": {
+    "extraversion": 0.7952980681607809,
+    "neuroticism": 0.7819656663325846,
+    "agreeableness": 0.7996852664761254,
+    "conscientiousness": 0.7914439217551023,
+    "openness": 0.8317185269687407
+  },
+  "Vyktsh14Kww.002.mp4": {
+    "extraversion": 0.5266666666666667,
+    "neuroticism": 0.5733333333333334,
+    "agreeableness": 0.9433333333333334,
+    "conscientiousness": 0.59,
+    "openness": 0.6266666666666666
+  },
+  "W48yW9XTI4c.000.mp4": {
+    "extraversion": 0.781,
+    "neuroticism": 0.49499999999999994,
+    "agreeableness": 0.8250000000000001,
+    "conscientiousness": 0.5943333333333333,
+    "openness": 0.8303333333333334
+  },
+  "W4tz3plvvKI.001.mp4": {
+    "extraversion": 0.6666666666666666,
+    "neuroticism": 0.4133333333333334,
+    "agreeableness": 0.7066666666666667,
+    "conscientiousness": 0.6933333333333334,
+    "openness": 0.7266666666666666
+  },
+  "W4tz3plvvKI.002.mp4": {
+    "extraversion": 0.6000000000000001,
+    "neuroticism": 0.4,
+    "agreeableness": 0.5499999999999999,
+    "conscientiousness": 0.85,
+    "openness": 0.65
+  },
+  "W4tz3plvvKI.005.mp4": {
+    "extraversion": 0.5,
+    "neuroticism": 0.4166666666666667,
+    "agreeableness": 0.5,
+    "conscientiousness": 0.5833333333333334,
+    "openness": 0.5833333333333334
+  },
+  "W7BbL3NZvrU.002.mp4": {
+    "extraversion": 0.6944444444444445,
+    "neuroticism": 0.7277777777777779,
+    "agreeableness": 0.6666666666666666,
+    "conscientiousness": 0.6944444444444445,
+    "openness": 0.7388888888888889
+  },
+  "WTzDOt2GO1M.004.mp4": {
+    "extraversion": 0.39666666666666667,
+    "neuroticism": 0.27666666666666667,
+    "agreeableness": 0.5866666666666667,
+    "conscientiousness": 0.44,
+    "openness": 0.4533333333333333
+  },
+  "WYXRdYT4F0Q.001.mp4": {
+    "extraversion": 0.7333333333333334,
+    "neuroticism": 0.65,
+    "agreeableness": 0.7666666666666666,
+    "conscientiousness": 0.9166666666666666,
+    "openness": 0.7999999999999999
+  },
+  "WeyuzDseGg4.002.mp4": {
+    "extraversion": 0.7684775734757823,
+    "neuroticism": 0.7164961323526892,
+    "agreeableness": 0.39146131618535707,
+    "conscientiousness": 0.57489579770547,
+    "openness": 0.7164961323526892
+  },
+  "WfZodMIIGR0.004.mp4": {
+    "extraversion": 0.8966666666666666,
+    "neuroticism": 0.85,
+    "agreeableness": 0.7866666666666666,
+    "conscientiousness": 0.8133333333333334,
+    "openness": 0.8133333333333334
+  },
+  "Wj8ZY5d1lbs.001.mp4": {
+    "extraversion": 0.58775,
+    "neuroticism": 0.6114666666666666,
+    "agreeableness": 0.6498333333333334,
+    "conscientiousness": 0.7239333333333334,
+    "openness": 0.7961999999999999
+  },
+  "WkbvQZU475o.002.mp4": {
+    "extraversion": 0.7749999999999999,
+    "neuroticism": 0.05,
+    "agreeableness": 0.38939197731296027,
+    "conscientiousness": 0.42500000000000004,
+    "openness": 0.5396012830497522
+  },
+  "WpEZOSrENL0.000.mp4": {
+    "extraversion": 0.08333333333333333,
+    "neuroticism": 0.03333333333333333,
+    "agreeableness": 0.5666666666666667,
+    "conscientiousness": 0.19999999999999998,
+    "openness": 0.4166666666666667
+  },
+  "WwGca41TJVU.000.mp4": {
+    "extraversion": 0.48656666666666676,
+    "neuroticism": 0.5014,
+    "agreeableness": 0.5294666666666666,
+    "conscientiousness": 0.4596,
+    "openness": 0.5111666666666667
+  },
+  "WwmWN63mkT4.005.mp4": {
+    "extraversion": 0.4633333333333334,
+    "neuroticism": 0.43,
+    "agreeableness": 0.43,
+    "conscientiousness": 0.43,
+    "openness": 0.4633333333333334
+  },
+  "Wy4hWbeibhU.001.mp4": {
+    "extraversion": 0.4266666666666667,
+    "neuroticism": 0.2966666666666667,
+    "agreeableness": 0.5366666666666666,
+    "conscientiousness": 0.5299999999999999,
+    "openness": 0.6566666666666666
+  },
+  "X-i_eQ48DBw.002.mp4": {
+    "extraversion": 0.8450980392156863,
+    "neuroticism": 0.8052287581699348,
+    "agreeableness": 0.8735042735042735,
+    "conscientiousness": 0.6646464646464646,
+    "openness": 0.7958005246719134
+  },
+  "X-i_eQ48DBw.003.mp4": {
+    "extraversion": 0.75,
+    "neuroticism": 0.2333333333333333,
+    "agreeableness": 0.3233333333333333,
+    "conscientiousness": 0.7433333333333333,
+    "openness": 0.7600000000000001
+  },
+  "X1EjfXX3NTk.005.mp4": {
+    "extraversion": 0.6126753333333333,
+    "neuroticism": 0.055955,
+    "agreeableness": 0.16648066666666667,
+    "conscientiousness": 0.6470843333333334,
+    "openness": 0.8812760000000001
+  },
+  "XFpzukISe6s.002.mp4": {
+    "extraversion": 0.3986255174167392,
+    "neuroticism": 0.4410419057898742,
+    "agreeableness": 0.3674201725977532,
+    "conscientiousness": 0.4818195138046753,
+    "openness": 0.5048181818181818
+  },
+  "XOioICna1hc.002.mp4": {
+    "extraversion": 0.8833333333333333,
+    "neuroticism": 0.43333333333333335,
+    "agreeableness": 0.8466666666666667,
+    "conscientiousness": 0.45,
+    "openness": 0.5633333333333334
+  },
+  "XT4rTk6-Etc.004.mp4": {
+    "extraversion": 0.8300000000000001,
+    "neuroticism": 0.66,
+    "agreeableness": 0.8133333333333334,
+    "conscientiousness": 0.7066666666666667,
+    "openness": 0.82
+  },
+  "XfK7WZ3skUM.004.mp4": {
+    "extraversion": 0.5066666666666667,
+    "neuroticism": 0.2966666666666667,
+    "agreeableness": 0.61,
+    "conscientiousness": 0.49666666666666665,
+    "openness": 0.5833333333333334
+  },
+  "Xfmu-7JuDGg.005.mp4": {
+    "extraversion": 0.35000000000000003,
+    "neuroticism": 0.8166666666666668,
+    "agreeableness": 0.4166666666666667,
+    "conscientiousness": 0.48333333333333334,
+    "openness": 0.75
+  },
+  "XmWA7zTJj-c.005.mp4": {
+    "extraversion": 0.6333333333333333,
+    "neuroticism": 0.3333333333333333,
+    "agreeableness": 0.2333333333333333,
+    "conscientiousness": 0.2333333333333333,
+    "openness": 0.5333333333333333
+  },
+  "XtI2ju2a8iM.002.mp4": {
+    "extraversion": 0.6166666666666666,
+    "neuroticism": 0.4533333333333333,
+    "agreeableness": 0.66,
+    "conscientiousness": 0.6866666666666666,
+    "openness": 0.68
+  },
+  "Y1LXjxAQihQ.000.mp4": {
+    "extraversion": 0.8033333333333333,
+    "neuroticism": 0.3499999999999999,
+    "agreeableness": 0.8933333333333332,
+    "conscientiousness": 0.4466666666666666,
+    "openness": 0.5633333333333334
+  },
+  "Y6iogSmj6FQ.001.mp4": {
+    "extraversion": 0.7064370651563194,
+    "neuroticism": 0.7139911028639284,
+    "agreeableness": 0.42841957681887427,
+    "conscientiousness": 0.424799398107163,
+    "openness": 0.5929016151688562
+  },
+  "Y98eRPs-78E.000.mp4": {
+    "extraversion": 0.57,
+    "neuroticism": 0.47333333333333333,
+    "agreeableness": 0.66,
+    "conscientiousness": 0.8133333333333334,
+    "openness": 0.6833333333333332
+  },
+  "Y9WX7ucPP-o.003.mp4": {
+    "extraversion": 0.8333333333333334,
+    "neuroticism": 0.5,
+    "agreeableness": 0.48666666666666664,
+    "conscientiousness": 0.48,
+    "openness": 0.5
+  },
+  "Y9WX7ucPP-o.005.mp4": {
+    "extraversion": 0.98,
+    "neuroticism": 0.9700000000000001,
+    "agreeableness": 0.9700000000000001,
+    "conscientiousness": 0.9093333333333332,
+    "openness": 0.9550000000000001
+  },
+  "YBsKLg3GMrE.001.mp4": {
+    "extraversion": 0.8266666666666668,
+    "neuroticism": 0.7833333333333333,
+    "agreeableness": 0.7833333333333333,
+    "conscientiousness": 0.8333333333333334,
+    "openness": 0.9233333333333333
+  },
+  "YGJ33FXzJO8.001.mp4": {
+    "extraversion": 0.6146666666666666,
+    "neuroticism": 0.156,
+    "agreeableness": 0.24033333333333337,
+    "conscientiousness": 0.25766666666666665,
+    "openness": 0.6306666666666666
+  },
+  "YJ5CINQ8v_E.002.mp4": {
+    "extraversion": 0.39766666666666667,
+    "neuroticism": 0.761,
+    "agreeableness": 0.4803333333333333,
+    "conscientiousness": 0.539,
+    "openness": 0.4343333333333333
+  },
+  "YLKPVl-M3Ck.002.mp4": {
+    "extraversion": 0.84,
+    "neuroticism": 0.5776666666666667,
+    "agreeableness": 0.8733333333333334,
+    "conscientiousness": 0.7986666666666666,
+    "openness": 0.9733333333333333
+  },
+  "YPMffqhP0C8.005.mp4": {
+    "extraversion": 0.6626666666666666,
+    "neuroticism": 0.7303333333333333,
+    "agreeableness": 0.648,
+    "conscientiousness": 0.707,
+    "openness": 0.7656666666666666
+  },
+  "YPnuq0tDDqk.002.mp4": {
+    "extraversion": 0.35333333333333333,
+    "neuroticism": 0.6066666666666667,
+    "agreeableness": 0.39999999999999997,
+    "conscientiousness": 0.33,
+    "openness": 0.38666666666666666
+  },
+  "YiX6thczM1w.000.mp4": {
+    "extraversion": 0.96,
+    "neuroticism": 0.7733,
+    "agreeableness": 0.9566666666666667,
+    "conscientiousness": 0.9666666666666667,
+    "openness": 0.9966666666666667
+  },
+  "YliKljQIX2o.005.mp4": {
+    "extraversion": 0.34,
+    "neuroticism": 0.42,
+    "agreeableness": 0.38000000000000006,
+    "conscientiousness": 0.43,
+    "openness": 0.7266666666666667
+  },
+  "ZGox7tevC6A.002.mp4": {
+    "extraversion": 0.29444444444444445,
+    "neuroticism": 0.17619047619047615,
+    "agreeableness": 0.6095238095238096,
+    "conscientiousness": 0.2696969696969697,
+    "openness": 0.5904761904761905
+  },
+  "ZHya-p83XPQ.000.mp4": {
+    "extraversion": 0.7298333333333332,
+    "neuroticism": 0.7966000000000001,
+    "agreeableness": 0.7031999999999999,
+    "conscientiousness": 0.7371666666666666,
+    "openness": 0.8960333333333333
+  },
+  "ZIyfXdCxN9E.001.mp4": {
+    "extraversion": 0.6933333333333334,
+    "neuroticism": 0.7266666666666667,
+    "agreeableness": 0.6966666666666667,
+    "conscientiousness": 0.6366666666666666,
+    "openness": 0.6966666666666667
+  },
+  "ZMOcuCj-86c.001.mp4": {
+    "extraversion": 0.7525589077434911,
+    "neuroticism": 0.7214097470859592,
+    "agreeableness": 0.7433178691238364,
+    "conscientiousness": 0.7394839379757888,
+    "openness": 0.7724869662323183
+  },
+  "ZT7cEiaYGp8.002.mp4": {
+    "extraversion": 0.8266666666666667,
+    "neuroticism": 0.41333333333333333,
+    "agreeableness": 0.5633333333333334,
+    "conscientiousness": 0.82,
+    "openness": 0.9133333333333334
+  },
+  "Z_STuUHKQTg.001.mp4": {
+    "extraversion": 0.48933604459862207,
+    "neuroticism": 0.3799314007191783,
+    "agreeableness": 0.5828292111711145,
+    "conscientiousness": 0.5913983805274637,
+    "openness": 0.5162575317524905
+  },
+  "ZeGT9pSG734.001.mp4": {
+    "extraversion": 0.38666666666666666,
+    "neuroticism": 0.29333333333333333,
+    "agreeableness": 0.44999999999999996,
+    "conscientiousness": 0.43,
+    "openness": 0.41333333333333333
+  },
+  "ZkypeQdzgvQ.001.mp4": {
+    "extraversion": 0.6366666666666667,
+    "neuroticism": 0.39999999999999997,
+    "agreeableness": 0.6066666666666667,
+    "conscientiousness": 0.6233333333333334,
+    "openness": 0.6733333333333333
+  },
+  "ZoHY-rWJsyw.003.mp4": {
+    "extraversion": 0.7363636363636363,
+    "neuroticism": 0.4276094276094276,
+    "agreeableness": 0.6962962962962962,
+    "conscientiousness": 0.5962962962962962,
+    "openness": 0.7561403508771929
+  },
+  "ZqbJIM7rmO8.000.mp4": {
+    "extraversion": 0.5879533333333333,
+    "neuroticism": 0.339024,
+    "agreeableness": 0.5889523333333334,
+    "conscientiousness": 0.5352116666666666,
+    "openness": 0.6678113333333333
+  },
+  "ZxxRJRz2hf0.000.mp4": {
+    "extraversion": 0.21333333333333335,
+    "neuroticism": 0.19333333333333333,
+    "agreeableness": 0.5466666666666667,
+    "conscientiousness": 0.543,
+    "openness": 0.4663333333333333
+  },
+  "_01AyUz9J9I.004.mp4": {
+    "extraversion": 0.48923333333333335,
+    "neuroticism": 0.3148333333333333,
+    "agreeableness": 0.40009999999999996,
+    "conscientiousness": 0.6598666666666667,
+    "openness": 0.17113333333333333
+  },
+  "_7hGh6VU4IU.002.mp4": {
+    "extraversion": 0.9263333333333333,
+    "neuroticism": 0.8729999999999999,
+    "agreeableness": 0.8729999999999999,
+    "conscientiousness": 0.9263333333333333,
+    "openness": 0.9596666666666667
+  },
+  "_Q4wOgixh7E.001.mp4": {
+    "extraversion": 1.4666666666666668,
+    "neuroticism": 1.0666666666666667,
+    "agreeableness": 1.1333333333333333,
+    "conscientiousness": 1.1333333333333333,
+    "openness": 1.1333333333333333
+  },
+  "_TbRQa4InvM.001.mp4": {
+    "extraversion": 0.31666666666666665,
+    "neuroticism": 0.30802666666666667,
+    "agreeableness": 0.2833333333333333,
+    "conscientiousness": 0.44136000000000003,
+    "openness": 0.31666666666666665
+  },
+  "_UnoRkHkYB8.001.mp4": {
+    "extraversion": 0.795,
+    "neuroticism": 0.375,
+    "agreeableness": 0.475,
+    "conscientiousness": 0.745,
+    "openness": 0.745
+  },
+  "_bOOlidEWgY.000.mp4": {
+    "extraversion": 0.5326240000000001,
+    "neuroticism": 0.757619,
+    "agreeableness": 0.545,
+    "conscientiousness": 0.4666666666666666,
+    "openness": 0.9199999999999999
+  },
+  "_fJcW5234bY.005.mp4": {
+    "extraversion": 0.9133333333333334,
+    "neuroticism": 0.94,
+    "agreeableness": 0.9733333333333333,
+    "conscientiousness": 0.9633333333333334,
+    "openness": 0.9633333333333333
+  },
+  "_lQinJGE7Qs.005.mp4": {
+    "extraversion": 0.19999999999999998,
+    "neuroticism": 0.4666666666666666,
+    "agreeableness": 0.5,
+    "conscientiousness": 0.19999999999999998,
+    "openness": 0.5299999999999999
+  },
+  "_mvqVnzddCw.005.mp4": {
+    "extraversion": 0.5663333333333332,
+    "neuroticism": 0.599,
+    "agreeableness": 0.9286666666666666,
+    "conscientiousness": 0.9,
+    "openness": 0.9089999999999999
+  },
+  "a38rz5AIslE.004.mp4": {
+    "extraversion": 0.8383333333333333,
+    "neuroticism": 0.7683333333333332,
+    "agreeableness": 0.7583333333333333,
+    "conscientiousness": 0.8183333333333334,
+    "openness": 0.8683333333333333
+  },
+  "a5NTqK367wo.004.mp4": {
+    "extraversion": 0.53,
+    "neuroticism": 0.35333333333333333,
+    "agreeableness": 0.5633333333333334,
+    "conscientiousness": 0.45999999999999996,
+    "openness": 0.77
+  },
+  "a5tVPpLsaGc.004.mp4": {
+    "extraversion": 16.833333333333332,
+    "neuroticism": 16.733333333333334,
+    "agreeableness": 17.099999999999998,
+    "conscientiousness": 16.9,
+    "openness": 17.033333333333335
+  },
+  "aIh8DTa3RVg.005.mp4": {
+    "extraversion": 0.615,
+    "neuroticism": 0.49,
+    "agreeableness": 0.48,
+    "conscientiousness": 0.505,
+    "openness": 0.485
+  },
+  "aJjAtOC8AQU.001.mp4": {
+    "extraversion": 0.5629333333333334,
+    "neuroticism": 0.422129,
+    "agreeableness": 0.9,
+    "conscientiousness": 0.5634743333333333,
+    "openness": 0.5166666666666666
+  },
+  "aQVGVhcMBtE.002.mp4": {
+    "extraversion": 0.425925925925926,
+    "neuroticism": 0.36111111111111116,
+    "agreeableness": 0.39285714285714285,
+    "conscientiousness": 0.6388888888888888,
+    "openness": 0.5555555555555556
+  },
+  "aQVGVhcMBtE.005.mp4": {
+    "extraversion": 0.557,
+    "neuroticism": 0.543,
+    "agreeableness": 0.5710000000000001,
+    "conscientiousness": 0.5683333333333334,
+    "openness": 0.6096666666666667
+  },
+  "aaylz9A9K80.000.mp4": {
+    "extraversion": 0.7066666666666667,
+    "neuroticism": 0.5533333333333333,
+    "agreeableness": 0.6333333333333333,
+    "conscientiousness": 0.5166666666666667,
+    "openness": 0.6
+  },
+  "ai-RZb0ZpKI.001.mp4": {
+    "extraversion": 0.5427333333333334,
+    "neuroticism": 0.5699000000000001,
+    "agreeableness": 0.5733,
+    "conscientiousness": 0.5831333333333334,
+    "openness": 0.3824666666666667
+  },
+  "ask-ZFRztf8.000.mp4": {
+    "extraversion": 1.0,
+    "neuroticism": 0.6666666666666666,
+    "agreeableness": 1.0,
+    "conscientiousness": 1.0,
+    "openness": 1.0
+  },
+  "b5uTy9czllM.002.mp4": {
+    "extraversion": 0.31296979884525084,
+    "neuroticism": 0.19444444444444442,
+    "agreeableness": 0.672742060325714,
+    "conscientiousness": 0.25,
+    "openness": 0.8055555555555557
+  },
+  "b6eoqD1J_qU.000.mp4": {
+    "extraversion": 0.45,
+    "neuroticism": 0.3125,
+    "agreeableness": 0.775,
+    "conscientiousness": 0.775,
+    "openness": 0.6625
+  },
+  "b6eoqD1J_qU.001.mp4": {
+    "extraversion": 0.5933333333333333,
+    "neuroticism": 0.49666666666666665,
+    "agreeableness": 0.62,
+    "conscientiousness": 0.7266666666666667,
+    "openness": 0.87
+  },
+  "bBqZyG-9ksM.001.mp4": {
+    "extraversion": 0.6172890000000001,
+    "neuroticism": 0.5938703333333334,
+    "agreeableness": 0.6212103333333333,
+    "conscientiousness": 0.6383383333333333,
+    "openness": 0.7054776666666666
+  },
+  "bEXDNfLBy1I.000.mp4": {
+    "extraversion": 0.6466666666666666,
+    "neuroticism": 0.6366666666666666,
+    "agreeableness": 0.6666666666666666,
+    "conscientiousness": 0.64,
+    "openness": 0.6466666666666666
+  },
+  "bEXDNfLBy1I.001.mp4": {
+    "extraversion": 0.6133333333333333,
+    "neuroticism": 0.65,
+    "agreeableness": 0.7233333333333333,
+    "conscientiousness": 0.7600000000000001,
+    "openness": 0.75
+  },
+  "bEXDNfLBy1I.005.mp4": {
+    "extraversion": 0.49033333333333334,
+    "neuroticism": 0.4443333333333333,
+    "agreeableness": 0.4653333333333333,
+    "conscientiousness": 0.7949999999999999,
+    "openness": 0.8156666666666667
+  },
+  "bGLwxQ1lonQ.000.mp4": {
+    "extraversion": 0.2625,
+    "neuroticism": 0.03333333333333333,
+    "agreeableness": 0.5833333333333334,
+    "conscientiousness": 0.3333333333333333,
+    "openness": 0.5141666666666667
+  },
+  "bLOSPQ8MAC8.003.mp4": {
+    "extraversion": 0.9033333333333333,
+    "neuroticism": 0.9466666666666667,
+    "agreeableness": 0.5966666666666667,
+    "conscientiousness": 0.5833333333333334,
+    "openness": 0.96
+  },
+  "bLOSPQ8MAC8.005.mp4": {
+    "extraversion": 0.6549913820055354,
+    "neuroticism": 0.4891894130624961,
+    "agreeableness": 0.6432192705445471,
+    "conscientiousness": 0.6927560529482505,
+    "openness": 0.6901923982385018
+  },
+  "bN2IM-rqZlc.003.mp4": {
+    "extraversion": 0.57,
+    "neuroticism": 0.6866666666666666,
+    "agreeableness": 0.54,
+    "conscientiousness": 0.5099999999999999,
+    "openness": 0.5166666666666667
+  },
+  "bZAKBS9q0ZI.000.mp4": {
+    "extraversion": 0.5892222222222222,
+    "neuroticism": 0.33755555555555555,
+    "agreeableness": 0.60009375,
+    "conscientiousness": 0.5990000000000001,
+    "openness": 0.5075555555555555
+  },
+  "bcRPLKygrNk.004.mp4": {
+    "extraversion": 0.26999999999999996,
+    "neuroticism": 0.2643333333333333,
+    "agreeableness": 0.4713333333333333,
+    "conscientiousness": 0.6793333333333335,
+    "openness": 0.6823333333333333
+  },
+  "bcx6xr9Ja-8.003.mp4": {
+    "extraversion": 0.48233333333333334,
+    "neuroticism": 0.684,
+    "agreeableness": 0.16633333333333333,
+    "conscientiousness": 0.2796666666666667,
+    "openness": 0.5676666666666667
+  },
+  "be0DQawtVkE.002.mp4": {
+    "extraversion": 0.645,
+    "neuroticism": 0.3773333333333333,
+    "agreeableness": 0.5736666666666667,
+    "conscientiousness": 0.7126666666666667,
+    "openness": 0.6616666666666666
+  },
+  "bj9kSmBeQRg.000.mp4": {
+    "extraversion": 0.6588888888888889,
+    "neuroticism": 0.6588888888888889,
+    "agreeableness": 0.6588888888888889,
+    "conscientiousness": 0.7055555555555556,
+    "openness": 0.7055555555555556
+  },
+  "bkzgccBFztM.005.mp4": {
+    "extraversion": 0.82,
+    "neuroticism": 0.75,
+    "agreeableness": 0.8666666666666667,
+    "conscientiousness": 0.8733333333333334,
+    "openness": 0.9166666666666666
+  },
+  "bnM9Ow52x3o.003.mp4": {
+    "extraversion": 0.42333333333333334,
+    "neuroticism": 0.17666666666666667,
+    "agreeableness": 0.4633333333333334,
+    "conscientiousness": 0.38666666666666666,
+    "openness": 0.8133333333333334
+  },
+  "bnoPmV0_aIc.003.mp4": {
+    "extraversion": 0.6433333333333334,
+    "neuroticism": 0.48,
+    "agreeableness": 0.5333333333333333,
+    "conscientiousness": 0.57,
+    "openness": 0.6966666666666667
+  },
+  "bt-ev53zZWE.000.mp4": {
+    "extraversion": 0.775,
+    "neuroticism": 0.815,
+    "agreeableness": 0.325,
+    "conscientiousness": 0.365,
+    "openness": 0.42333333333333334
+  },
+  "btcCanysQsw.002.mp4": {
+    "extraversion": 0.6542,
+    "neuroticism": 0.6393333333333333,
+    "agreeableness": 0.6673,
+    "conscientiousness": 0.7323000000000001,
+    "openness": 0.7805333333333334
+  },
+  "c-c6xhtIq84.003.mp4": {
+    "extraversion": 0.795,
+    "neuroticism": 0.895,
+    "agreeableness": 0.845,
+    "conscientiousness": 0.8,
+    "openness": 0.8
+  },
+  "c3SQSM9OIsA.002.mp4": {
+    "extraversion": 0.29644528107911194,
+    "neuroticism": 0.27947826086956523,
+    "agreeableness": 0.2849385518569997,
+    "conscientiousness": 0.4520301998517187,
+    "openness": 0.4204186046511628
+  },
+  "c3esnCQDoKc.001.mp4": {
+    "extraversion": 0.6758000000000001,
+    "neuroticism": 0.34380000000000005,
+    "agreeableness": 0.6727666666666666,
+    "conscientiousness": 0.6895666666666666,
+    "openness": 0.7120333333333333
+  },
+  "c672aEuUa-g.003.mp4": {
+    "extraversion": 0.9066666666666667,
+    "neuroticism": 0.9266666666666667,
+    "agreeableness": 0.8733333333333334,
+    "conscientiousness": 0.79,
+    "openness": 0.8433333333333334
+  },
+  "c672aEuUa-g.005.mp4": {
+    "extraversion": 0.425,
+    "neuroticism": 0.24166666666666667,
+    "agreeableness": 0.5666666666666667,
+    "conscientiousness": 0.5,
+    "openness": 0.6833333333333332
+  },
+  "c7tczvW3_dQ.003.mp4": {
+    "extraversion": 0.7266666666666667,
+    "neuroticism": 0.7433333333333333,
+    "agreeableness": 0.8033333333333333,
+    "conscientiousness": 0.68,
+    "openness": 0.7683333333333332
+  },
+  "cA43Gfcg0QA.005.mp4": {
+    "extraversion": 0.4,
+    "neuroticism": 0.05,
+    "agreeableness": 0.4,
+    "conscientiousness": 0.3,
+    "openness": 0.4
+  },
+  "cJs_LosR-u8.004.mp4": {
+    "extraversion": 0.7766666666666667,
+    "neuroticism": 0.47666666666666674,
+    "agreeableness": 0.79,
+    "conscientiousness": 0.6966666666666667,
+    "openness": 0.7600000000000001
+  },
+  "cLaZxEf1nE4.000.mp4": {
+    "extraversion": 0.5633333333333334,
+    "neuroticism": 0.25666666666666665,
+    "agreeableness": 0.8466666666666667,
+    "conscientiousness": 0.5533333333333333,
+    "openness": 0.9033333333333333
+  },
+  "cMLkNVKkaOQ.004.mp4": {
+    "extraversion": 0.6060457311824138,
+    "neuroticism": 0.5684904153008531,
+    "agreeableness": 0.867384309097281,
+    "conscientiousness": 0.8484099888935347,
+    "openness": 0.6791492886823582
+  },
+  "cQRFb-xa4Vc.001.mp4": {
+    "extraversion": 0.5266666666666667,
+    "neuroticism": 0.6833333333333332,
+    "agreeableness": 0.7666666666666666,
+    "conscientiousness": 0.66,
+    "openness": 0.9833333333333334
+  },
+  "cRDYrvxRJ6U.000.mp4": {
+    "extraversion": 0.4166666666666667,
+    "neuroticism": 0.3333333333333333,
+    "agreeableness": 0.5966666666666667,
+    "conscientiousness": 0.5766666666666667,
+    "openness": 0.6666666666666666
+  },
+  "cT3oyHhUznw.002.mp4": {
+    "extraversion": 0.6033333333333334,
+    "neuroticism": 0.58,
+    "agreeableness": 0.9266666666666667,
+    "conscientiousness": 0.63,
+    "openness": 0.9899999999999999
+  },
+  "cWZudzeJVXg.001.mp4": {
+    "extraversion": 0.3666666666666667,
+    "neuroticism": 0.19999999999999998,
+    "agreeableness": 0.7000000000000001,
+    "conscientiousness": 0.7666666666666666,
+    "openness": 0.3333333333333333
+  },
+  "cXqH7_dYM_k.001.mp4": {
+    "extraversion": 0.625,
+    "neuroticism": 0.525,
+    "agreeableness": 0.6,
+    "conscientiousness": 0.825,
+    "openness": 0.65
+  },
+  "cY3nHc5fDYE.001.mp4": {
+    "extraversion": 0.8533333333333334,
+    "neuroticism": 0.59,
+    "agreeableness": 0.68,
+    "conscientiousness": 0.54,
+    "openness": 0.6966666666666667
+  },
+  "cZ6xhB5yhfY.000.mp4": {
+    "extraversion": 0.5050433333333333,
+    "neuroticism": 0.27637,
+    "agreeableness": 0.48598333333333327,
+    "conscientiousness": 0.5597433333333334,
+    "openness": 0.58195
+  },
+  "cgGCyBMdGrA.005.mp4": {
+    "extraversion": 0.7666666666666666,
+    "neuroticism": 0.7000000000000001,
+    "agreeableness": 0.4666666666666666,
+    "conscientiousness": 0.7999999999999999,
+    "openness": 0.8666666666666667
+  },
+  "cgp1OzTOq1o.001.mp4": {
+    "extraversion": 0.6166666666666666,
+    "neuroticism": 0.6366666666666666,
+    "agreeableness": 0.6033333333333334,
+    "conscientiousness": 0.6699999999999999,
+    "openness": 0.7766666666666667
+  },
+  "cgp1OzTOq1o.003.mp4": {
+    "extraversion": 0.3666666666666667,
+    "neuroticism": 0.16666666666666666,
+    "agreeableness": 0.5833333333333334,
+    "conscientiousness": 0.35000000000000003,
+    "openness": 0.4166666666666667
+  },
+  "cjbh1lfr43c.003.mp4": {
+    "extraversion": 0.7066666666666667,
+    "neuroticism": 0.6416666666666666,
+    "agreeableness": 0.7233333333333333,
+    "conscientiousness": 0.6463333333333333,
+    "openness": 0.641
+  },
+  "clMg72MI8rw.005.mp4": {
+    "extraversion": 0.8221257367600684,
+    "neuroticism": 0.6121499137905108,
+    "agreeableness": 0.8885373615658403,
+    "conscientiousness": 0.7865489373452531,
+    "openness": 0.8250875968567785
+  },
+  "cnsvc0alWOA.005.mp4": {
+    "extraversion": 0.36274509804925,
+    "neuroticism": 0.6982012459474468,
+    "agreeableness": 0.7666666666666666,
+    "conscientiousness": 0.496585744680851,
+    "openness": 0.46875
+  },
+  "cpzY1b6wJqs.001.mp4": {
+    "extraversion": 0.7400000000000001,
+    "neuroticism": 0.6433333333333334,
+    "agreeableness": 0.58,
+    "conscientiousness": 0.8266666666666667,
+    "openness": 0.7033333333333333
+  },
+  "cx8IycWgMVs.001.mp4": {
+    "extraversion": 0.5966666666666667,
+    "neuroticism": 0.48019999999999996,
+    "agreeableness": 0.6841333333333334,
+    "conscientiousness": 0.767,
+    "openness": 0.6927
+  },
+  "d8skGb2ycio.001.mp4": {
+    "extraversion": 0.5310666666666667,
+    "neuroticism": 0.4166666666666667,
+    "agreeableness": 0.6854,
+    "conscientiousness": 0.6880666666666667,
+    "openness": 0.5257
+  },
+  "d9ekvXz64Mc.004.mp4": {
+    "extraversion": 0.3933333333333333,
+    "neuroticism": 0.45333333333333337,
+    "agreeableness": 0.67,
+    "conscientiousness": 0.6,
+    "openness": 0.73
+  },
+  "dB2XYhvqUBU.002.mp4": {
+    "extraversion": 0.57,
+    "neuroticism": 0.54,
+    "agreeableness": 0.5766666666666667,
+    "conscientiousness": 0.6499999999999999,
+    "openness": 0.7583333333333334
+  },
+  "dLltwqkvsNg.000.mp4": {
+    "extraversion": 0.5333333333333333,
+    "neuroticism": 0.5,
+    "agreeableness": 0.5333333333333333,
+    "conscientiousness": 0.5499999999999999,
+    "openness": 0.64
+  },
+  "d_POf1pikX0.001.mp4": {
+    "extraversion": 0.9066666666666666,
+    "neuroticism": 0.6,
+    "agreeableness": 0.8366666666666666,
+    "conscientiousness": 0.7933333333333333,
+    "openness": 0.8566666666666666
+  },
+  "dl9IT3OvI0o.000.mp4": {
+    "extraversion": 0.7466666666666667,
+    "neuroticism": 0.7795238095238095,
+    "agreeableness": 0.7152777777777778,
+    "conscientiousness": 0.7595238095238095,
+    "openness": 0.8948148148148148
+  },
+  "dy9EqbKLDP0.000.mp4": {
+    "extraversion": 0.24,
+    "neuroticism": 0.5033333333333333,
+    "agreeableness": 0.08,
+    "conscientiousness": 0.7033333333333333,
+    "openness": 0.3566666666666667
+  },
+  "eAkWSjU-JyY.005.mp4": {
+    "extraversion": 0.42333333333333334,
+    "neuroticism": 0.16,
+    "agreeableness": 0.6033333333333334,
+    "conscientiousness": 0.48666666666666664,
+    "openness": 0.6666666666666666
+  },
+  "eXtskPoi58A.004.mp4": {
+    "extraversion": 0.91,
+    "neuroticism": 0.6033333333333334,
+    "agreeableness": 0.8966666666666666,
+    "conscientiousness": 0.8833333333333334,
+    "openness": 0.8533333333333332
+  },
+  "eZwGkhUa0TQ.002.mp4": {
+    "extraversion": 0.6952380952380953,
+    "neuroticism": 0.19074074074074074,
+    "agreeableness": 0.31666666666666665,
+    "conscientiousness": 0.4666666666666666,
+    "openness": 0.7954545454545455
+  },
+  "ej0RpdM9kJA.005.mp4": {
+    "extraversion": 0.3523809523809524,
+    "neuroticism": 0.7275362642029309,
+    "agreeableness": 0.5753626420293086,
+    "conscientiousness": 0.5357022603955158,
+    "openness": 0.6384615384615384
+  },
+  "encC96iqr9Y.001.mp4": {
+    "extraversion": 0.36920528888888887,
+    "neuroticism": 0.08107462222222223,
+    "agreeableness": 0.20026861111111108,
+    "conscientiousness": 0.49495930000000005,
+    "openness": 0.6383167555555556
+  },
+  "eq1_h17oue4.004.mp4": {
+    "extraversion": 0.3578124999999999,
+    "neuroticism": 0.8447916666666666,
+    "agreeableness": 0.5268552713575682,
+    "conscientiousness": 0.5063768115942029,
+    "openness": 0.7541666666666668
+  },
+  "eq1_h17oue4.005.mp4": {
+    "extraversion": 0.6373333333333333,
+    "neuroticism": 0.5640000000000001,
+    "agreeableness": 0.49499999999999994,
+    "conscientiousness": 0.49933333333333335,
+    "openness": 0.6706666666666666
+  },
+  "evrzg3Pzyc0.005.mp4": {
+    "extraversion": 0.5333333333333333,
+    "neuroticism": 0.5,
+    "agreeableness": 0.5666666666666667,
+    "conscientiousness": 0.3,
+    "openness": 0.2333333333333333
+  },
+  "ezMO8EHKAVw.002.mp4": {
+    "extraversion": 0.825,
+    "neuroticism": 0.8066666666666666,
+    "agreeableness": 0.7766666666666667,
+    "conscientiousness": 0.7366666666666667,
+    "openness": 0.7466666666666667
+  },
+  "f4rQJiW6oSk.002.mp4": {
+    "extraversion": 0.7166666666666667,
+    "neuroticism": 0.65,
+    "agreeableness": 0.5966666666666667,
+    "conscientiousness": 0.7466666666666667,
+    "openness": 0.7999999999999999
+  },
+  "f9GeYKAXgAQ.004.mp4": {
+    "extraversion": 0.21666666666666667,
+    "neuroticism": 0.5,
+    "agreeableness": 0.25,
+    "conscientiousness": 0.6166666666666667,
+    "openness": 0.5833333333333334
+  },
+  "fBcc1UMtZME.004.mp4": {
+    "extraversion": 0.68,
+    "neuroticism": 0.5633333333333334,
+    "agreeableness": 0.6333333333333334,
+    "conscientiousness": 0.7166666666666668,
+    "openness": 0.6066666666666667
+  },
+  "fEZrAGQoh_g.003.mp4": {
+    "extraversion": 0.9333333333333332,
+    "neuroticism": 0.8333333333333334,
+    "agreeableness": 0.9666666666666667,
+    "conscientiousness": 0.9333333333333332,
+    "openness": 1.0
+  },
+  "fGAcEyZXFTo.001.mp4": {
+    "extraversion": 0.55625,
+    "neuroticism": 0.540673828125,
+    "agreeableness": 0.4982421875,
+    "conscientiousness": 0.653125,
+    "openness": 0.7386751345947766
+  },
+  "fKrX-KXgXYM.005.mp4": {
+    "extraversion": 0.6633333333333334,
+    "neuroticism": 0.505,
+    "agreeableness": 0.55,
+    "conscientiousness": 0.6933333333333334,
+    "openness": 0.6166666666666667
+  },
+  "fSDA4eEyGHk.005.mp4": {
+    "extraversion": 0.6249999999999999,
+    "neuroticism": 0.445,
+    "agreeableness": 0.8426666666666667,
+    "conscientiousness": 0.7243333333333334,
+    "openness": 0.702
+  },
+  "fUf2XzWpSVo.002.mp4": {
+    "extraversion": 0.9450000000000001,
+    "neuroticism": 0.38,
+    "agreeableness": 0.47,
+    "conscientiousness": 0.395,
+    "openness": 0.866
+  },
+  "f_mEEFFeh-0.004.mp4": {
+    "extraversion": 0.9149970448444446,
+    "neuroticism": 0.3903604523888889,
+    "agreeableness": 0.5313062142777779,
+    "conscientiousness": 0.6317812091111111,
+    "openness": 0.6960747011111111
+  },
+  "feg-RNvT-t0.004.mp4": {
+    "extraversion": 0.648,
+    "neuroticism": 0.7423333333333334,
+    "agreeableness": 0.8250000000000001,
+    "conscientiousness": 0.834,
+    "openness": 0.9483333333333333
+  },
+  "fgEddXirQvQ.000.mp4": {
+    "extraversion": 0.8666666666666667,
+    "neuroticism": 0.5,
+    "agreeableness": 0.5,
+    "conscientiousness": 0.43333333333333335,
+    "openness": 0.7999999999999999
+  },
+  "fhUGU2uiS1U.002.mp4": {
+    "extraversion": 0.638,
+    "neuroticism": 0.629,
+    "agreeableness": 0.6270000000000001,
+    "conscientiousness": 0.7439999999999999,
+    "openness": 0.7413333333333334
+  },
+  "fiEEjrKhlNU.000.mp4": {
+    "extraversion": 0.20333333333333334,
+    "neuroticism": 0.43,
+    "agreeableness": 0.27,
+    "conscientiousness": 0.31666666666666665,
+    "openness": 0.2733333333333333
+  },
+  "fiVORaERbP0.005.mp4": {
+    "extraversion": 0.9166666666666666,
+    "neuroticism": 0.9,
+    "agreeableness": 0.93,
+    "conscientiousness": 0.8933333333333334,
+    "openness": 0.9133333333333334
+  },
+  "fiVkE3iDWY4.005.mp4": {
+    "extraversion": 0.43137179487179483,
+    "neuroticism": 0.2551666666666667,
+    "agreeableness": 0.5369653846153846,
+    "conscientiousness": 0.48422222222222217,
+    "openness": 0.6040000000000001
+  },
+  "fmjILOLc3eg.004.mp4": {
+    "extraversion": 0.6933333333333334,
+    "neuroticism": 0.63,
+    "agreeableness": 0.7533333333333334,
+    "conscientiousness": 0.5166666666666667,
+    "openness": 0.64
+  },
+  "fsaslN7xV-w.001.mp4": {
+    "extraversion": 0.4266666666666667,
+    "neuroticism": 0.4166666666666667,
+    "agreeableness": 0.8033333333333333,
+    "conscientiousness": 0.8466666666666667,
+    "openness": 0.7066666666666666
+  },
+  "fv5lLeyRdd4.003.mp4": {
+    "extraversion": 0.8833333333333333,
+    "neuroticism": 0.36000000000000004,
+    "agreeableness": 0.9666666666666667,
+    "conscientiousness": 0.59,
+    "openness": 0.9333333333333332
+  },
+  "fwJykIyvS04.003.mp4": {
+    "extraversion": 0.3833,
+    "neuroticism": 0.6166333333333333,
+    "agreeableness": 0.8066333333333334,
+    "conscientiousness": 0.5133,
+    "openness": 0.5466666666666667
+  },
+  "fwJykIyvS04.004.mp4": {
+    "extraversion": 0.6000000000000001,
+    "neuroticism": 0.375,
+    "agreeableness": 0.69,
+    "conscientiousness": 0.5,
+    "openness": 0.675
+  },
+  "fyXiORXmWHs.001.mp4": {
+    "extraversion": 0.4633333333333334,
+    "neuroticism": 0.9966666666666667,
+    "agreeableness": 0.8166666666666668,
+    "conscientiousness": 0.7999999999999999,
+    "openness": 0.8300000000000001
+  },
+  "g0PWBzU95sI.003.mp4": {
+    "extraversion": 0.8614814814814814,
+    "neuroticism": 0.6790476190476191,
+    "agreeableness": 0.6966666666666667,
+    "conscientiousness": 0.6533333333333334,
+    "openness": 0.7744444444444444
+  },
+  "g24JGYuT74A.004.mp4": {
+    "extraversion": 0.48666666666666664,
+    "neuroticism": 0.5066666666666667,
+    "agreeableness": 0.5866666666666667,
+    "conscientiousness": 0.5833333333333334,
+    "openness": 0.75
+  },
+  "gGyV-rc-sKE.003.mp4": {
+    "extraversion": 0.35,
+    "neuroticism": 0.16666666666666666,
+    "agreeableness": 0.49999999999999994,
+    "conscientiousness": 0.46666666666666673,
+    "openness": 0.6333333333333333
+  },
+  "gJPlOShvaoI.002.mp4": {
+    "extraversion": 0.5433333333333333,
+    "neuroticism": 0.3766666666666667,
+    "agreeableness": 0.6633333333333333,
+    "conscientiousness": 0.6133333333333333,
+    "openness": 0.8266666666666667
+  },
+  "gX20EUUZc9M.003.mp4": {
+    "extraversion": 0.9666666666666667,
+    "neuroticism": 0.8333333333333334,
+    "agreeableness": 0.8666666666666666,
+    "conscientiousness": 0.9333333333333332,
+    "openness": 0.8333333333333334
+  },
+  "gZzB49daFfA.001.mp4": {
+    "extraversion": 0.5166666666666667,
+    "neuroticism": 0.5756666666666667,
+    "agreeableness": 0.45566666666666666,
+    "conscientiousness": 0.5656666666666667,
+    "openness": 0.9339999999999999
+  },
+  "g_UeE-1ghtQ.000.mp4": {
+    "extraversion": 0.3633333333333333,
+    "neuroticism": 0.5333333333333333,
+    "agreeableness": 0.44333333333333336,
+    "conscientiousness": 0.4333333333333333,
+    "openness": 0.65
+  },
+  "gkhbUDIK-YM.001.mp4": {
+    "extraversion": 0.48666666666666664,
+    "neuroticism": 0.29,
+    "agreeableness": 0.4166666666666667,
+    "conscientiousness": 0.47666666666666674,
+    "openness": 0.8250000000000001
+  },
+  "gkhbUDIK-YM.002.mp4": {
+    "extraversion": 0.5933333333333334,
+    "neuroticism": 0.03333333333333333,
+    "agreeableness": 0.42333333333333334,
+    "conscientiousness": 0.8633333333333333,
+    "openness": 1.0
+  },
+  "gngqDNTAXnI.001.mp4": {
+    "extraversion": 0.5166666666666667,
+    "neuroticism": 0.38000000000000006,
+    "agreeableness": 0.6333333333333333,
+    "conscientiousness": 0.37333333333333335,
+    "openness": 0.45333333333333337
+  },
+  "h6LOjpCRXtY.000.mp4": {
+    "extraversion": 0.2333333333333333,
+    "neuroticism": 0.19999999999999998,
+    "agreeableness": 0.26666666666666666,
+    "conscientiousness": 0.3,
+    "openness": 0.26666666666666666
+  },
+  "hDqsuyVeWmw.001.mp4": {
+    "extraversion": 0.8329999999999999,
+    "neuroticism": 0.7313333333333333,
+    "agreeableness": 0.7816666666666666,
+    "conscientiousness": 0.7773333333333333,
+    "openness": 0.8666666666666666
+  },
+  "hI-wCYzV8xs.002.mp4": {
+    "extraversion": 0.9437251568627452,
+    "neuroticism": 0.7863150719054949,
+    "agreeableness": 0.9585710952380952,
+    "conscientiousness": 0.9248144814814815,
+    "openness": 0.9399995
+  },
+  "hIFNZ_ycngg.000.mp4": {
+    "extraversion": 0.6333333333333333,
+    "neuroticism": 0.45,
+    "agreeableness": 0.4333333333333333,
+    "conscientiousness": 0.5,
+    "openness": 0.5
+  },
+  "hIxLNK_x_QA.003.mp4": {
+    "extraversion": 0.39999999999999997,
+    "neuroticism": 0.6333333333333333,
+    "agreeableness": 0.7000000000000001,
+    "conscientiousness": 0.5333333333333333,
+    "openness": 0.6
+  },
+  "hPguTv1Zvg8.005.mp4": {
+    "extraversion": 0.63,
+    "neuroticism": 0.47000000000000003,
+    "agreeableness": 0.49666666666666665,
+    "conscientiousness": 0.5466666666666667,
+    "openness": 0.5366666666666666
+  },
+  "heE4ZZXwehI.001.mp4": {
+    "extraversion": 0.6,
+    "neuroticism": 0.48333333333333334,
+    "agreeableness": 0.7000000000000001,
+    "conscientiousness": 0.5499999999999999,
+    "openness": 0.6166666666666667
+  },
+  "heE4ZZXwehI.005.mp4": {
+    "extraversion": 0.9398666666666666,
+    "neuroticism": 0.8684,
+    "agreeableness": 0.9440666666666666,
+    "conscientiousness": 0.8886999999999999,
+    "openness": 0.8174999999999999
+  },
+  "hnWMsZEQWt4.004.mp4": {
+    "extraversion": 0.5666666666666667,
+    "neuroticism": 0.5066666666666667,
+    "agreeableness": 0.36333333333333334,
+    "conscientiousness": 0.42333333333333334,
+    "openness": 0.31666666666666665
+  },
+  "hnWMsZEQWt4.005.mp4": {
+    "extraversion": 0.7333333333333334,
+    "neuroticism": 0.10000000000000002,
+    "agreeableness": 0.39999999999999997,
+    "conscientiousness": 0.4000000000000001,
+    "openness": 0.4666666666666666
+  },
+  "hquzfo9MVDo.000.mp4": {
+    "extraversion": 0.5411111111111111,
+    "neuroticism": 0.4033333333333333,
+    "agreeableness": 0.44333333333333336,
+    "conscientiousness": 0.4166666666666667,
+    "openness": 0.4777777777777778
+  },
+  "hquzfo9MVDo.005.mp4": {
+    "extraversion": 0.6538,
+    "neuroticism": 0.6103,
+    "agreeableness": 0.9096000000000001,
+    "conscientiousness": 0.9468666666666667,
+    "openness": 0.9539
+  },
+  "hrat_RJczFM.003.mp4": {
+    "extraversion": 0.855,
+    "neuroticism": 0.78,
+    "agreeableness": 0.79,
+    "conscientiousness": 0.885,
+    "openness": 0.835
+  },
+  "hsXn0N8bAYs.000.mp4": {
+    "extraversion": 0.5533333333333333,
+    "neuroticism": 0.38999999999999996,
+    "agreeableness": 0.8033333333333333,
+    "conscientiousness": 0.96,
+    "openness": 0.8633333333333333
+  },
+  "iEgV9E3xm90.004.mp4": {
+    "extraversion": 0.645,
+    "neuroticism": 0.49,
+    "agreeableness": 0.53,
+    "conscientiousness": 0.56,
+    "openness": 0.655
+  },
+  "iVtaXNWqFac.001.mp4": {
+    "extraversion": 0.554,
+    "neuroticism": 0.4626666666666667,
+    "agreeableness": 0.6183333333333333,
+    "conscientiousness": 0.48866666666666664,
+    "openness": 0.707
+  },
+  "idsEawKW4X8.002.mp4": {
+    "extraversion": 0.8766666666666666,
+    "neuroticism": 0.6133333333333333,
+    "agreeableness": 0.7233333333333333,
+    "conscientiousness": 0.6166666666666667,
+    "openness": 0.98
+  },
+  "ilOi-sQo9HI.002.mp4": {
+    "extraversion": 0.66,
+    "neuroticism": 0.6266666666666667,
+    "agreeableness": 0.7633333333333333,
+    "conscientiousness": 0.6766666666666667,
+    "openness": 0.7399999999999999
+  },
+  "ilOi-sQo9HI.004.mp4": {
+    "extraversion": 0.39999999999999997,
+    "neuroticism": 0.7233333333333333,
+    "agreeableness": 0.3666666666666667,
+    "conscientiousness": 0.48333333333333334,
+    "openness": 0.71
+  },
+  "ipP--IqIuWU.004.mp4": {
+    "extraversion": 0.7466666666666667,
+    "neuroticism": 0.43,
+    "agreeableness": 0.6333333333333333,
+    "conscientiousness": 0.6633333333333332,
+    "openness": 0.8066666666666666
+  },
+  "isaP2l3rlBQ.002.mp4": {
+    "extraversion": 0.43333333333333335,
+    "neuroticism": 0.3666666666666667,
+    "agreeableness": 0.5,
+    "conscientiousness": 0.5,
+    "openness": 0.5333333333333333
+  },
+  "isqmQc9AfBc.002.mp4": {
+    "extraversion": 0.82,
+    "neuroticism": 0.8066666666666666,
+    "agreeableness": 0.8266666666666667,
+    "conscientiousness": 0.7433333333333333,
+    "openness": 0.9133333333333334
+  },
+  "itQ2wSlXqCw.003.mp4": {
+    "extraversion": 0.5666666666666668,
+    "neuroticism": 0.4166666666666667,
+    "agreeableness": 0.5499999999999999,
+    "conscientiousness": 0.6666666666666666,
+    "openness": 0.65
+  },
+  "ixPqs7L8oAE.001.mp4": {
+    "extraversion": 0.7575783275783277,
+    "neuroticism": 0.5091166091166092,
+    "agreeableness": 0.5757832757832758,
+    "conscientiousness": 0.6091166091166091,
+    "openness": 0.8091166091166091
+  },
+  "j-9NUiMYbos.001.mp4": {
+    "extraversion": 0.8068518518518518,
+    "neuroticism": 0.5885185185185184,
+    "agreeableness": 0.6598148148148147,
+    "conscientiousness": 0.6422222222222222,
+    "openness": 0.9309523809523809
+  },
+  "j5fXaXrNPoA.002.mp4": {
+    "extraversion": 0.4633333333333334,
+    "neuroticism": 0.8633333333333333,
+    "agreeableness": 0.82,
+    "conscientiousness": 0.5299999999999999,
+    "openness": 0.93
+  },
+  "j6d-KRDXnUI.002.mp4": {
+    "extraversion": 0.7111111111111111,
+    "neuroticism": 0.45,
+    "agreeableness": 0.6333333333333333,
+    "conscientiousness": 0.75,
+    "openness": 0.6555555555555556
+  },
+  "j6d-KRDXnUI.004.mp4": {
+    "extraversion": 0.68,
+    "neuroticism": 0.7766666666666667,
+    "agreeableness": 0.7433333333333333,
+    "conscientiousness": 0.8033333333333333,
+    "openness": 0.8500000000000001
+  },
+  "j6d-KRDXnUI.005.mp4": {
+    "extraversion": 0.967,
+    "neuroticism": 0.6383333333333333,
+    "agreeableness": 0.9606666666666666,
+    "conscientiousness": 0.6296666666666667,
+    "openness": 0.9633333333333334
+  },
+  "j7VLzb0qw8Q.005.mp4": {
+    "extraversion": 0.3666666666666667,
+    "neuroticism": 0.3333333333333333,
+    "agreeableness": 0.3333333333333333,
+    "conscientiousness": 0.3666666666666667,
+    "openness": 0.4666666666666666
+  },
+  "jOTlJwOBSd4.001.mp4": {
+    "extraversion": 0.7166666666666665,
+    "neuroticism": 0.6966666666666667,
+    "agreeableness": 0.79,
+    "conscientiousness": 0.69,
+    "openness": 0.7366666666666667
+  },
+  "jQRFHBVs0dA.002.mp4": {
+    "extraversion": 0.22999999999999998,
+    "neuroticism": 0.26,
+    "agreeableness": 0.5666666666666667,
+    "conscientiousness": 0.27666666666666667,
+    "openness": 0.62
+  },
+  "jSw-grsJCnE.002.mp4": {
+    "extraversion": 0.9166666666666666,
+    "neuroticism": 0.9966666666666667,
+    "agreeableness": 0.9466666666666667,
+    "conscientiousness": 0.8933333333333334,
+    "openness": 0.9333333333333332
+  },
+  "jVSnAbEGKLM.000.mp4": {
+    "extraversion": 0.6641112024760378,
+    "neuroticism": 0.39900864551880105,
+    "agreeableness": 0.6471617957637109,
+    "conscientiousness": 0.6833626232333438,
+    "openness": 0.6749217470612056
+  },
+  "jVSnAbEGKLM.001.mp4": {
+    "extraversion": 0.6525555555555554,
+    "neuroticism": 0.5701,
+    "agreeableness": 0.7232,
+    "conscientiousness": 0.5477333333333334,
+    "openness": 0.6487888888888889
+  },
+  "jd9_8OPxM3A.005.mp4": {
+    "extraversion": 0.7799999999999999,
+    "neuroticism": 0.5299999999999999,
+    "agreeableness": 0.7633333333333333,
+    "conscientiousness": 0.8300000000000001,
+    "openness": 0.69
+  },
+  "jmbAPNTJ3Vk.004.mp4": {
+    "extraversion": 0.87,
+    "neuroticism": 0.545,
+    "agreeableness": 0.825,
+    "conscientiousness": 0.74,
+    "openness": 0.5
+  },
+  "jrH_Pj-X0fs.004.mp4": {
+    "extraversion": 0.4443333333333333,
+    "neuroticism": 0.3646666666666667,
+    "agreeableness": 0.43500000000000005,
+    "conscientiousness": 0.48900000000000005,
+    "openness": 0.4226666666666667
+  },
+  "jrhvXPaXo-0.003.mp4": {
+    "extraversion": 0.7849999999999999,
+    "neuroticism": 0.6433333333333334,
+    "agreeableness": 0.6116666666666667,
+    "conscientiousness": 0.8233333333333334,
+    "openness": 0.8466666666666667
+  },
+  "jrhvXPaXo-0.004.mp4": {
+    "extraversion": 0.6031966666666667,
+    "neuroticism": 0.41,
+    "agreeableness": 0.2719666666666667,
+    "conscientiousness": 0.1688666666666667,
+    "openness": 0.5860833333333333
+  },
+  "jwcSbw4NDn0.001.mp4": {
+    "extraversion": 0.7706666666666667,
+    "neuroticism": 0.46399999999999997,
+    "agreeableness": 0.6446666666666666,
+    "conscientiousness": 0.6156666666666667,
+    "openness": 0.604
+  },
+  "jxoOEkSq0uM.002.mp4": {
+    "extraversion": 0.44,
+    "neuroticism": 0.3833333333333333,
+    "agreeableness": 0.4566666666666667,
+    "conscientiousness": 0.48,
+    "openness": 0.32666666666666666
+  },
+  "kAjvzIWWrWA.000.mp4": {
+    "extraversion": 0.8133333333333334,
+    "neuroticism": 0.4566666666666667,
+    "agreeableness": 0.81,
+    "conscientiousness": 0.8833333333333333,
+    "openness": 0.9450000000000001
+  },
+  "kK534gUcRF4.000.mp4": {
+    "extraversion": 0.69096440954023,
+    "neuroticism": 0.540976430976431,
+    "agreeableness": 0.6439130434782608,
+    "conscientiousness": 0.5446470756084708,
+    "openness": 0.8103921568627451
+  },
+  "kKRc2aXzQyM.001.mp4": {
+    "extraversion": 0.44333333333333336,
+    "neuroticism": 0.37666666666666665,
+    "agreeableness": 0.49666666666666665,
+    "conscientiousness": 0.5066666666666667,
+    "openness": 0.9933333333333333
+  },
+  "kPXVZD3ac8s.001.mp4": {
+    "extraversion": 0.0,
+    "neuroticism": 0.0,
+    "agreeableness": 0.0,
+    "conscientiousness": 1.0,
+    "openness": 0.0
+  },
+  "kPife9TY9Pw.004.mp4": {
+    "extraversion": 0.8166666666666668,
+    "neuroticism": 0.7999999999999999,
+    "agreeableness": 0.5033333333333333,
+    "conscientiousness": 0.49333333333333335,
+    "openness": 0.48333333333333334
+  },
+  "kSk-rf7a1Ig.005.mp4": {
+    "extraversion": 0.6383333333333333,
+    "neuroticism": 0.6946666666666667,
+    "agreeableness": 0.6456666666666667,
+    "conscientiousness": 0.5946666666666667,
+    "openness": 0.7963333333333334
+  },
+  "kV7MFI2_ddo.003.mp4": {
+    "extraversion": 0.35000000000000003,
+    "neuroticism": 0.5499999999999999,
+    "agreeableness": 0.31666666666666665,
+    "conscientiousness": 0.3733333333333333,
+    "openness": 0.4166666666666667
+  },
+  "kX-o1qmgWvc.003.mp4": {
+    "extraversion": 0.35833333333333334,
+    "neuroticism": 0.3458333333333334,
+    "agreeableness": 0.5708333333333333,
+    "conscientiousness": 0.6729166666666666,
+    "openness": 0.4041666666666666
+  },
+  "kY_4WyAXxrQ.001.mp4": {
+    "extraversion": 0.7233015103779558,
+    "neuroticism": 0.7084784213349917,
+    "agreeableness": 0.8463784556866671,
+    "conscientiousness": 0.808510554994975,
+    "openness": 0.8344003376949055
+  },
+  "l0qApUuiDjo.000.mp4": {
+    "extraversion": 0.5066666666666667,
+    "neuroticism": 0.43333333333333335,
+    "agreeableness": 0.5599999999999999,
+    "conscientiousness": 0.7166666666666667,
+    "openness": 0.9219999999999999
+  },
+  "l3IoZ_QmOQo.005.mp4": {
+    "extraversion": 0.7209876333333333,
+    "neuroticism": 0.16972220000000002,
+    "agreeableness": 0.6135689333333333,
+    "conscientiousness": 0.5569556333333333,
+    "openness": 0.8059514
+  },
+  "l7U3YDIOE_s.004.mp4": {
+    "extraversion": 0.7275474058134576,
+    "neuroticism": 0.7083204194277517,
+    "agreeableness": 0.6677368804447078,
+    "conscientiousness": 0.7791991240001526,
+    "openness": 0.7268138040413481
+  },
+  "lLObIVKYDUI.003.mp4": {
+    "extraversion": 0.35646666666666665,
+    "neuroticism": 0.17489999999999997,
+    "agreeableness": 0.5816,
+    "conscientiousness": 0.3027666666666667,
+    "openness": 0.7318666666666666
+  },
+  "lLhd1Cs3XDU.001.mp4": {
+    "extraversion": 0.6,
+    "neuroticism": 0.2333333333333333,
+    "agreeableness": 0.26666666666666666,
+    "conscientiousness": 0.8333333333333334,
+    "openness": 0.5666666666666667
+  },
+  "lShOveDL2dw.003.mp4": {
+    "extraversion": 0.4266666666666667,
+    "neuroticism": 0.61,
+    "agreeableness": 0.45,
+    "conscientiousness": 0.45999999999999996,
+    "openness": 0.5833333333333334
+  },
+  "leslBYwG8kc.001.mp4": {
+    "extraversion": 0.5914817204301075,
+    "neuroticism": 0.44129838709677416,
+    "agreeableness": 0.5517317708333334,
+    "conscientiousness": 0.47603333333333336,
+    "openness": 0.5463052083333332
+  },
+  "lkdQjIunxSE.004.mp4": {
+    "extraversion": 0.7836666666666666,
+    "neuroticism": 0.6928333333333333,
+    "agreeableness": 0.8289333333333332,
+    "conscientiousness": 0.8833666666666667,
+    "openness": 0.9834666666666667
+  },
+  "lkeXyB-3Gs0.000.mp4": {
+    "extraversion": 0.6797230000000001,
+    "neuroticism": 0.47099599999999997,
+    "agreeableness": 0.5651230000000002,
+    "conscientiousness": 0.5940306,
+    "openness": 0.6204746666666667
+  },
+  "lxnV9X8T2Zc.002.mp4": {
+    "extraversion": 0.5,
+    "neuroticism": 0.5,
+    "agreeableness": 1.0,
+    "conscientiousness": 0.5,
+    "openness": 1.0
+  },
+  "lyZZSU1ziCQ.004.mp4": {
+    "extraversion": 0.6833333333333332,
+    "neuroticism": 0.54,
+    "agreeableness": 0.7566666666666667,
+    "conscientiousness": 0.5866666666666667,
+    "openness": 0.5933333333333334
+  },
+  "m-GLU7qAR28.001.mp4": {
+    "extraversion": 0.7633333333333333,
+    "neuroticism": 0.57,
+    "agreeableness": 0.7433333333333333,
+    "conscientiousness": 0.6833333333333332,
+    "openness": 0.7199999999999999
+  },
+  "m2uxFfpb5xU.003.mp4": {
+    "extraversion": 0.7399999999999999,
+    "neuroticism": 0.3666666666666667,
+    "agreeableness": 0.5533333333333333,
+    "conscientiousness": 0.6133333333333333,
+    "openness": 0.7066666666666667
+  },
+  "m2uxFfpb5xU.004.mp4": {
+    "extraversion": 0.25,
+    "neuroticism": 0.48,
+    "agreeableness": 0.5466666666666666,
+    "conscientiousness": 0.28,
+    "openness": 0.4733333333333334
+  },
+  "mBdVuEXRlfQ.005.mp4": {
+    "extraversion": 0.6333333333333333,
+    "neuroticism": 0.4444444444444444,
+    "agreeableness": 0.7000000000000001,
+    "conscientiousness": 0.8888888888888888,
+    "openness": 0.9333333333333332
+  },
+  "mEQBB6XsJFk.003.mp4": {
+    "extraversion": 0.63,
+    "neuroticism": 0.24,
+    "agreeableness": 0.6933333333333334,
+    "conscientiousness": 0.5833333333333334,
+    "openness": 0.79
+  },
+  "mFz5Fbs97QA.000.mp4": {
+    "extraversion": 0.7333333333333334,
+    "neuroticism": 0.8666666666666667,
+    "agreeableness": 0.5333333333333333,
+    "conscientiousness": 0.7666666666666666,
+    "openness": 0.8333333333333334
+  },
+  "mKWscEow1U8.003.mp4": {
+    "extraversion": 0.7166666666666667,
+    "neuroticism": 0.6666666666666666,
+    "agreeableness": 0.7166666666666668,
+    "conscientiousness": 0.5833333333333334,
+    "openness": 0.7333333333333334
+  },
+  "mZQP06F94u8.000.mp4": {
+    "extraversion": 0.9,
+    "neuroticism": 0.7333333333333334,
+    "agreeableness": 0.8666666666666667,
+    "conscientiousness": 0.7999999999999999,
+    "openness": 0.8833333333333333
+  },
+  "me15sHPOjKo.004.mp4": {
+    "extraversion": 0.5830000000000001,
+    "neuroticism": 0.4896666666666667,
+    "agreeableness": 0.6236666666666667,
+    "conscientiousness": 0.7436666666666666,
+    "openness": 0.6073333333333334
+  },
+  "mlXZQ8dO0nQ.000.mp4": {
+    "extraversion": 0.8243666666666667,
+    "neuroticism": 0.7130666666666667,
+    "agreeableness": 0.8595666666666667,
+    "conscientiousness": 0.8304333333333332,
+    "openness": 0.8414666666666667
+  },
+  "mpk5Ubw2fj8.002.mp4": {
+    "extraversion": 0.44333333333333336,
+    "neuroticism": 0.7766666666666667,
+    "agreeableness": 0.86,
+    "conscientiousness": 0.9500000000000001,
+    "openness": 0.85
+  },
+  "mpk5Ubw2fj8.005.mp4": {
+    "extraversion": 0.7845999999999999,
+    "neuroticism": 0.23609999999999998,
+    "agreeableness": 0.7540333333333334,
+    "conscientiousness": 0.7672666666666667,
+    "openness": 0.8349333333333333
+  },
+  "n1nVCG0zqOI.001.mp4": {
+    "extraversion": 0.6394333333333333,
+    "neuroticism": 0.4436,
+    "agreeableness": 0.5523666666666667,
+    "conscientiousness": 0.49479999999999996,
+    "openness": 0.6836000000000001
+  },
+  "n4NkVZ1_dfk.001.mp4": {
+    "extraversion": 0.54,
+    "neuroticism": 0.5933333333333333,
+    "agreeableness": 0.47333333333333333,
+    "conscientiousness": 0.5066666666666667,
+    "openness": 0.6433333333333334
+  },
+  "n5Jeeqfj2_U.001.mp4": {
+    "extraversion": 0.16333333333333333,
+    "neuroticism": 0.7966666666666667,
+    "agreeableness": 0.13666666666666666,
+    "conscientiousness": 0.16,
+    "openness": 0.06333333333333334
+  },
+  "n877YOU6Qy0.000.mp4": {
+    "extraversion": 0.5033333333333333,
+    "neuroticism": 0.5966666666666667,
+    "agreeableness": 0.64,
+    "conscientiousness": 0.7066666666666667,
+    "openness": 0.6266666666666666
+  },
+  "n8IiQJyqjiE.002.mp4": {
+    "extraversion": 0.13333333333333333,
+    "neuroticism": 0.43333333333333335,
+    "agreeableness": 0.5333333333333333,
+    "conscientiousness": 0.5333333333333333,
+    "openness": 1.0
+  },
+  "n9eruV15f3o.003.mp4": {
+    "extraversion": 0.5033333333333333,
+    "neuroticism": 0.19666666666666666,
+    "agreeableness": 0.44333333333333336,
+    "conscientiousness": 0.6966666666666667,
+    "openness": 0.5566666666666666
+  },
+  "nEm44UpCKmA.002.mp4": {
+    "extraversion": 0.8333333333333334,
+    "neuroticism": 0.31666666666666665,
+    "agreeableness": 0.43333333333333335,
+    "conscientiousness": 0.31666666666666665,
+    "openness": 0.5
+  },
+  "nLB29nx1Jp4.000.mp4": {
+    "extraversion": 0.6833333333333332,
+    "neuroticism": 0.5633333333333334,
+    "agreeableness": 0.82,
+    "conscientiousness": 0.6633333333333333,
+    "openness": 0.8466666666666667
+  },
+  "nOFHZ_s7Et4.000.mp4": {
+    "extraversion": 0.04,
+    "neuroticism": 0.06,
+    "agreeableness": 0.21500000000000002,
+    "conscientiousness": 0.305,
+    "openness": 0.29
+  },
+  "nQtiqrceBhg.000.mp4": {
+    "extraversion": 0.7246666666666668,
+    "neuroticism": 0.5803333333333334,
+    "agreeableness": 0.7040000000000001,
+    "conscientiousness": 0.7929999999999998,
+    "openness": 0.9630000000000001
+  },
+  "nZz1hK90gwA.005.mp4": {
+    "extraversion": 0.7628758169934972,
+    "neuroticism": 0.7048958333333334,
+    "agreeableness": 0.7283006535947713,
+    "conscientiousness": 0.7545098039215686,
+    "openness": 0.8154629629629628
+  },
+  "naAGy30bnwA.001.mp4": {
+    "extraversion": 0.8380952380952381,
+    "neuroticism": 0.6222222222222222,
+    "agreeableness": 0.8380952380952381,
+    "conscientiousness": 0.8111111111111112,
+    "openness": 0.7777777777777778
+  },
+  "naAGy30bnwA.004.mp4": {
+    "extraversion": 0.6900000000000001,
+    "neuroticism": 0.4266666666666667,
+    "agreeableness": 0.7633333333333333,
+    "conscientiousness": 0.6433333333333334,
+    "openness": 0.665
+  },
+  "niWi1hcuSmo.004.mp4": {
+    "extraversion": 0.6543333333333333,
+    "neuroticism": 0.629,
+    "agreeableness": 0.6483333333333333,
+    "conscientiousness": 0.5923333333333334,
+    "openness": 0.602
+  },
+  "nkmYbzMmrYw.005.mp4": {
+    "extraversion": 0.8966666666666666,
+    "neuroticism": 0.5033333333333333,
+    "agreeableness": 0.9166666666666666,
+    "conscientiousness": 0.6833333333333332,
+    "openness": 0.8766666666666666
+  },
+  "nmZRXxKPPuQ.001.mp4": {
+    "extraversion": 0.34,
+    "neuroticism": 0.22999999999999998,
+    "agreeableness": 0.6533333333333333,
+    "conscientiousness": 0.36000000000000004,
+    "openness": 0.6466666666666667
+  },
+  "nmZRXxKPPuQ.004.mp4": {
+    "extraversion": 0.7366666666666667,
+    "neuroticism": 0.7633333333333333,
+    "agreeableness": 0.8266666666666667,
+    "conscientiousness": 0.6933333333333334,
+    "openness": 0.7833333333333332
+  },
+  "nndDX4RgU1w.001.mp4": {
+    "extraversion": 0.666620262328722,
+    "neuroticism": 0.5088548954511128,
+    "agreeableness": 0.6738148379296419,
+    "conscientiousness": 0.5593871205109616,
+    "openness": 0.5885429315624212
+  },
+  "nndDX4RgU1w.003.mp4": {
+    "extraversion": 0.5947306553333332,
+    "neuroticism": 0.6671324163333333,
+    "agreeableness": 0.7473933206666666,
+    "conscientiousness": 0.7251808080000001,
+    "openness": 0.7381960973333334
+  },
+  "nvlqJbHk_Lc.001.mp4": {
+    "extraversion": 0.5966666666666667,
+    "neuroticism": 0.7166666666666668,
+    "agreeableness": 0.5433333333333333,
+    "conscientiousness": 0.8099999999999999,
+    "openness": 0.8333333333333334
+  },
+  "nvlqJbHk_Lc.003.mp4": {
+    "extraversion": 0.8300000000000001,
+    "neuroticism": 0.68,
+    "agreeableness": 0.4533333333333333,
+    "conscientiousness": 0.39999999999999997,
+    "openness": 0.9133333333333334
+  },
+  "nvlqJbHk_Lc.005.mp4": {
+    "extraversion": 0.30466666666666664,
+    "neuroticism": 0.5619999999999999,
+    "agreeableness": 0.2356666666666667,
+    "conscientiousness": 0.22766666666666668,
+    "openness": 0.3266666666666666
+  },
+  "oC-qxnrmJws.004.mp4": {
+    "extraversion": 0.6083333333333333,
+    "neuroticism": 0.4583333333333333,
+    "agreeableness": 0.4943333333333333,
+    "conscientiousness": 0.7000000000000001,
+    "openness": 0.511
+  },
+  "oYiWW-Qc0rs.004.mp4": {
+    "extraversion": 0.16666666666666666,
+    "neuroticism": 0.43333333333333335,
+    "agreeableness": 0.6333333333333333,
+    "conscientiousness": 0.6,
+    "openness": 0.6
+  },
+  "oe1PZxExhzc.000.mp4": {
+    "extraversion": 0.4077999981816966,
+    "neuroticism": 0.2888888888888889,
+    "agreeableness": 0.6714285714285714,
+    "conscientiousness": 0.5707112666602865,
+    "openness": 0.5653512677408855
+  },
+  "oe1PZxExhzc.002.mp4": {
+    "extraversion": 0.31813284599311464,
+    "neuroticism": 0.25429703128860265,
+    "agreeableness": 0.5164751307799677,
+    "conscientiousness": 0.33844613179804783,
+    "openness": 0.3638154608005859
+  },
+  "oe1PZxExhzc.004.mp4": {
+    "extraversion": 0.39333333333333337,
+    "neuroticism": 0.3666666666666667,
+    "agreeableness": 0.45,
+    "conscientiousness": 0.3,
+    "openness": 0.43999999999999995
+  },
+  "ogSLrHVeqLI.002.mp4": {
+    "extraversion": 0.5653333333333334,
+    "neuroticism": 0.162,
+    "agreeableness": 0.523,
+    "conscientiousness": 0.20666666666666667,
+    "openness": 0.328
+  },
+  "omeHsKF7InA.004.mp4": {
+    "extraversion": 0.4944444444444444,
+    "neuroticism": 0.24666666666666667,
+    "agreeableness": 0.3633333333333333,
+    "conscientiousness": 0.7266666666666667,
+    "openness": 0.7857022603955158
+  },
+  "oontew1LiUU.000.mp4": {
+    "extraversion": 0.5266666666666667,
+    "neuroticism": 0.5166666666666667,
+    "agreeableness": 0.9266666666666666,
+    "conscientiousness": 0.51,
+    "openness": 0.5833333333333334
+  },
+  "oontew1LiUU.002.mp4": {
+    "extraversion": 0.6875,
+    "neuroticism": 0.111,
+    "agreeableness": 0.3,
+    "conscientiousness": 0.8,
+    "openness": 0.6875
+  },
+  "oontew1LiUU.003.mp4": {
+    "extraversion": 0.5891251189013297,
+    "neuroticism": 0.6155782975353844,
+    "agreeableness": 0.6582639952437331,
+    "conscientiousness": 0.5537603294598163,
+    "openness": 0.5372988256981411
+  },
+  "oontew1LiUU.004.mp4": {
+    "extraversion": 0.79,
+    "neuroticism": 0.9199999999999999,
+    "agreeableness": 0.89,
+    "conscientiousness": 0.9266666666666666,
+    "openness": 0.9133333333333334
+  },
+  "opqoflph5ZE.002.mp4": {
+    "extraversion": 0.5166666666666667,
+    "neuroticism": 0.5833333333333334,
+    "agreeableness": 0.18333333333333335,
+    "conscientiousness": 0.19999999999999998,
+    "openness": 0.5
+  },
+  "oqXx6ipHfUE.004.mp4": {
+    "extraversion": 0.9053214480853509,
+    "neuroticism": 0.3347266164428478,
+    "agreeableness": 0.3827450980392157,
+    "conscientiousness": 0.8298743815053573,
+    "openness": 0.8139828337269018
+  },
+  "ouYYWCY__5A.002.mp4": {
+    "extraversion": 0.7008333333333333,
+    "neuroticism": 0.6591666666666667,
+    "agreeableness": 0.8216666666666667,
+    "conscientiousness": 0.6549999999999999,
+    "openness": 0.5529166666666666
+  },
+  "ouYYWCY__5A.003.mp4": {
+    "extraversion": 0.7223333333333334,
+    "neuroticism": 0.7143333333333333,
+    "agreeableness": 0.5453333333333333,
+    "conscientiousness": 0.7493333333333333,
+    "openness": 0.6586666666666667
+  },
+  "ouYYWCY__5A.004.mp4": {
+    "extraversion": 0.6686666666666667,
+    "neuroticism": 0.7616666666666667,
+    "agreeableness": 0.8513333333333334,
+    "conscientiousness": 1.1083333333333334,
+    "openness": 0.654
+  },
+  "owRKOW0ymCM.001.mp4": {
+    "extraversion": 0.413,
+    "neuroticism": 0.35333333333333333,
+    "agreeableness": 0.22166666666666668,
+    "conscientiousness": 0.2886666666666667,
+    "openness": 0.46466666666666673
+  },
+  "owRKOW0ymCM.004.mp4": {
+    "extraversion": 0.6589223333333333,
+    "neuroticism": 0.553872,
+    "agreeableness": 0.6701186666666666,
+    "conscientiousness": 0.739528,
+    "openness": 0.7674715000000001
+  },
+  "p-V78q8dtYo.004.mp4": {
+    "extraversion": 0.54,
+    "neuroticism": 0.6146666666666666,
+    "agreeableness": 0.4403333333333333,
+    "conscientiousness": 0.5246666666666667,
+    "openness": 0.5493333333333333
+  },
+  "p6UMx8dwHZQ.005.mp4": {
+    "extraversion": 0.5137333333333333,
+    "neuroticism": 0.46526666666666666,
+    "agreeableness": 0.41983333333333334,
+    "conscientiousness": 0.4698333333333333,
+    "openness": 0.4199
+  },
+  "pDt0F4zFfBs.004.mp4": {
+    "extraversion": 0.5366666666666666,
+    "neuroticism": 0.5299999999999999,
+    "agreeableness": 0.48666666666666664,
+    "conscientiousness": 0.7833333333333333,
+    "openness": 0.9766666666666667
+  },
+  "pEYFpmjwKC0.000.mp4": {
+    "extraversion": 0.5966666666666667,
+    "neuroticism": 0.6133333333333333,
+    "agreeableness": 0.63,
+    "conscientiousness": 0.9433333333333334,
+    "openness": 0.9133333333333334
+  },
+  "pKm9lxa4cmg.000.mp4": {
+    "extraversion": 0.8059793333333333,
+    "neuroticism": 0.8040255833333333,
+    "agreeableness": 0.8389395833333334,
+    "conscientiousness": 0.8780651666666667,
+    "openness": 0.8676999999999999
+  },
+  "pOtWKOF07iU.005.mp4": {
+    "extraversion": 0.4533333333333333,
+    "neuroticism": 0.39999999999999997,
+    "agreeableness": 0.8133333333333334,
+    "conscientiousness": 0.5333333333333333,
+    "openness": 0.7233333333333333
+  },
+  "pQy4omHIf7o.005.mp4": {
+    "extraversion": 0.7666333333333334,
+    "neuroticism": 0.5411666666666667,
+    "agreeableness": 0.7812666666666667,
+    "conscientiousness": 0.8531666666666666,
+    "openness": 0.8246333333333333
+  },
+  "pT8nyxks1Q4.001.mp4": {
+    "extraversion": 0.41663333333333336,
+    "neuroticism": 0.7083,
+    "agreeableness": 0.9166333333333334,
+    "conscientiousness": 0.41663333333333336,
+    "openness": 0.7499666666666668
+  },
+  "pT8nyxks1Q4.002.mp4": {
+    "extraversion": 0.6764934945064808,
+    "neuroticism": 0.709677546895315,
+    "agreeableness": 0.8034017355801835,
+    "conscientiousness": 0.6711751668858003,
+    "openness": 0.7393597410667588
+  },
+  "pT8nyxks1Q4.003.mp4": {
+    "extraversion": 0.36000000000000004,
+    "neuroticism": 0.29666666666666663,
+    "agreeableness": 0.73,
+    "conscientiousness": 0.49333333333333335,
+    "openness": 0.85
+  },
+  "p_wf-KszNlk.001.mp4": {
+    "extraversion": 0.6,
+    "neuroticism": 0.5333333333333333,
+    "agreeableness": 0.6,
+    "conscientiousness": 0.6333333333333333,
+    "openness": 0.7333333333333334
+  },
+  "phjVMKGYBKs.002.mp4": {
+    "extraversion": 0.3133333333333333,
+    "neuroticism": 0.43333333333333335,
+    "agreeableness": 0.37333333333333335,
+    "conscientiousness": 0.8799999999999999,
+    "openness": 0.6033333333333334
+  },
+  "piNQPNAKzyU.004.mp4": {
+    "extraversion": 0.7233333333333333,
+    "neuroticism": 0.48,
+    "agreeableness": 0.6,
+    "conscientiousness": 0.93,
+    "openness": 0.6133333333333334
+  },
+  "plNPzKp2DFw.003.mp4": {
+    "extraversion": 0.65,
+    "neuroticism": 0.6,
+    "agreeableness": 0.65,
+    "conscientiousness": 0.6,
+    "openness": 0.6
+  },
+  "pru5ut4lxkQ.001.mp4": {
+    "extraversion": 0.7233333333333333,
+    "neuroticism": 0.49000000000000005,
+    "agreeableness": 0.6933333333333334,
+    "conscientiousness": 0.5633333333333334,
+    "openness": 0.6566666666666666
+  },
+  "pslp6X3OWy0.000.mp4": {
+    "extraversion": 0.6,
+    "neuroticism": 0.6499999999999999,
+    "agreeableness": 0.55,
+    "conscientiousness": 0.8,
+    "openness": 0.75
+  },
+  "puLXzqUvm_U.002.mp4": {
+    "extraversion": 0.7381734375,
+    "neuroticism": 0.5788541666666667,
+    "agreeableness": 0.8396354166666665,
+    "conscientiousness": 0.7243148148148149,
+    "openness": 0.6901041666666666
+  },
+  "pvvff396Rqg.001.mp4": {
+    "extraversion": 0.7733,
+    "neuroticism": 0.9155000000000001,
+    "agreeableness": 0.7426666666666666,
+    "conscientiousness": 0.46146666666666664,
+    "openness": 0.49446666666666667
+  },
+  "pzfDth6nFQE.001.mp4": {
+    "extraversion": 0.6736666666666666,
+    "neuroticism": 0.767,
+    "agreeableness": 0.6880000000000001,
+    "conscientiousness": 0.7256666666666667,
+    "openness": 0.7873333333333333
+  },
+  "qAisk1lgv2I.000.mp4": {
+    "extraversion": 0.9433333333333334,
+    "neuroticism": 0.7716666666666666,
+    "agreeableness": 0.7986666666666666,
+    "conscientiousness": 0.7233333333333333,
+    "openness": 0.932
+  },
+  "qFYgMFMal_s.004.mp4": {
+    "extraversion": 0.82,
+    "neuroticism": 0.83,
+    "agreeableness": 0.8566666666666668,
+    "conscientiousness": 0.7666666666666666,
+    "openness": 0.8433333333333333
+  },
+  "qLV1a_611kA.003.mp4": {
+    "extraversion": 0.4706666666666666,
+    "neuroticism": 0.8250000000000001,
+    "agreeableness": 0.6486666666666667,
+    "conscientiousness": 0.3086666666666667,
+    "openness": 0.6706666666666666
+  },
+  "qVcw5-mm31s.003.mp4": {
+    "extraversion": 0.48666666666666664,
+    "neuroticism": 0.4033333333333333,
+    "agreeableness": 0.48,
+    "conscientiousness": 0.5033333333333333,
+    "openness": 0.8633333333333333
+  },
+  "qVrXROy4Ais.002.mp4": {
+    "extraversion": 0.8033333333333333,
+    "neuroticism": 0.5266666666666667,
+    "agreeableness": 0.37666666666666665,
+    "conscientiousness": 0.4766666666666666,
+    "openness": 0.7566666666666667
+  },
+  "qoZwA4ESb7g.002.mp4": {
+    "extraversion": 0.45925925925925926,
+    "neuroticism": 0.3148148148148148,
+    "agreeableness": 0.4759259259259259,
+    "conscientiousness": 0.5407407407407407,
+    "openness": 0.4611111111111111
+  },
+  "qoztP0w5-Vo.002.mp4": {
+    "extraversion": 0.96,
+    "neuroticism": 0.9466666666666667,
+    "agreeableness": 0.9633333333333333,
+    "conscientiousness": 0.9433333333333334,
+    "openness": 0.895
+  },
+  "qtB-CogljAo.004.mp4": {
+    "extraversion": 0.545,
+    "neuroticism": 0.4046666666666667,
+    "agreeableness": 0.7456666666666667,
+    "conscientiousness": 0.7083333333333334,
+    "openness": 0.6146666666666667
+  },
+  "r2BoxB3kgYk.002.mp4": {
+    "extraversion": 0.44,
+    "neuroticism": 0.51,
+    "agreeableness": 0.5833333333333334,
+    "conscientiousness": 0.5599999999999999,
+    "openness": 0.6466666666666666
+  },
+  "r2HcJYjGK5s.000.mp4": {
+    "extraversion": 0.7879999999999999,
+    "neuroticism": 0.7183333333333333,
+    "agreeableness": 0.7050000000000001,
+    "conscientiousness": 0.7293333333333334,
+    "openness": 0.7516666666666666
+  },
+  "r93dLeVRk3U.000.mp4": {
+    "extraversion": 0.875,
+    "neuroticism": 0.4683333333333333,
+    "agreeableness": 0.6596666666666666,
+    "conscientiousness": 0.8216666666666667,
+    "openness": 0.3453333333333333
+  },
+  "rIRBEkDhn6Q.000.mp4": {
+    "extraversion": 0.4166666666666667,
+    "neuroticism": 0.5233333333333333,
+    "agreeableness": 0.5333333333333333,
+    "conscientiousness": 0.6,
+    "openness": 0.5866666666666667
+  },
+  "rJgbslC72gw.000.mp4": {
+    "extraversion": 0.406015411031649,
+    "neuroticism": 0.6978173151090653,
+    "agreeableness": 0.36057176793119045,
+    "conscientiousness": 0.4939600100796729,
+    "openness": 0.8049944842383465
+  },
+  "rWT8N_yjf60.000.mp4": {
+    "extraversion": 0.19999999999999998,
+    "neuroticism": 0.5666666666666667,
+    "agreeableness": 0.19999999999999998,
+    "conscientiousness": 0.6,
+    "openness": 0.5
+  },
+  "rY_bqkNUp9I.005.mp4": {
+    "extraversion": 0.6446163314570311,
+    "neuroticism": 0.46863671531468115,
+    "agreeableness": 0.732307818943717,
+    "conscientiousness": 0.7426515559330857,
+    "openness": 0.7245387248496368
+  },
+  "rjS0PIwS47M.002.mp4": {
+    "extraversion": 0.65,
+    "neuroticism": 0.73,
+    "agreeableness": 0.23666666666666666,
+    "conscientiousness": 0.3766666666666667,
+    "openness": 0.8766666666666666
+  },
+  "s-jZlMKQGwc.004.mp4": {
+    "extraversion": 0.5966666666666667,
+    "neuroticism": 0.5933333333333334,
+    "agreeableness": 0.51,
+    "conscientiousness": 0.61,
+    "openness": 0.5666666666666668
+  },
+  "sHVXhr7_EOs.005.mp4": {
+    "extraversion": 0.8166666666666668,
+    "neuroticism": 0.5877777777777777,
+    "agreeableness": 0.7000000000000001,
+    "conscientiousness": 0.71,
+    "openness": 0.7622222222222222
+  },
+  "sSR1a5XW7n4.004.mp4": {
+    "extraversion": 0.7866666666666665,
+    "neuroticism": 0.6419999999999999,
+    "agreeableness": 0.7269999999999999,
+    "conscientiousness": 0.8776666666666667,
+    "openness": 0.899
+  },
+  "sa1ZACqr15U.001.mp4": {
+    "extraversion": 0.6099333333333333,
+    "neuroticism": 0.3606,
+    "agreeableness": 0.5497,
+    "conscientiousness": 0.6555,
+    "openness": 0.6358
+  },
+  "scifP1EXSdo.000.mp4": {
+    "extraversion": 0.5042577151728044,
+    "neuroticism": 0.5356140586075652,
+    "agreeableness": 0.44758871220951124,
+    "conscientiousness": 0.41298386844430784,
+    "openness": 0.5889092965854693
+  },
+  "sf8TXpaKnt4.004.mp4": {
+    "extraversion": 0.6076666666666667,
+    "neuroticism": 0.5059999999999999,
+    "agreeableness": 0.5303333333333333,
+    "conscientiousness": 0.618,
+    "openness": 0.621
+  },
+  "siEnTktB4lQ.000.mp4": {
+    "extraversion": 0.9666666666666667,
+    "neuroticism": 0.7000000000000001,
+    "agreeableness": 0.9,
+    "conscientiousness": 0.8666666666666667,
+    "openness": 0.875
+  },
+  "si_gZCrLa4A.000.mp4": {
+    "extraversion": 0.6802235568902235,
+    "neuroticism": 0.4977777777777777,
+    "agreeableness": 0.6820854187520854,
+    "conscientiousness": 0.31427609427609426,
+    "openness": 0.7251515151515151
+  },
+  "simc6hmrUOE.001.mp4": {
+    "extraversion": 0.9705226460553357,
+    "neuroticism": 0.9770565587311685,
+    "agreeableness": 0.9668379353103577,
+    "conscientiousness": 0.955708489868741,
+    "openness": 0.9589238757625379
+  },
+  "simc6hmrUOE.004.mp4": {
+    "extraversion": 0.8333333333333334,
+    "neuroticism": 0.3333333333333333,
+    "agreeableness": 0.6666666666666666,
+    "conscientiousness": 0.3333333333333333,
+    "openness": 0.8333333333333334
+  },
+  "sntohi33U5s.002.mp4": {
+    "extraversion": 0.7200000000000001,
+    "neuroticism": 0.6666666666666666,
+    "agreeableness": 0.7166666666666667,
+    "conscientiousness": 0.7133333333333333,
+    "openness": 0.7166666666666667
+  },
+  "sqnW6xXYTKg.004.mp4": {
+    "extraversion": 0.9166666666666666,
+    "neuroticism": 0.9,
+    "agreeableness": 0.9033333333333333,
+    "conscientiousness": 0.9233333333333333,
+    "openness": 0.9233333333333332
+  },
+  "struoSVUsUg.003.mp4": {
+    "extraversion": 0.6299999800648677,
+    "neuroticism": 0.5133333301389365,
+    "agreeableness": 0.9633333282157465,
+    "conscientiousness": 0.586666654525118,
+    "openness": 0.9566666626930237
+  },
+  "syJo_sm8IqQ.001.mp4": {
+    "extraversion": 0.31666666666666665,
+    "neuroticism": 0.326,
+    "agreeableness": 0.6453333333333333,
+    "conscientiousness": 0.7823333333333333,
+    "openness": 0.5670000000000001
+  },
+  "syTTeox8Yaw.000.mp4": {
+    "extraversion": 0.3,
+    "neuroticism": 0.3,
+    "agreeableness": 0.39999999999999997,
+    "conscientiousness": 0.39999999999999997,
+    "openness": 0.43333333333333335
+  },
+  "syTTeox8Yaw.001.mp4": {
+    "extraversion": 0.6196666666666667,
+    "neuroticism": 0.7056666666666667,
+    "agreeableness": 0.5643333333333334,
+    "conscientiousness": 0.501,
+    "openness": 0.5316666666666666
+  },
+  "t30ERiF6b50.005.mp4": {
+    "extraversion": 0.715,
+    "neuroticism": 0.185,
+    "agreeableness": 0.6499999999999999,
+    "conscientiousness": 0.8500000000000001,
+    "openness": 0.87
+  },
+  "tYpxPqwle5k.000.mp4": {
+    "extraversion": 0.9500000000000001,
+    "neuroticism": 0.61,
+    "agreeableness": 0.9666666666666667,
+    "conscientiousness": 0.3,
+    "openness": 0.9633333333333334
+  },
+  "taSAaWKcmTw.003.mp4": {
+    "extraversion": 0.5866666666666667,
+    "neuroticism": 0.33,
+    "agreeableness": 0.5966666666666667,
+    "conscientiousness": 0.8766666666666666,
+    "openness": 0.9466666666666667
+  },
+  "tt-EaApaHx4.003.mp4": {
+    "extraversion": 0.29666666666666663,
+    "neuroticism": 0.40666666666666673,
+    "agreeableness": 0.6266666666666666,
+    "conscientiousness": 0.6433333333333334,
+    "openness": 0.8700000000000001
+  },
+  "tuuQmKxW3iU.000.mp4": {
+    "extraversion": 0.8366666666666666,
+    "neuroticism": 0.7866666666666666,
+    "agreeableness": 0.7733333333333334,
+    "conscientiousness": 0.82,
+    "openness": 0.8666666666666667
+  },
+  "txU8yE9d-4k.000.mp4": {
+    "extraversion": 0.93,
+    "neuroticism": 0.9233333333333333,
+    "agreeableness": 0.93,
+    "conscientiousness": 0.9433333333333334,
+    "openness": 0.9466666666666667
+  },
+  "uRY3aJAaogw.004.mp4": {
+    "extraversion": 0.97,
+    "neuroticism": 0.98,
+    "agreeableness": 0.99,
+    "conscientiousness": 0.98,
+    "openness": 0.98
+  },
+  "uStuc1OX0f0.001.mp4": {
+    "extraversion": 0.31666666666666665,
+    "neuroticism": 0.31666666666666665,
+    "agreeableness": 0.47000000000000003,
+    "conscientiousness": 0.37333333333333335,
+    "openness": 0.47333333333333333
+  },
+  "uStuc1OX0f0.002.mp4": {
+    "extraversion": 0.3,
+    "neuroticism": 0.39999999999999997,
+    "agreeableness": 0.26666666666666666,
+    "conscientiousness": 0.3,
+    "openness": 0.26666666666666666
+  },
+  "uYvDMWWq2Jw.003.mp4": {
+    "extraversion": 0.5,
+    "neuroticism": 0.5333333333333333,
+    "agreeableness": 0.6333333333333333,
+    "conscientiousness": 0.5333333333333333,
+    "openness": 0.6666666666666666
+  },
+  "u_qvbRpm88k.000.mp4": {
+    "extraversion": 0.48666666666666664,
+    "neuroticism": 0.45,
+    "agreeableness": 0.3,
+    "conscientiousness": 0.6566666666666666,
+    "openness": 0.27
+  },
+  "uifW-cV-iQo.000.mp4": {
+    "extraversion": 0.6766666666666666,
+    "neuroticism": 0.6066666666666667,
+    "agreeableness": 0.8033333333333333,
+    "conscientiousness": 0.91,
+    "openness": 0.8116666666666666
+  },
+  "ujC_Fik6sBE.000.mp4": {
+    "extraversion": 0.6836946766666667,
+    "neuroticism": 0.5192371833333334,
+    "agreeableness": 0.6915370200000001,
+    "conscientiousness": 0.7673997833333334,
+    "openness": 0.77628292
+  },
+  "unfkD5YNaDg.003.mp4": {
+    "extraversion": 0.5505,
+    "neuroticism": 0.45699999999999996,
+    "agreeableness": 0.623,
+    "conscientiousness": 0.802,
+    "openness": 0.7845
+  },
+  "upgv7xmOb1I.000.mp4": {
+    "extraversion": 0.9575164774355468,
+    "neuroticism": 0.9660156249999999,
+    "agreeableness": 0.989383924293174,
+    "conscientiousness": 0.9527777777777778,
+    "openness": 0.9794238683127571
+  },
+  "usG6pVxbQkw.003.mp4": {
+    "extraversion": 0.37955,
+    "neuroticism": 0.31295,
+    "agreeableness": 0.4043,
+    "conscientiousness": 0.25739999999999996,
+    "openness": 0.3326
+  },
+  "vA1ytZ6QR5c.002.mp4": {
+    "extraversion": 0.645,
+    "neuroticism": 0.435,
+    "agreeableness": 0.955,
+    "conscientiousness": 0.76,
+    "openness": 0.8300000000000001
+  },
+  "vCV-5LypZCs.000.mp4": {
+    "extraversion": 0.43533333333333335,
+    "neuroticism": 0.791,
+    "agreeableness": 0.472,
+    "conscientiousness": 0.432,
+    "openness": 0.8252223333333334
+  },
+  "vCY4uvfrWXA.000.mp4": {
+    "extraversion": 0.4666666666666666,
+    "neuroticism": 0.3666666666666667,
+    "agreeableness": 0.3333333333333333,
+    "conscientiousness": 0.5,
+    "openness": 0.5333333333333333
+  },
+  "vE9XgQL7DGE.000.mp4": {
+    "extraversion": 0.6166666666666667,
+    "neuroticism": 0.3833333333333333,
+    "agreeableness": 0.6633333333333334,
+    "conscientiousness": 0.61,
+    "openness": 0.6566666666666667
+  },
+  "vLAHfIjmRMc.000.mp4": {
+    "extraversion": 0.5,
+    "neuroticism": 0.5666666666666668,
+    "agreeableness": 0.3666666666666667,
+    "conscientiousness": 0.43333333333333335,
+    "openness": 0.5
+  },
+  "vLAHfIjmRMc.002.mp4": {
+    "extraversion": 0.6633333333333333,
+    "neuroticism": 0.7633333333333333,
+    "agreeableness": 0.6633333333333333,
+    "conscientiousness": 0.7733333333333334,
+    "openness": 0.7566666666666667
+  },
+  "vOEQlAMABWM.004.mp4": {
+    "extraversion": 0.7664333333333332,
+    "neuroticism": 0.7331,
+    "agreeableness": 0.7997666666666667,
+    "conscientiousness": 0.7664333333333332,
+    "openness": 0.84965
+  },
+  "vQEZ5KF9I4E.000.mp4": {
+    "extraversion": 0.5823333333333333,
+    "neuroticism": 0.6276666666666667,
+    "agreeableness": 0.6473333333333334,
+    "conscientiousness": 0.6376666666666666,
+    "openness": 0.8026666666666668
+  },
+  "vQEZ5KF9I4E.001.mp4": {
+    "extraversion": 0.4316333333333333,
+    "neuroticism": 0.36506666666666665,
+    "agreeableness": 0.6174333333333334,
+    "conscientiousness": 0.5622333333333334,
+    "openness": 0.4203666666666666
+  },
+  "vZPLbzF0aSg.002.mp4": {
+    "extraversion": 0.26666666666666666,
+    "neuroticism": 0.13333333333333333,
+    "agreeableness": 0.35000000000000003,
+    "conscientiousness": 0.58,
+    "openness": 0.19999999999999998
+  },
+  "voB6O-ky9cA.001.mp4": {
+    "extraversion": 0.5333333333333333,
+    "neuroticism": 0.6166666666666667,
+    "agreeableness": 0.7033333333333333,
+    "conscientiousness": 0.5933333333333334,
+    "openness": 0.48
+  },
+  "voB6O-ky9cA.002.mp4": {
+    "extraversion": 0.6709999999999999,
+    "neuroticism": 0.6053333333333333,
+    "agreeableness": 0.5813333333333333,
+    "conscientiousness": 0.56,
+    "openness": 0.5990000000000001
+  },
+  "voSLxKtKr0Q.001.mp4": {
+    "extraversion": 1.9744388888888889,
+    "neuroticism": 0.8664309764309764,
+    "agreeableness": 0.8946851851851852,
+    "conscientiousness": 1.25019,
+    "openness": 1.951851851851852
+  },
+  "vzttwG7SKZ8.002.mp4": {
+    "extraversion": 0.5099999999999999,
+    "neuroticism": 0.49000000000000005,
+    "agreeableness": 0.59,
+    "conscientiousness": 0.6066666666666667,
+    "openness": 0.7466666666666666
+  },
+  "w4cZStXMUII.004.mp4": {
+    "extraversion": 0.5153,
+    "neuroticism": 0.4724,
+    "agreeableness": 0.5137333333333333,
+    "conscientiousness": 0.8484333333333334,
+    "openness": 0.43999999999999995
+  },
+  "w4cZStXMUII.005.mp4": {
+    "extraversion": 0.5781333333333333,
+    "neuroticism": 0.7518666666666668,
+    "agreeableness": 0.5941666666666666,
+    "conscientiousness": 0.9491333333333333,
+    "openness": 0.8874
+  },
+  "w7O2QJu2Wl4.003.mp4": {
+    "extraversion": 0.47800000000000004,
+    "neuroticism": 0.37533333333333335,
+    "agreeableness": 0.4613333333333333,
+    "conscientiousness": 0.5496666666666666,
+    "openness": 0.4613333333333333
+  },
+  "wBSf7anTC_g.002.mp4": {
+    "extraversion": 0.5916666666666667,
+    "neuroticism": 0.255,
+    "agreeableness": 0.5966666666666667,
+    "conscientiousness": 0.26166666666666666,
+    "openness": 0.5983333333333333
+  },
+  "wJl7DbsbrDA.003.mp4": {
+    "extraversion": 0.8000000000000002,
+    "neuroticism": 0.43333333333333335,
+    "agreeableness": 0.7333333333333334,
+    "conscientiousness": 0.5766666666666667,
+    "openness": 0.5666666666666667
+  },
+  "wKBObhJXCSQ.000.mp4": {
+    "extraversion": 0.7166666666666667,
+    "neuroticism": 0.4166666666666667,
+    "agreeableness": 0.7166666666666667,
+    "conscientiousness": 0.65,
+    "openness": 0.5566666666666666
+  },
+  "wTo1uZns2X8.002.mp4": {
+    "extraversion": 0.7833333333333333,
+    "neuroticism": 0.7333333333333334,
+    "agreeableness": 0.7166666666666667,
+    "conscientiousness": 0.66,
+    "openness": 0.7533333333333333
+  },
+  "wTo1uZns2X8.004.mp4": {
+    "extraversion": 0.7263219071740407,
+    "neuroticism": 0.4890910295855894,
+    "agreeableness": 0.529539517812848,
+    "conscientiousness": 0.4713339399270528,
+    "openness": 0.7799391829534107
+  },
+  "wVpjBxCirAQ.002.mp4": {
+    "extraversion": 0.27424,
+    "neuroticism": 0.5525066666666666,
+    "agreeableness": 0.5883366666666667,
+    "conscientiousness": 0.32331666666666664,
+    "openness": 0.6307633333333333
+  },
+  "wXLL0teBlvs.002.mp4": {
+    "extraversion": 0.6,
+    "neuroticism": 0.5333333333333333,
+    "agreeableness": 0.6,
+    "conscientiousness": 0.3,
+    "openness": 0.9666666666666667
+  },
+  "wYixHjntI-4.000.mp4": {
+    "extraversion": 0.883,
+    "neuroticism": 0.9585,
+    "agreeableness": 0.987,
+    "conscientiousness": 0.921,
+    "openness": 0.961
+  },
+  "w_ExyXsnw2A.005.mp4": {
+    "extraversion": 0.65453869,
+    "neuroticism": 0.5,
+    "agreeableness": 0.30555477666666664,
+    "conscientiousness": 0.2565972216666667,
+    "openness": 0.6597222216666666
+  },
+  "wp59eOvygp0.000.mp4": {
+    "extraversion": 0.5181,
+    "neuroticism": 0.10586666666666666,
+    "agreeableness": 0.5196666666666667,
+    "conscientiousness": 0.7918,
+    "openness": 0.8474
+  },
+  "wzCdM6Fe_4A.000.mp4": {
+    "extraversion": 0.9,
+    "neuroticism": 0.7333333333333334,
+    "agreeableness": 0.5666666666666667,
+    "conscientiousness": 0.8666666666666667,
+    "openness": 0.8333333333333334
+  },
+  "wzCdM6Fe_4A.002.mp4": {
+    "extraversion": 0.6166666666666667,
+    "neuroticism": 0.6233333333333334,
+    "agreeableness": 0.29333333333333333,
+    "conscientiousness": 0.30333333333333334,
+    "openness": 0.64
+  },
+  "x0mD5kr2hu4.003.mp4": {
+    "extraversion": 0.6437416666666667,
+    "neuroticism": 0.6146106666666666,
+    "agreeableness": 0.6449633333333333,
+    "conscientiousness": 0.9831106666666667,
+    "openness": 0.6461843333333334
+  },
+  "x0mD5kr2hu4.005.mp4": {
+    "extraversion": 0.8243333333333333,
+    "neuroticism": 0.7466666666666666,
+    "agreeableness": 0.7743333333333333,
+    "conscientiousness": 0.7816666666666666,
+    "openness": 0.8410000000000001
+  },
+  "xEmwNv4OxGE.003.mp4": {
+    "extraversion": 0.6734444444333333,
+    "neuroticism": 0.3633333333666666,
+    "agreeableness": 0.6622222222333333,
+    "conscientiousness": 0.6134074074,
+    "openness": 0.7412962962999999
+  },
+  "xGo_wImhwkQ.004.mp4": {
+    "extraversion": 0.9966666666666667,
+    "neuroticism": 1.33,
+    "agreeableness": 0.9966666666666667,
+    "conscientiousness": 0.9966666666666667,
+    "openness": 1.0
+  },
+  "xRhUBifOWiI.005.mp4": {
+    "extraversion": 0.42,
+    "neuroticism": 0.4066666666666667,
+    "agreeableness": 0.4666666666666666,
+    "conscientiousness": 0.4366666666666667,
+    "openness": 0.5433333333333333
+  },
+  "xVJDjbiIjTo.005.mp4": {
+    "extraversion": 0.308,
+    "neuroticism": 0.24833333333333332,
+    "agreeableness": 0.4546666666666667,
+    "conscientiousness": 0.3296666666666667,
+    "openness": 0.4676666666666667
+  },
+  "xfMOELCuN94.005.mp4": {
+    "extraversion": 0.6933333333333334,
+    "neuroticism": 0.47666666666666674,
+    "agreeableness": 0.6266666666666666,
+    "conscientiousness": 0.7166666666666668,
+    "openness": 0.8233333333333333
+  },
+  "xmaC2XOhPaE.000.mp4": {
+    "extraversion": 0.6029687499999999,
+    "neuroticism": 0.5008333333333334,
+    "agreeableness": 0.6042857142857142,
+    "conscientiousness": 0.7533333333333334,
+    "openness": 0.6680701754385966
+  },
+  "xq0-QVHxp-Q.003.mp4": {
+    "extraversion": 0.6133333333333333,
+    "neuroticism": 0.6066666666666667,
+    "agreeableness": 0.7200000000000001,
+    "conscientiousness": 0.7666666666666666,
+    "openness": 0.7133333333333334
+  },
+  "xq0-QVHxp-Q.005.mp4": {
+    "extraversion": 0.9166666666666666,
+    "neuroticism": 0.5366666666666666,
+    "agreeableness": 0.8533333333333334,
+    "conscientiousness": 0.9066666666666666,
+    "openness": 0.9266666666666667
+  },
+  "xsDABUrvs6w.004.mp4": {
+    "extraversion": 0.8333333333333334,
+    "neuroticism": 0.7666666666666666,
+    "agreeableness": 0.75,
+    "conscientiousness": 0.8133333333333334,
+    "openness": 0.885
+  },
+  "xsDABUrvs6w.005.mp4": {
+    "extraversion": 0.19999999999999998,
+    "neuroticism": 0.5833333333333334,
+    "agreeableness": 0.6333333333333333,
+    "conscientiousness": 0.5833333333333334,
+    "openness": 0.9500000000000001
+  },
+  "xtDw9TlWiww.003.mp4": {
+    "extraversion": 0.6666666666666666,
+    "neuroticism": 0.39999999999999997,
+    "agreeableness": 0.6,
+    "conscientiousness": 0.6833333333333332,
+    "openness": 0.6666666666666666
+  },
+  "xun35caJTQI.001.mp4": {
+    "extraversion": 0.21031916449431828,
+    "neuroticism": 0.2808672062159633,
+    "agreeableness": 0.470653383539531,
+    "conscientiousness": 0.5352830713889748,
+    "openness": 0.47071867635461134
+  },
+  "y3_71Wpt9eA.003.mp4": {
+    "extraversion": 0.6141666666666666,
+    "neuroticism": 0.5499999999999999,
+    "agreeableness": 0.5933333333333334,
+    "conscientiousness": 0.7308333333333333,
+    "openness": 0.6675
+  },
+  "y9nS5DkAInI.001.mp4": {
+    "extraversion": 0.8713333333333333,
+    "neuroticism": 0.69,
+    "agreeableness": 0.8923333333333333,
+    "conscientiousness": 0.8826666666666667,
+    "openness": 0.89
+  },
+  "yEY_2BYZhnQ.001.mp4": {
+    "extraversion": 0.5136,
+    "neuroticism": 0.5495333333333333,
+    "agreeableness": 0.5038333333333334,
+    "conscientiousness": 0.5590333333333334,
+    "openness": 0.4999
+  },
+  "yHwuRYr5lxk.002.mp4": {
+    "extraversion": 0.6066666666666667,
+    "neuroticism": 0.54,
+    "agreeableness": 0.6033333333333334,
+    "conscientiousness": 0.6833333333333332,
+    "openness": 0.6866666666666666
+  },
+  "yIM5bal1VVs.001.mp4": {
+    "extraversion": 0.7233333333333333,
+    "neuroticism": 0.6133333333333333,
+    "agreeableness": 0.7566666666666665,
+    "conscientiousness": 0.8099999999999999,
+    "openness": 0.77
+  },
+  "yIM5bal1VVs.002.mp4": {
+    "extraversion": 0.20108651517633583,
+    "neuroticism": 0.48614857214773083,
+    "agreeableness": 0.6462824031961474,
+    "conscientiousness": 0.726020865299116,
+    "openness": 0.6148345208295166
+  },
+  "yIe7Rp54-bU.003.mp4": {
+    "extraversion": 0.8500000000000001,
+    "neuroticism": 0.45,
+    "agreeableness": 0.8,
+    "conscientiousness": 0.8500000000000001,
+    "openness": 0.95
+  },
+  "yRVvI1x2DBI.001.mp4": {
+    "extraversion": 0.611111111111111,
+    "neuroticism": 0.6578888888888889,
+    "agreeableness": 0.5875,
+    "conscientiousness": 0.7087619047619048,
+    "openness": 0.8397777777777776
+  },
+  "ySEeioc339E.000.mp4": {
+    "extraversion": 0.3666666666666667,
+    "neuroticism": 0.39999999999999997,
+    "agreeableness": 0.39999999999999997,
+    "conscientiousness": 0.5166666666666667,
+    "openness": 0.8333333333333334
+  },
+  "ya8Ec_yTai8.000.mp4": {
+    "extraversion": 0.6341961702520527,
+    "neuroticism": 0.6110970222707393,
+    "agreeableness": 0.5480988098809881,
+    "conscientiousness": 0.7313269998126413,
+    "openness": 0.641018168949112
+  },
+  "yftfxiDNXko.003.mp4": {
+    "extraversion": 0.6333333333333333,
+    "neuroticism": 0.65,
+    "agreeableness": 0.57,
+    "conscientiousness": 0.6233333333333333,
+    "openness": 0.7466666666666667
+  },
+  "yftfxiDNXko.005.mp4": {
+    "extraversion": 0.5183333333333334,
+    "neuroticism": 0.351,
+    "agreeableness": 0.6013333333333333,
+    "conscientiousness": 0.5686666666666667,
+    "openness": 0.8943333333333333
+  },
+  "ygUEI08LgcM.005.mp4": {
+    "extraversion": 0.31333333333333335,
+    "neuroticism": 0.21333333333333335,
+    "agreeableness": 0.49333333333333335,
+    "conscientiousness": 0.5466666666666666,
+    "openness": 0.6333333333333333
+  },
+  "yw-2AGeAjFc.000.mp4": {
+    "extraversion": 0.9139666666666667,
+    "neuroticism": 0.8989333333333334,
+    "agreeableness": 0.9190999999999999,
+    "conscientiousness": 0.9413666666666667,
+    "openness": 0.9232666666666667
+  },
+  "yyqXzlF8Fgc.004.mp4": {
+    "extraversion": 0.9166666666666666,
+    "neuroticism": 0.36000000000000004,
+    "agreeableness": 0.64,
+    "conscientiousness": 0.5333333333333333,
+    "openness": 0.65
+  },
+  "z0v9LukQRHU.002.mp4": {
+    "extraversion": 0.3333333333333333,
+    "neuroticism": 0.4166666666666667,
+    "agreeableness": 0.15,
+    "conscientiousness": 0.4166666666666667,
+    "openness": 0.45
+  },
+  "z0v9LukQRHU.003.mp4": {
+    "extraversion": 0.21666666666666665,
+    "neuroticism": 0.11666666666666665,
+    "agreeableness": 0.5499999999999999,
+    "conscientiousness": 0.25,
+    "openness": 0.6966666666666667
+  },
+  "z1q3ktuRdII.004.mp4": {
+    "extraversion": 0.6333333333333333,
+    "neuroticism": 0.6566666666666666,
+    "agreeableness": 0.7433333333333333,
+    "conscientiousness": 0.7999999999999999,
+    "openness": 0.8166666666666668
+  },
+  "z6E5hLYhaZk.000.mp4": {
+    "extraversion": 0.21666666666666667,
+    "neuroticism": 0.4666666666666666,
+    "agreeableness": 0.9,
+    "conscientiousness": 0.6,
+    "openness": 0.9166666666666666
+  },
+  "zMXfMcqpPwQ.003.mp4": {
+    "extraversion": 0.43333333333333335,
+    "neuroticism": 0.4000000000000001,
+    "agreeableness": 0.4833333333333334,
+    "conscientiousness": 0.5499999999999999,
+    "openness": 0.3
+  },
+  "zMXfMcqpPwQ.004.mp4": {
+    "extraversion": 0.652595,
+    "neuroticism": 0.65227,
+    "agreeableness": 0.65227,
+    "conscientiousness": 0.652595,
+    "openness": 0.6594166666666667
+  },
+  "zNmuwZkaeVg.004.mp4": {
+    "extraversion": 0.75,
+    "neuroticism": 0.42333333333333334,
+    "agreeableness": 0.5766666666666667,
+    "conscientiousness": 0.54,
+    "openness": 0.94
+  },
+  "zWetcoNHgrQ.001.mp4": {
+    "extraversion": 0.5684333333333333,
+    "neuroticism": 0.5496333333333333,
+    "agreeableness": 0.7564333333333333,
+    "conscientiousness": 0.6433333333333333,
+    "openness": 0.7332
+  },
+  "zwO2zBdbCb4.004.mp4": {
+    "extraversion": 0.5980333333333333,
+    "neuroticism": 0.8776333333333334,
+    "agreeableness": 0.6547999999999999,
+    "conscientiousness": 0.3506666666666667,
+    "openness": 0.6938000000000001
+  },
+  "zyGz_H1UTnQ.000.mp4": {
+    "extraversion": 0.7633333333333333,
+    "neuroticism": 0.8300000000000001,
+    "agreeableness": 0.7633333333333333,
+    "conscientiousness": 0.8633333333333333,
+    "openness": 0.8333333333333334
+  }
+}
